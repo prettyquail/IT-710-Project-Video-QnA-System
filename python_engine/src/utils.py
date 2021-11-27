@@ -2,6 +2,7 @@ import webvtt
 import requests
 import youtube_dl
 from typing import List, Dict
+from urllib.parse import urlparse
 
 
 def get_transcript_yt(url: str) -> Dict:
@@ -103,6 +104,23 @@ def search_transcript(target: str, vtt_path: str) -> List[int]:
         if target in caption.text
     ]
     return timestamps
+
+
+def get_video_id(value):
+
+    query = urlparse(value)
+    if query.hostname == "youtu.be":
+        return query.path[1:]
+    if query.hostname in ("www.youtube.com", "youtube.com"):
+        if query.path == "/watch":
+            p = parse_qs(query.query)
+            return p["v"][0]
+        if query.path[:7] == "/embed/":
+            return query.path.split("/")[2]
+        if query.path[:3] == "/v/":
+            return query.path.split("/")[2]
+
+    return None
 
 
 # TODO: Remove the block below
