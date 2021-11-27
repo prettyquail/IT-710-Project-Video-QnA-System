@@ -7,6 +7,11 @@ from python_engine.src import (
     get_video_id,
 )
 
+
+model = TransformerQnAModel(
+    {"model_name": "distilbert-base-uncased-distilled-squad", "pre_trained": True}
+)
+
 # Create your views here.
 def home(request):
     URL = request.GET.get("URL")
@@ -14,8 +19,13 @@ def home(request):
     if URL:
         with open("subs.vtt", "w+") as vtt_file:
             vtt_file.write(get_transcript_yt(URL)["subtitles"])
+    corpus = vtt_to_corpus("subs.vtt")
     question = request.GET.get("ques")
     print("question=", question)
+    if question:
+        answer = model.get_answer(corpus, question)
+        print("*" * 32, answer, "*" * 32)
+
     video_id = get_video_id(URL)
     url = "https://www.youtube.com/embed/" + (video_id if video_id else "HcqpanDadyQ")
     print(url)
