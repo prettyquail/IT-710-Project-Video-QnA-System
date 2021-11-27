@@ -1,0 +1,3 @@
+.venv
+.vscode
+python-engine/src/__pycache__
