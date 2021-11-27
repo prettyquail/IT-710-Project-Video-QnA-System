@@ -29,4 +29,6 @@ def home(request):
     video_id = get_video_id(URL)
     url = "https://www.youtube.com/embed/" + (video_id if video_id else "HcqpanDadyQ")
     print(url)
+    timestamps = search_transcript(answer, "subs.vtt")
+    url += f"?t={timestamps[0]}"
     return render(request, "home.html", {"url": url})
