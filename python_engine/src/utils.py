@@ -2,7 +2,7 @@ import webvtt
 import requests
 import youtube_dl
 from typing import List, Dict
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 
 
 def get_transcript_yt(url: str) -> Dict:

@@ -334,7 +334,7 @@
       <h1>What's your Question?</h1>
       <p>Fill in all informations</p>
     </header>
-    <form action="" id="task-form">
+    <form action="" id="task-form" method="POST">
       {% csrf_token %}
       <div class="input-section email-section">
         <input class="email" type="text" name="ques" id="ques" placeholder="ENTER YOUR QUESTION HERE"
@@ -345,19 +345,19 @@
           </span>
         </div>
       </div>
-      <div class="input-section password-section folded">
-        <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />
-        <div class="animated-button"><span class="icon-lock"><i class="fa fa-lock"></i></span><span
-            class="next-button password"><i class="fa fa-arrow-up"></i></span></div>
-      </div>
-      <div class="input-section repeat-password-section folded">
-        <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />
-        <div class="animated-button"><span class="icon-repeat-lock"><i class="fa fa-lock"></i></span><span
-            class="next-button repeat-password"><i class="fa fa-paper-plane"></i></span></div>
-      </div>
-      <div class="success">
-        <p>ACCOUNT CREATED</p>
-      </div>
+<!--      <div class="input-section password-section folded">-->
+<!--        <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button password"><i class="fa fa-arrow-up"></i></span></div>-->
+<!--      </div>-->
+<!--      <div class="input-section repeat-password-section folded">-->
+<!--        <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-repeat-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button repeat-password"><i class="fa fa-paper-plane"></i></span></div>-->
+<!--      </div>-->
+<!--      <div class="success">-->
+<!--        <p>ACCOUNT CREATED</p>-->
+<!--      </div>-->
     </form>
   </div>
 
@@ -382,6 +382,29 @@
 
 </script>
 
+
+
+
+<script type="text/javascript">
+  $(document).on('submit','#task-form',function(e){
+    e.preventDefault();
+
+    $.ajax({
+      type:'POST',
+      url:'home',
+      data:{
+        ques:$('#ques').val(),
+        console.log("----------------"+ques),
+      },
+      success.function(){
+        alert("Your answer");
+      }
+
+    });
+
+  });
+
+</script>
 
 
 

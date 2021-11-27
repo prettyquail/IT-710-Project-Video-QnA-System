@@ -22,7 +22,7 @@ def home(request):
     URL = request.GET.get("URL")
     print("URL=", URL)
     answer=None
-    question = request.GET.get("ques")
+    question = request.POST.get("ques")
     if URL:
         with open("subs.vtt", "w+") as vtt_file:
             vtt_file.write(get_transcript_yt(URL)["subtitles"])
