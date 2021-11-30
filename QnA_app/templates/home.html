@@ -2,6 +2,16 @@
 <html>
 
 <head>
+
+
+
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
+
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Bootstrap CSS -->
@@ -288,12 +298,12 @@
 <body style="font-family: 'Open Sans', sans-serif;">
   <center>
     <div class="rec">
-      <form action="">
+      <form id="post-form" action="" method="GET">
         {% csrf_token %}
-        <input class="form-rounded" type="text" name="URL">
+        <input class="form-rounded" type="text" id="URL" name="URL">
         <input class="button4" type="submit" name="Load Video" value="Load Video">
       </form>
-      <div style="float:left;height:10px;width:50%">
+        <div style="float:left;height:10px;width:50%">
         <h1 style="color: white;font-size:65px;font-weight: bold;width:80%">Video QnA System</h1>
         <h2 style="font-weight: bold;font-size:30px;width:100%;">A simple tool to make searching through videos easy
         </h2>
@@ -324,7 +334,7 @@
       <h1>What's your Question?</h1>
       <p>Fill in all informations</p>
     </header>
-    <form action="" id="task-form">
+    <form action="" id="task-form" method="POST">
       {% csrf_token %}
       <div class="input-section email-section">
         <input class="email" type="text" name="ques" id="ques" placeholder="ENTER YOUR QUESTION HERE"
@@ -335,39 +345,80 @@
           </span>
         </div>
       </div>
-      <div class="input-section password-section folded">
-        <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />
-        <div class="animated-button"><span class="icon-lock"><i class="fa fa-lock"></i></span><span
-            class="next-button password"><i class="fa fa-arrow-up"></i></span></div>
-      </div>
-      <div class="input-section repeat-password-section folded">
-        <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />
-        <div class="animated-button"><span class="icon-repeat-lock"><i class="fa fa-lock"></i></span><span
-            class="next-button repeat-password"><i class="fa fa-paper-plane"></i></span></div>
-      </div>
-      <div class="success">
-        <p>ACCOUNT CREATED</p>
-      </div>
+<!--      <div class="input-section password-section folded">-->
+<!--        <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button password"><i class="fa fa-arrow-up"></i></span></div>-->
+<!--      </div>-->
+<!--      <div class="input-section repeat-password-section folded">-->
+<!--        <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-repeat-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button repeat-password"><i class="fa fa-paper-plane"></i></span></div>-->
+<!--      </div>-->
+<!--      <div class="success">-->
+<!--        <p>ACCOUNT CREATED</p>-->
+<!--      </div>-->
     </form>
   </div>
 
 
-
-
-
-
-
-
-  <script type="text/javascript">
-
-    $('#form').submit(function (e) {
-      $.post('/url/', $(this).serialize(), function (data) { ...
-        $('.message').html(data.message);
-      // of course you can do something more fancy with your respone
-    });
+<script type="text/javascript">
+  $(document).on('submit','#post-form',function(e){
     e.preventDefault();
-});
-  </script>
+
+    $.ajax({
+      type:'GET',
+      url:'home',
+      data:{
+        URL:$('#URL').val(),
+      },
+      success.function(){
+        alert("Your answer");
+      }
+
+    });
+
+  });
+
+</script>
+
+
+
+
+<script type="text/javascript">
+  $(document).on('submit','#task-form',function(e){
+    e.preventDefault();
+
+    $.ajax({
+      type:'POST',
+      url:'home',
+      data:{
+        ques:$('#ques').val(),
+        console.log("----------------"+ques),
+      },
+      success.function(){
+        alert("Your answer");
+      }
+
+    });
+
+  });
+
+</script>
+
+
+
+
+<!--  <script type="text/javascript">-->
+
+<!--    $('#form').submit(function (e) {-->
+<!--      $.post('/url/', $(this).serialize(), function (data) { ...-->
+<!--        $('.message').html(data.message);-->
+<!--      // of course you can do something more fancy with your respone-->
+<!--    });-->
+<!--    e.preventDefault();-->
+<!--});-->
+<!--  </script>-->
 
 
 

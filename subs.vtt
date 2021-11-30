@@ -1,0 +1,4064 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:01.250 align:start position:0%
+ 
+in<00:00:00.329><c> the</c><00:00:00.450><c> previous</c><00:00:00.690><c> video</c><00:00:00.989><c> we</c><00:00:01.110><c> have</c><00:00:01.230><c> discussed</c>
+
+00:00:01.250 --> 00:00:01.260 align:start position:0%
+in the previous video we have discussed
+ 
+
+00:00:01.260 --> 00:00:03.679 align:start position:0%
+in the previous video we have discussed
+what<00:00:02.010><c> is</c><00:00:02.190><c> first</c><00:00:02.520><c> normal</c><00:00:03.149><c> form</c><00:00:03.360><c> and</c><00:00:03.600><c> how</c>
+
+00:00:03.679 --> 00:00:03.689 align:start position:0%
+what is first normal form and how
+ 
+
+00:00:03.689 --> 00:00:06.320 align:start position:0%
+what is first normal form and how
+identify<00:00:04.290><c> that</c><00:00:04.620><c> I</c><00:00:04.680><c> given</c><00:00:05.100><c> table</c><00:00:05.850><c> is</c><00:00:05.940><c> in</c><00:00:06.060><c> first</c>
+
+00:00:06.320 --> 00:00:06.330 align:start position:0%
+identify that I given table is in first
+ 
+
+00:00:06.330 --> 00:00:09.290 align:start position:0%
+identify that I given table is in first
+normal<00:00:06.660><c> form</c><00:00:07.020><c> or</c><00:00:07.230><c> not</c><00:00:07.259><c> right</c><00:00:08.090><c> basically</c><00:00:09.090><c> we</c>
+
+00:00:09.290 --> 00:00:09.300 align:start position:0%
+normal form or not right basically we
+ 
+
+00:00:09.300 --> 00:00:11.870 align:start position:0%
+normal form or not right basically we
+have<00:00:09.389><c> discussed</c><00:00:09.840><c> all</c><00:00:10.080><c> the</c><00:00:10.500><c> four</c><00:00:10.740><c> rules</c><00:00:11.130><c> for</c><00:00:11.849><c> a</c>
+
+00:00:11.870 --> 00:00:11.880 align:start position:0%
+have discussed all the four rules for a
+ 
+
+00:00:11.880 --> 00:00:14.509 align:start position:0%
+have discussed all the four rules for a
+relation<00:00:12.480><c> to</c><00:00:12.929><c> be</c><00:00:13.080><c> in</c><00:00:13.139><c> first</c><00:00:13.500><c> normal</c><00:00:14.099><c> form</c><00:00:14.309><c> all</c>
+
+00:00:14.509 --> 00:00:14.519 align:start position:0%
+relation to be in first normal form all
+ 
+
+00:00:14.519 --> 00:00:16.880 align:start position:0%
+relation to be in first normal form all
+the<00:00:14.730><c> four</c><00:00:14.910><c> important</c><00:00:15.450><c> rules</c><00:00:15.630><c> right</c><00:00:16.139><c> and</c><00:00:16.470><c> I</c>
+
+00:00:16.880 --> 00:00:16.890 align:start position:0%
+the four important rules right and I
+ 
+
+00:00:16.890 --> 00:00:19.730 align:start position:0%
+the four important rules right and I
+have<00:00:17.039><c> already</c><00:00:17.369><c> told</c><00:00:17.520><c> you</c><00:00:17.730><c> that</c><00:00:18.439><c> if</c><00:00:19.439><c> they'll</c>
+
+00:00:19.730 --> 00:00:19.740 align:start position:0%
+have already told you that if they'll
+ 
+
+00:00:19.740 --> 00:00:20.960 align:start position:0%
+have already told you that if they'll
+give<00:00:19.980><c> you</c><00:00:20.039><c> a</c><00:00:20.130><c> relational</c><00:00:20.580><c> schema</c><00:00:20.880><c> or</c>
+
+00:00:20.960 --> 00:00:20.970 align:start position:0%
+give you a relational schema or
+ 
+
+00:00:20.970 --> 00:00:22.820 align:start position:0%
+give you a relational schema or
+something<00:00:21.270><c> like</c><00:00:21.359><c> this</c><00:00:21.650><c> relation</c><00:00:22.650><c> is</c><00:00:22.740><c> given</c>
+
+00:00:22.820 --> 00:00:22.830 align:start position:0%
+something like this relation is given
+ 
+
+00:00:22.830 --> 00:00:24.529 align:start position:0%
+something like this relation is given
+having<00:00:23.340><c> these</c><00:00:23.460><c> attributes</c><00:00:24.000><c> and</c><00:00:24.119><c> functional</c>
+
+00:00:24.529 --> 00:00:24.539 align:start position:0%
+having these attributes and functional
+ 
+
+00:00:24.539 --> 00:00:26.689 align:start position:0%
+having these attributes and functional
+dependencies<00:00:25.109><c> are</c><00:00:25.350><c> given</c><00:00:25.680><c> right</c><00:00:26.099><c> then</c>
+
+00:00:26.689 --> 00:00:26.699 align:start position:0%
+dependencies are given right then
+ 
+
+00:00:26.699 --> 00:00:29.060 align:start position:0%
+dependencies are given right then
+obviously<00:00:26.939><c> that</c><00:00:27.330><c> schema</c><00:00:28.289><c> would</c><00:00:28.500><c> be</c><00:00:28.680><c> in</c><00:00:28.769><c> first</c>
+
+00:00:29.060 --> 00:00:29.070 align:start position:0%
+obviously that schema would be in first
+ 
+
+00:00:29.070 --> 00:00:32.330 align:start position:0%
+obviously that schema would be in first
+normal<00:00:29.550><c> form</c><00:00:30.170><c> they</c><00:00:31.170><c> will</c><00:00:31.320><c> never</c><00:00:31.830><c> give</c><00:00:32.099><c> you</c><00:00:32.130><c> or</c>
+
+00:00:32.330 --> 00:00:32.340 align:start position:0%
+normal form they will never give you or
+ 
+
+00:00:32.340 --> 00:00:33.979 align:start position:0%
+normal form they will never give you or
+hardly<00:00:32.759><c> they</c><00:00:33.030><c> will</c><00:00:33.149><c> give</c><00:00:33.300><c> you</c><00:00:33.390><c> a</c><00:00:33.450><c> table</c><00:00:33.840><c> and</c>
+
+00:00:33.979 --> 00:00:33.989 align:start position:0%
+hardly they will give you a table and
+ 
+
+00:00:33.989 --> 00:00:35.870 align:start position:0%
+hardly they will give you a table and
+they<00:00:34.110><c> will</c><00:00:34.230><c> ask</c><00:00:34.380><c> that</c><00:00:34.710><c> tell</c><00:00:35.100><c> me</c><00:00:35.130><c> the</c><00:00:35.280><c> stable</c><00:00:35.760><c> is</c>
+
+00:00:35.870 --> 00:00:35.880 align:start position:0%
+they will ask that tell me the stable is
+ 
+
+00:00:35.880 --> 00:00:38.030 align:start position:0%
+they will ask that tell me the stable is
+in<00:00:36.000><c> first</c><00:00:36.300><c> normal</c><00:00:36.600><c> form</c><00:00:36.930><c> or</c><00:00:37.110><c> not</c><00:00:37.260><c> right</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+in first normal form or not right
+ 
+
+00:00:38.040 --> 00:00:40.610 align:start position:0%
+in first normal form or not right
+because<00:00:38.700><c> first</c><00:00:39.270><c> normal</c><00:00:39.750><c> form</c><00:00:39.899><c> is</c><00:00:40.079><c> the</c><00:00:40.200><c> basic</c>
+
+00:00:40.610 --> 00:00:40.620 align:start position:0%
+because first normal form is the basic
+ 
+
+00:00:40.620 --> 00:00:44.270 align:start position:0%
+because first normal form is the basic
+point<00:00:41.160><c> the</c><00:00:41.610><c> basic</c><00:00:42.000><c> step</c><00:00:42.629><c> of</c><00:00:43.230><c> normalization</c><00:00:44.100><c> so</c>
+
+00:00:44.270 --> 00:00:44.280 align:start position:0%
+point the basic step of normalization so
+ 
+
+00:00:44.280 --> 00:00:46.549 align:start position:0%
+point the basic step of normalization so
+always<00:00:45.149><c> they</c><00:00:45.450><c> will</c><00:00:45.570><c> give</c><00:00:45.690><c> you</c><00:00:45.780><c> a</c><00:00:45.840><c> table</c><00:00:46.230><c> or</c><00:00:46.410><c> the</c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+always they will give you a table or the
+ 
+
+00:00:46.559 --> 00:00:49.040 align:start position:0%
+always they will give you a table or the
+schema<00:00:47.039><c> in</c><00:00:47.219><c> first</c><00:00:47.640><c> normal</c><00:00:48.059><c> form</c><00:00:48.510><c> now</c><00:00:48.989><c> the</c>
+
+00:00:49.040 --> 00:00:49.050 align:start position:0%
+schema in first normal form now the
+ 
+
+00:00:49.050 --> 00:00:50.840 align:start position:0%
+schema in first normal form now the
+important<00:00:49.649><c> point</c><00:00:49.800><c> is</c><00:00:50.010><c> you</c><00:00:50.280><c> how</c><00:00:50.520><c> to</c><00:00:50.579><c> identify</c>
+
+00:00:50.840 --> 00:00:50.850 align:start position:0%
+important point is you how to identify
+ 
+
+00:00:50.850 --> 00:00:52.939 align:start position:0%
+important point is you how to identify
+that<00:00:51.449><c> as</c><00:00:51.629><c> in</c><00:00:51.750><c> second</c><00:00:52.140><c> normal</c><00:00:52.440><c> form</c><00:00:52.500><c> third</c>
+
+00:00:52.939 --> 00:00:52.949 align:start position:0%
+that as in second normal form third
+ 
+
+00:00:52.949 --> 00:00:55.100 align:start position:0%
+that as in second normal form third
+normal<00:00:53.160><c> form</c><00:00:53.370><c> bcnf</c><00:00:54.090><c> something</c><00:00:54.449><c> like</c><00:00:54.600><c> this</c><00:00:54.780><c> and</c>
+
+00:00:55.100 --> 00:00:55.110 align:start position:0%
+normal form bcnf something like this and
+ 
+
+00:00:55.110 --> 00:00:57.740 align:start position:0%
+normal form bcnf something like this and
+if<00:00:55.680><c> not</c><00:00:55.890><c> then</c><00:00:56.219><c> convert</c><00:00:56.670><c> it</c><00:00:56.879><c> into</c><00:00:57.090><c> the</c><00:00:57.329><c> desired</c>
+
+00:00:57.740 --> 00:00:57.750 align:start position:0%
+if not then convert it into the desired
+ 
+
+00:00:57.750 --> 00:01:00.439 align:start position:0%
+if not then convert it into the desired
+normal<00:00:58.410><c> form</c><00:00:59.300><c> right</c>
+
+00:01:00.439 --> 00:01:00.449 align:start position:0%
+normal form right
+ 
+
+00:01:00.449 --> 00:01:02.180 align:start position:0%
+normal form right
+so<00:01:00.809><c> in</c><00:01:00.899><c> gate</c><00:01:01.109><c> and</c><00:01:01.350><c> annete</c><00:01:01.620><c> these</c><00:01:01.859><c> type</c><00:01:02.160><c> of</c>
+
+00:01:02.180 --> 00:01:02.190 align:start position:0%
+so in gate and annete these type of
+ 
+
+00:01:02.190 --> 00:01:04.009 align:start position:0%
+so in gate and annete these type of
+questions<00:01:02.789><c> will</c><00:01:03.059><c> be</c><00:01:03.090><c> asked</c><00:01:03.480><c> they</c><00:01:03.809><c> will</c><00:01:03.930><c> give</c>
+
+00:01:04.009 --> 00:01:04.019 align:start position:0%
+questions will be asked they will give
+ 
+
+00:01:04.019 --> 00:01:05.719 align:start position:0%
+questions will be asked they will give
+you<00:01:04.110><c> these</c><00:01:04.290><c> type</c><00:01:04.530><c> of</c><00:01:04.559><c> questions</c><00:01:04.769><c> functional</c>
+
+00:01:05.719 --> 00:01:05.729 align:start position:0%
+you these type of questions functional
+ 
+
+00:01:05.729 --> 00:01:07.580 align:start position:0%
+you these type of questions functional
+dependencies<00:01:06.210><c> are</c><00:01:06.390><c> given</c><00:01:06.689><c> and</c><00:01:06.840><c> they'll</c><00:01:07.409><c> ask</c>
+
+00:01:07.580 --> 00:01:07.590 align:start position:0%
+dependencies are given and they'll ask
+ 
+
+00:01:07.590 --> 00:01:12.020 align:start position:0%
+dependencies are given and they'll ask
+you<00:01:07.830><c> that</c><00:01:08.960><c> which</c><00:01:09.960><c> highest</c><00:01:10.670><c> normal</c><00:01:11.670><c> form</c><00:01:11.909><c> is</c>
+
+00:01:12.020 --> 00:01:12.030 align:start position:0%
+you that which highest normal form is
+ 
+
+00:01:12.030 --> 00:01:14.120 align:start position:0%
+you that which highest normal form is
+there<00:01:12.210><c> in</c><00:01:12.390><c> this</c><00:01:12.540><c> relation</c><00:01:13.110><c> so</c><00:01:13.590><c> you</c><00:01:13.650><c> have</c><00:01:13.950><c> to</c>
+
+00:01:14.120 --> 00:01:14.130 align:start position:0%
+there in this relation so you have to
+ 
+
+00:01:14.130 --> 00:01:16.460 align:start position:0%
+there in this relation so you have to
+find<00:01:14.310><c> it</c><00:01:14.490><c> out</c><00:01:14.640><c> so</c><00:01:15.210><c> we</c><00:01:15.390><c> have</c><00:01:15.600><c> only</c><00:01:15.810><c> functional</c>
+
+00:01:16.460 --> 00:01:16.470 align:start position:0%
+find it out so we have only functional
+ 
+
+00:01:16.470 --> 00:01:19.730 align:start position:0%
+find it out so we have only functional
+dependencies<00:01:17.280><c> right</c><00:01:18.060><c> so</c><00:01:18.659><c> this</c><00:01:19.080><c> functional</c>
+
+00:01:19.730 --> 00:01:19.740 align:start position:0%
+dependencies right so this functional
+ 
+
+00:01:19.740 --> 00:01:21.649 align:start position:0%
+dependencies right so this functional
+dependencies<00:01:20.280><c> will</c><00:01:20.549><c> play</c><00:01:20.820><c> very</c><00:01:20.850><c> important</c>
+
+00:01:21.649 --> 00:01:21.659 align:start position:0%
+dependencies will play very important
+ 
+
+00:01:21.659 --> 00:01:24.320 align:start position:0%
+dependencies will play very important
+role<00:01:21.869><c> here</c><00:01:22.560><c> so</c><00:01:23.250><c> I</c><00:01:23.280><c> have</c><00:01:23.460><c> already</c><00:01:23.670><c> discussed</c>
+
+00:01:24.320 --> 00:01:24.330 align:start position:0%
+role here so I have already discussed
+ 
+
+00:01:24.330 --> 00:01:26.570 align:start position:0%
+role here so I have already discussed
+what<00:01:24.659><c> is</c><00:01:24.810><c> functional</c><00:01:25.259><c> dependencies</c><00:01:25.890><c> trivial</c>
+
+00:01:26.570 --> 00:01:26.580 align:start position:0%
+what is functional dependencies trivial
+ 
+
+00:01:26.580 --> 00:01:28.100 align:start position:0%
+what is functional dependencies trivial
+functional<00:01:26.790><c> dependency</c><00:01:27.540><c> known</c><00:01:27.750><c> trivial</c>
+
+00:01:28.100 --> 00:01:28.110 align:start position:0%
+functional dependency known trivial
+ 
+
+00:01:28.110 --> 00:01:31.280 align:start position:0%
+functional dependency known trivial
+functional<00:01:28.350><c> dependencies</c><00:01:29.159><c> on</c><00:01:29.570><c> strong</c><00:01:30.570><c> exams</c>
+
+00:01:31.280 --> 00:01:31.290 align:start position:0%
+functional dependencies on strong exams
+ 
+
+00:01:31.290 --> 00:01:33.289 align:start position:0%
+functional dependencies on strong exams
+or<00:01:31.829><c> you</c><00:01:32.009><c> can</c><00:01:32.159><c> say</c><00:01:32.280><c> inference</c><00:01:32.729><c> rules</c><00:01:32.970><c> or</c>
+
+00:01:33.289 --> 00:01:33.299 align:start position:0%
+or you can say inference rules or
+ 
+
+00:01:33.299 --> 00:01:35.300 align:start position:0%
+or you can say inference rules or
+functional<00:01:33.750><c> dependencies</c><00:01:34.380><c> so</c><00:01:34.829><c> first</c><00:01:35.159><c> you</c>
+
+00:01:35.300 --> 00:01:35.310 align:start position:0%
+functional dependencies so first you
+ 
+
+00:01:35.310 --> 00:01:37.370 align:start position:0%
+functional dependencies so first you
+check<00:01:35.460><c> out</c><00:01:35.640><c> those</c><00:01:35.880><c> videos</c><00:01:36.299><c> and</c><00:01:36.479><c> second</c>
+
+00:01:37.370 --> 00:01:37.380 align:start position:0%
+check out those videos and second
+ 
+
+00:01:37.380 --> 00:01:40.219 align:start position:0%
+check out those videos and second
+important<00:01:38.040><c> point</c><00:01:38.189><c> is</c><00:01:38.369><c> here</c><00:01:38.640><c> what</c><00:01:39.020><c> you</c><00:01:40.020><c> should</c>
+
+00:01:40.219 --> 00:01:40.229 align:start position:0%
+important point is here what you should
+ 
+
+00:01:40.229 --> 00:01:43.819 align:start position:0%
+important point is here what you should
+know<00:01:40.560><c> how</c><00:01:41.549><c> to</c><00:01:41.579><c> calculate</c><00:01:42.320><c> candidate</c><00:01:43.320><c> keys</c><00:01:43.619><c> in</c>
+
+00:01:43.819 --> 00:01:43.829 align:start position:0%
+know how to calculate candidate keys in
+ 
+
+00:01:43.829 --> 00:01:47.240 align:start position:0%
+know how to calculate candidate keys in
+a<00:01:43.920><c> relation</c><00:01:44.750><c> candidate</c><00:01:45.750><c> Keys</c><00:01:46.079><c> plays</c><00:01:46.710><c> very</c>
+
+00:01:47.240 --> 00:01:47.250 align:start position:0%
+a relation candidate Keys plays very
+ 
+
+00:01:47.250 --> 00:01:50.510 align:start position:0%
+a relation candidate Keys plays very
+important<00:01:47.880><c> role</c><00:01:47.970><c> without</c><00:01:48.750><c> finding</c><00:01:49.649><c> out</c><00:01:50.310><c> the</c>
+
+00:01:50.510 --> 00:01:50.520 align:start position:0%
+important role without finding out the
+ 
+
+00:01:50.520 --> 00:01:53.149 align:start position:0%
+important role without finding out the
+candidate<00:01:50.970><c> is</c><00:01:51.299><c> you</c><00:01:51.750><c> cannot</c><00:01:52.200><c> solve</c><00:01:52.799><c> the</c>
+
+00:01:53.149 --> 00:01:53.159 align:start position:0%
+candidate is you cannot solve the
+ 
+
+00:01:53.159 --> 00:01:55.760 align:start position:0%
+candidate is you cannot solve the
+problem<00:01:53.579><c> of</c><00:01:53.759><c> normalization</c><00:01:54.659><c> second</c><00:01:55.500><c> normal</c>
+
+00:01:55.760 --> 00:01:55.770 align:start position:0%
+problem of normalization second normal
+ 
+
+00:01:55.770 --> 00:01:59.090 align:start position:0%
+problem of normalization second normal
+form<00:01:55.829><c> third</c><00:01:56.340><c> normal</c><00:01:56.549><c> form</c><00:01:56.820><c> bcnf</c><00:01:57.750><c> fourth</c><00:01:58.619><c> fifth</c>
+
+00:01:59.090 --> 00:01:59.100 align:start position:0%
+form third normal form bcnf fourth fifth
+ 
+
+00:01:59.100 --> 00:02:02.959 align:start position:0%
+form third normal form bcnf fourth fifth
+like<00:01:59.820><c> this</c><00:02:00.030><c> right</c><00:02:00.649><c> so</c><00:02:01.649><c> candidate</c><00:02:02.100><c> keys</c><00:02:02.430><c> you</c>
+
+00:02:02.959 --> 00:02:02.969 align:start position:0%
+like this right so candidate keys you
+ 
+
+00:02:02.969 --> 00:02:04.429 align:start position:0%
+like this right so candidate keys you
+should<00:02:03.180><c> know</c><00:02:03.360><c> that</c><00:02:03.689><c> also</c><00:02:03.899><c> we</c><00:02:04.200><c> have</c><00:02:04.320><c> discussed</c>
+
+00:02:04.429 --> 00:02:04.439 align:start position:0%
+should know that also we have discussed
+ 
+
+00:02:04.439 --> 00:02:06.649 align:start position:0%
+should know that also we have discussed
+how<00:02:04.860><c> to</c><00:02:04.920><c> find</c><00:02:05.280><c> out</c><00:02:05.460><c> candidate</c><00:02:06.149><c> keys</c><00:02:06.450><c> in</c><00:02:06.630><c> a</c>
+
+00:02:06.649 --> 00:02:06.659 align:start position:0%
+how to find out candidate keys in a
+ 
+
+00:02:06.659 --> 00:02:08.419 align:start position:0%
+how to find out candidate keys in a
+given<00:02:06.960><c> relation</c><00:02:07.409><c> all</c><00:02:07.560><c> the</c><00:02:07.799><c> candidate</c><00:02:08.190><c> keys</c>
+
+00:02:08.419 --> 00:02:08.429 align:start position:0%
+given relation all the candidate keys
+ 
+
+00:02:08.429 --> 00:02:11.330 align:start position:0%
+given relation all the candidate keys
+not<00:02:09.000><c> one</c><00:02:09.270><c> all</c><00:02:09.539><c> candidate</c><00:02:10.110><c> is</c><00:02:10.349><c> right</c><00:02:10.709><c> with</c><00:02:11.310><c> a</c>
+
+00:02:11.330 --> 00:02:11.340 align:start position:0%
+not one all candidate is right with a
+ 
+
+00:02:11.340 --> 00:02:12.920 align:start position:0%
+not one all candidate is right with a
+simple<00:02:11.760><c> trick</c><00:02:12.000><c> so</c><00:02:12.270><c> you</c><00:02:12.300><c> can</c><00:02:12.540><c> check</c><00:02:12.690><c> out</c><00:02:12.780><c> that</c>
+
+00:02:12.920 --> 00:02:12.930 align:start position:0%
+simple trick so you can check out that
+ 
+
+00:02:12.930 --> 00:02:13.630 align:start position:0%
+simple trick so you can check out that
+video<00:02:13.140><c> in</c><00:02:13.319><c> this</c>
+
+00:02:13.630 --> 00:02:13.640 align:start position:0%
+video in this
+ 
+
+00:02:13.640 --> 00:02:15.880 align:start position:0%
+video in this
+right<00:02:14.240><c> and</c><00:02:14.480><c> after</c><00:02:14.750><c> that</c><00:02:15.080><c> come</c><00:02:15.290><c> to</c><00:02:15.470><c> this</c><00:02:15.650><c> video</c>
+
+00:02:15.880 --> 00:02:15.890 align:start position:0%
+right and after that come to this video
+ 
+
+00:02:15.890 --> 00:02:19.360 align:start position:0%
+right and after that come to this video
+so<00:02:16.640><c> now</c><00:02:16.670><c> in</c><00:02:16.940><c> this</c><00:02:17.120><c> video</c><00:02:17.330><c> we</c><00:02:17.840><c> will</c><00:02:17.900><c> discuss</c><00:02:18.370><c> how</c>
+
+00:02:19.360 --> 00:02:19.370 align:start position:0%
+so now in this video we will discuss how
+ 
+
+00:02:19.370 --> 00:02:21.130 align:start position:0%
+so now in this video we will discuss how
+to<00:02:19.400><c> find</c><00:02:19.790><c> out</c><00:02:19.940><c> that</c><00:02:20.150><c> a</c><00:02:20.210><c> particular</c><00:02:20.870><c> given</c>
+
+00:02:21.130 --> 00:02:21.140 align:start position:0%
+to find out that a particular given
+ 
+
+00:02:21.140 --> 00:02:24.390 align:start position:0%
+to find out that a particular given
+relation<00:02:21.740><c> is</c><00:02:21.860><c> in</c><00:02:21.890><c> second</c><00:02:22.550><c> normal</c><00:02:22.850><c> form</c><00:02:23.090><c> or</c><00:02:23.600><c> not</c>
+
+00:02:24.390 --> 00:02:24.400 align:start position:0%
+relation is in second normal form or not
+ 
+
+00:02:24.400 --> 00:02:28.750 align:start position:0%
+relation is in second normal form or not
+right<00:02:25.690><c> what</c><00:02:26.690><c> are</c><00:02:26.840><c> the</c><00:02:26.990><c> rules</c><00:02:27.200><c> for</c><00:02:28.190><c> a</c><00:02:28.220><c> relation</c>
+
+00:02:28.750 --> 00:02:28.760 align:start position:0%
+right what are the rules for a relation
+ 
+
+00:02:28.760 --> 00:02:30.700 align:start position:0%
+right what are the rules for a relation
+to<00:02:29.000><c> be</c><00:02:29.180><c> in</c><00:02:29.240><c> second</c><00:02:29.870><c> normal</c><00:02:30.080><c> form</c><00:02:30.320><c> there</c><00:02:30.680><c> are</c>
+
+00:02:30.700 --> 00:02:30.710 align:start position:0%
+to be in second normal form there are
+ 
+
+00:02:30.710 --> 00:02:33.070 align:start position:0%
+to be in second normal form there are
+basically<00:02:31.160><c> two</c><00:02:31.580><c> roots</c><00:02:31.850><c> first</c><00:02:32.420><c> rule</c><00:02:32.750><c> is</c><00:02:32.900><c> very</c>
+
+00:02:33.070 --> 00:02:33.080 align:start position:0%
+basically two roots first rule is very
+ 
+
+00:02:33.080 --> 00:02:36.640 align:start position:0%
+basically two roots first rule is very
+simple<00:02:33.620><c> that</c><00:02:34.310><c> that</c><00:02:34.730><c> relation</c><00:02:35.540><c> should</c><00:02:36.260><c> be</c><00:02:36.470><c> in</c>
+
+00:02:36.640 --> 00:02:36.650 align:start position:0%
+simple that that relation should be in
+ 
+
+00:02:36.650 --> 00:02:38.560 align:start position:0%
+simple that that relation should be in
+first<00:02:37.040><c> normal</c><00:02:37.430><c> form</c><00:02:37.850><c> and</c><00:02:38.060><c> I</c><00:02:38.270><c> have</c><00:02:38.420><c> already</c>
+
+00:02:38.560 --> 00:02:38.570 align:start position:0%
+first normal form and I have already
+ 
+
+00:02:38.570 --> 00:02:40.240 align:start position:0%
+first normal form and I have already
+told<00:02:38.900><c> you</c><00:02:39.050><c> if</c><00:02:39.380><c> they</c><00:02:39.560><c> will</c><00:02:39.650><c> give</c><00:02:39.800><c> you</c><00:02:39.860><c> this</c><00:02:40.040><c> type</c>
+
+00:02:40.240 --> 00:02:40.250 align:start position:0%
+told you if they will give you this type
+ 
+
+00:02:40.250 --> 00:02:41.950 align:start position:0%
+told you if they will give you this type
+of<00:02:40.280><c> question</c><00:02:40.730><c> that</c><00:02:40.760><c> our</c><00:02:41.060><c> relational</c><00:02:41.660><c> schema</c>
+
+00:02:41.950 --> 00:02:41.960 align:start position:0%
+of question that our relational schema
+ 
+
+00:02:41.960 --> 00:02:44.860 align:start position:0%
+of question that our relational schema
+is<00:02:42.050><c> given</c><00:02:42.350><c> that</c><00:02:43.250><c> is</c><00:02:43.430><c> by</c><00:02:43.730><c> default</c><00:02:44.210><c> that</c><00:02:44.510><c> will</c><00:02:44.690><c> be</c>
+
+00:02:44.860 --> 00:02:44.870 align:start position:0%
+is given that is by default that will be
+ 
+
+00:02:44.870 --> 00:02:49.330 align:start position:0%
+is given that is by default that will be
+in<00:02:44.990><c> first</c><00:02:45.290><c> normal</c><00:02:45.920><c> form</c><00:02:46.240><c> right</c><00:02:47.350><c> so</c><00:02:48.350><c> first</c><00:02:49.100><c> rule</c>
+
+00:02:49.330 --> 00:02:49.340 align:start position:0%
+in first normal form right so first rule
+ 
+
+00:02:49.340 --> 00:02:52.930 align:start position:0%
+in first normal form right so first rule
+is<00:02:49.580><c> a</c><00:02:50.140><c> relation</c><00:02:51.140><c> is</c><00:02:51.650><c> said</c><00:02:51.980><c> to</c><00:02:52.190><c> be</c><00:02:52.370><c> in</c><00:02:52.430><c> second</c>
+
+00:02:52.930 --> 00:02:52.940 align:start position:0%
+is a relation is said to be in second
+ 
+
+00:02:52.940 --> 00:02:58.120 align:start position:0%
+is a relation is said to be in second
+normal<00:02:53.390><c> form</c><00:02:53.450><c> if</c><00:02:54.520><c> first</c><00:02:55.520><c> rule</c><00:02:55.760><c> is</c><00:02:55.940><c> if</c><00:02:56.660><c> it</c><00:02:57.560><c> is</c><00:02:57.890><c> in</c>
+
+00:02:58.120 --> 00:02:58.130 align:start position:0%
+normal form if first rule is if it is in
+ 
+
+00:02:58.130 --> 00:03:02.290 align:start position:0%
+normal form if first rule is if it is in
+first<00:02:59.030><c> normal</c><00:02:59.510><c> form</c><00:02:59.959><c> right</c><00:03:00.530><c> and</c><00:03:01.000><c> this</c><00:03:02.000><c> already</c>
+
+00:03:02.290 --> 00:03:02.300 align:start position:0%
+first normal form right and this already
+ 
+
+00:03:02.300 --> 00:03:04.540 align:start position:0%
+first normal form right and this already
+we<00:03:02.959><c> by</c><00:03:03.110><c> default</c><00:03:03.170><c> we</c><00:03:03.560><c> consider</c><00:03:03.890><c> that</c><00:03:04.100><c> this</c><00:03:04.340><c> is</c>
+
+00:03:04.540 --> 00:03:04.550 align:start position:0%
+we by default we consider that this is
+ 
+
+00:03:04.550 --> 00:03:07.690 align:start position:0%
+we by default we consider that this is
+in<00:03:04.670><c> first</c><00:03:05.000><c> normal</c><00:03:05.360><c> form</c><00:03:05.780><c> right</c><00:03:06.490><c> second</c><00:03:07.490><c> rule</c>
+
+00:03:07.690 --> 00:03:07.700 align:start position:0%
+in first normal form right second rule
+ 
+
+00:03:07.700 --> 00:03:10.390 align:start position:0%
+in first normal form right second rule
+is<00:03:07.730><c> what</c><00:03:08.140><c> there</c><00:03:09.140><c> would</c><00:03:09.290><c> be</c><00:03:09.350><c> no</c><00:03:09.800><c> partial</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+is what there would be no partial
+ 
+
+00:03:10.400 --> 00:03:13.150 align:start position:0%
+is what there would be no partial
+dependency<00:03:11.390><c> present</c><00:03:11.990><c> in</c><00:03:12.110><c> the</c><00:03:12.260><c> relation</c><00:03:12.800><c> now</c>
+
+00:03:13.150 --> 00:03:13.160 align:start position:0%
+dependency present in the relation now
+ 
+
+00:03:13.160 --> 00:03:15.010 align:start position:0%
+dependency present in the relation now
+what<00:03:13.340><c> is</c><00:03:13.490><c> partial</c><00:03:13.760><c> dependency</c><00:03:14.450><c> that</c><00:03:14.570><c> also</c><00:03:14.780><c> L</c>
+
+00:03:15.010 --> 00:03:15.020 align:start position:0%
+what is partial dependency that also L
+ 
+
+00:03:15.020 --> 00:03:19.080 align:start position:0%
+what is partial dependency that also L
+discuss<00:03:15.550><c> so</c><00:03:16.959><c> this</c><00:03:17.959><c> what</c><00:03:18.200><c> is</c><00:03:18.320><c> this</c><00:03:18.500><c> partial</c>
+
+00:03:19.080 --> 00:03:19.090 align:start position:0%
+discuss so this what is this partial
+ 
+
+00:03:19.090 --> 00:03:21.940 align:start position:0%
+discuss so this what is this partial
+dependency<00:03:20.090><c> now</c><00:03:20.300><c> I</c><00:03:20.540><c> hope</c><00:03:21.440><c> everybody</c><00:03:21.860><c> knows</c>
+
+00:03:21.940 --> 00:03:21.950 align:start position:0%
+dependency now I hope everybody knows
+ 
+
+00:03:21.950 --> 00:03:24.940 align:start position:0%
+dependency now I hope everybody knows
+what<00:03:22.430><c> is</c><00:03:22.610><c> functional</c><00:03:23.390><c> dependency</c><00:03:24.140><c> right</c><00:03:24.709><c> I</c>
+
+00:03:24.940 --> 00:03:24.950 align:start position:0%
+what is functional dependency right I
+ 
+
+00:03:24.950 --> 00:03:27.190 align:start position:0%
+what is functional dependency right I
+have<00:03:25.280><c> already</c><00:03:25.430><c> discussed</c><00:03:26.060><c> you</c><00:03:26.720><c> can</c><00:03:26.900><c> check</c><00:03:27.050><c> out</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+have already discussed you can check out
+ 
+
+00:03:27.200 --> 00:03:29.199 align:start position:0%
+have already discussed you can check out
+that<00:03:27.230><c> or</c><00:03:27.560><c> you</c><00:03:27.650><c> on</c><00:03:27.739><c> the</c><00:03:27.830><c> side</c><00:03:28.040><c> but</c><00:03:28.190><c> now</c><00:03:28.910><c> what</c><00:03:29.060><c> is</c>
+
+00:03:29.199 --> 00:03:29.209 align:start position:0%
+that or you on the side but now what is
+ 
+
+00:03:29.209 --> 00:03:31.780 align:start position:0%
+that or you on the side but now what is
+partial<00:03:29.630><c> functional</c><00:03:30.380><c> dependency</c><00:03:30.920><c> or</c><00:03:31.370><c> you</c><00:03:31.610><c> can</c>
+
+00:03:31.780 --> 00:03:31.790 align:start position:0%
+partial functional dependency or you can
+ 
+
+00:03:31.790 --> 00:03:34.600 align:start position:0%
+partial functional dependency or you can
+write<00:03:32.030><c> down</c><00:03:32.060><c> at</c><00:03:32.390><c> something</c><00:03:32.780><c> like</c><00:03:32.959><c> this</c><00:03:33.610><c> proper</c>
+
+00:03:34.600 --> 00:03:34.610 align:start position:0%
+write down at something like this proper
+ 
+
+00:03:34.610 --> 00:03:39.580 align:start position:0%
+write down at something like this proper
+subset<00:03:35.209><c> of</c><00:03:35.920><c> candidate</c><00:03:36.920><c> key</c><00:03:37.459><c> of</c><00:03:38.019><c> any</c><00:03:39.019><c> candidate</c>
+
+00:03:39.580 --> 00:03:39.590 align:start position:0%
+subset of candidate key of any candidate
+ 
+
+00:03:39.590 --> 00:03:41.380 align:start position:0%
+subset of candidate key of any candidate
+key<00:03:39.769><c> if</c><00:03:39.920><c> suppose</c><00:03:40.310><c> there</c><00:03:40.519><c> are</c><00:03:40.550><c> three</c><00:03:40.910><c> candidate</c>
+
+00:03:41.380 --> 00:03:41.390 align:start position:0%
+key if suppose there are three candidate
+ 
+
+00:03:41.390 --> 00:03:44.770 align:start position:0%
+key if suppose there are three candidate
+keys<00:03:41.660><c> so</c><00:03:42.440><c> proper</c><00:03:42.920><c> subset</c><00:03:43.430><c> of</c><00:03:43.640><c> any</c><00:03:43.970><c> candidate</c>
+
+00:03:44.770 --> 00:03:44.780 align:start position:0%
+keys so proper subset of any candidate
+ 
+
+00:03:44.780 --> 00:03:49.090 align:start position:0%
+keys so proper subset of any candidate
+key<00:03:45.730><c> well</c><00:03:46.730><c> determine</c><00:03:47.830><c> non-prime</c><00:03:48.830><c> attribute</c>
+
+00:03:49.090 --> 00:03:49.100 align:start position:0%
+key well determine non-prime attribute
+ 
+
+00:03:49.100 --> 00:03:53.920 align:start position:0%
+key well determine non-prime attribute
+if<00:03:49.850><c> this</c><00:03:50.360><c> kind</c><00:03:50.750><c> of</c><00:03:51.970><c> dependency</c><00:03:52.970><c> is</c><00:03:53.090><c> there</c><00:03:53.420><c> in</c>
+
+00:03:53.920 --> 00:03:53.930 align:start position:0%
+if this kind of dependency is there in
+ 
+
+00:03:53.930 --> 00:03:56.110 align:start position:0%
+if this kind of dependency is there in
+the<00:03:54.230><c> list</c><00:03:54.440><c> of</c><00:03:54.680><c> functional</c><00:03:55.100><c> dependency</c><00:03:55.730><c> given</c>
+
+00:03:56.110 --> 00:03:56.120 align:start position:0%
+the list of functional dependency given
+ 
+
+00:03:56.120 --> 00:03:59.220 align:start position:0%
+the list of functional dependency given
+then<00:03:56.720><c> that</c><00:03:56.989><c> is</c><00:03:57.200><c> known</c><00:03:57.380><c> as</c><00:03:57.410><c> partial</c><00:03:57.970><c> dependency</c>
+
+00:03:59.220 --> 00:03:59.230 align:start position:0%
+then that is known as partial dependency
+ 
+
+00:03:59.230 --> 00:04:03.460 align:start position:0%
+then that is known as partial dependency
+right<00:04:00.519><c> proper</c><00:04:01.519><c> subset</c><00:04:01.940><c> of</c><00:04:01.970><c> candidate</c><00:04:02.540><c> key</c><00:04:02.810><c> see</c>
+
+00:04:03.460 --> 00:04:03.470 align:start position:0%
+right proper subset of candidate key see
+ 
+
+00:04:03.470 --> 00:04:08.740 align:start position:0%
+right proper subset of candidate key see
+suppose<00:04:03.620><c> candidate</c><00:04:04.310><c> key</c><00:04:04.550><c> here</c><00:04:04.790><c> is</c><00:04:05.000><c> a</c><00:04:05.590><c> B</c><00:04:06.590><c> II</c><00:04:07.750><c> so</c>
+
+00:04:08.740 --> 00:04:08.750 align:start position:0%
+suppose candidate key here is a B II so
+ 
+
+00:04:08.750 --> 00:04:12.490 align:start position:0%
+suppose candidate key here is a B II so
+proper<00:04:09.140><c> subset</c><00:04:09.560><c> of</c><00:04:09.590><c> this</c><00:04:09.980><c> as</c><00:04:10.220><c> what</c><00:04:10.930><c> ad</c><00:04:11.930><c> is</c><00:04:12.140><c> also</c>
+
+00:04:12.490 --> 00:04:12.500 align:start position:0%
+proper subset of this as what ad is also
+ 
+
+00:04:12.500 --> 00:04:15.280 align:start position:0%
+proper subset of this as what ad is also
+proper<00:04:12.799><c> subset</c><00:04:13.220><c> B</c><00:04:13.760><c> is</c><00:04:14.030><c> also</c><00:04:14.510><c> proper</c><00:04:14.870><c> subset</c><00:04:15.260><c> or</c>
+
+00:04:15.280 --> 00:04:15.290 align:start position:0%
+proper subset B is also proper subset or
+ 
+
+00:04:15.290 --> 00:04:19.960 align:start position:0%
+proper subset B is also proper subset or
+you<00:04:15.470><c> can</c><00:04:15.620><c> write</c><00:04:15.769><c> a</c><00:04:15.980><c> a</c><00:04:18.070><c> de6</c><00:04:19.070><c> proper</c><00:04:19.580><c> subset</c><00:04:19.940><c> of</c>
+
+00:04:19.960 --> 00:04:19.970 align:start position:0%
+you can write a a de6 proper subset of
+ 
+
+00:04:19.970 --> 00:04:23.350 align:start position:0%
+you can write a a de6 proper subset of
+are<00:04:20.359><c> there</c><00:04:20.570><c> right</c><00:04:21.440><c> so</c><00:04:22.039><c> if</c><00:04:22.130><c> any</c><00:04:22.460><c> proper</c><00:04:22.970><c> subset</c>
+
+00:04:23.350 --> 00:04:23.360 align:start position:0%
+are there right so if any proper subset
+ 
+
+00:04:23.360 --> 00:04:26.020 align:start position:0%
+are there right so if any proper subset
+of<00:04:23.390><c> the</c><00:04:23.630><c> candidate</c><00:04:24.080><c> key</c><00:04:24.410><c> will</c><00:04:25.220><c> determine</c><00:04:25.580><c> the</c>
+
+00:04:26.020 --> 00:04:26.030 align:start position:0%
+of the candidate key will determine the
+ 
+
+00:04:26.030 --> 00:04:26.430 align:start position:0%
+of the candidate key will determine the
+know
+
+00:04:26.430 --> 00:04:26.440 align:start position:0%
+know
+ 
+
+00:04:26.440 --> 00:04:29.580 align:start position:0%
+know
+one<00:04:26.500><c> prime</c><00:04:26.830><c> attribute</c><00:04:27.810><c> then</c><00:04:28.810><c> that</c><00:04:29.020><c> is</c><00:04:29.170><c> partial</c>
+
+00:04:29.580 --> 00:04:29.590 align:start position:0%
+one prime attribute then that is partial
+ 
+
+00:04:29.590 --> 00:04:31.920 align:start position:0%
+one prime attribute then that is partial
+dependency<00:04:30.160><c> and</c><00:04:30.280><c> that</c><00:04:30.580><c> should</c><00:04:30.940><c> not</c><00:04:31.240><c> present</c>
+
+00:04:31.920 --> 00:04:31.930 align:start position:0%
+dependency and that should not present
+ 
+
+00:04:31.930 --> 00:04:34.890 align:start position:0%
+dependency and that should not present
+in<00:04:32.170><c> the</c><00:04:32.410><c> relation</c><00:04:32.980><c> if</c><00:04:33.310><c> partial</c><00:04:34.240><c> dependency</c><00:04:34.840><c> is</c>
+
+00:04:34.890 --> 00:04:34.900 align:start position:0%
+in the relation if partial dependency is
+ 
+
+00:04:34.900 --> 00:04:36.540 align:start position:0%
+in the relation if partial dependency is
+there<00:04:35.140><c> in</c><00:04:35.260><c> the</c><00:04:35.350><c> relation</c><00:04:35.740><c> that</c><00:04:35.770><c> then</c><00:04:36.340><c> that</c>
+
+00:04:36.540 --> 00:04:36.550 align:start position:0%
+there in the relation that then that
+ 
+
+00:04:36.550 --> 00:04:39.000 align:start position:0%
+there in the relation that then that
+relation<00:04:37.060><c> is</c><00:04:37.300><c> not</c><00:04:37.840><c> in</c><00:04:38.050><c> second</c><00:04:38.530><c> normal</c><00:04:38.740><c> form</c>
+
+00:04:39.000 --> 00:04:39.010 align:start position:0%
+relation is not in second normal form
+ 
+
+00:04:39.010 --> 00:04:41.820 align:start position:0%
+relation is not in second normal form
+now<00:04:39.820><c> what</c><00:04:40.030><c> does</c><00:04:40.180><c> this</c><00:04:40.360><c> non-prime</c><00:04:41.170><c> attribute</c><00:04:41.380><c> I</c>
+
+00:04:41.820 --> 00:04:41.830 align:start position:0%
+now what does this non-prime attribute I
+ 
+
+00:04:41.830 --> 00:04:45.020 align:start position:0%
+now what does this non-prime attribute I
+hope<00:04:42.070><c> you</c><00:04:42.250><c> got</c><00:04:42.460><c> what</c><00:04:42.670><c> is</c><00:04:42.820><c> partial</c><00:04:44.010><c> dependency</c>
+
+00:04:45.020 --> 00:04:45.030 align:start position:0%
+hope you got what is partial dependency
+ 
+
+00:04:45.030 --> 00:04:47.820 align:start position:0%
+hope you got what is partial dependency
+write<00:04:46.030><c> partial</c><00:04:46.780><c> functional</c><00:04:47.320><c> dependency</c><00:04:47.740><c> you</c>
+
+00:04:47.820 --> 00:04:47.830 align:start position:0%
+write partial functional dependency you
+ 
+
+00:04:47.830 --> 00:04:50.100 align:start position:0%
+write partial functional dependency you
+can<00:04:47.980><c> say</c><00:04:48.100><c> now</c><00:04:48.580><c> obviously</c><00:04:49.000><c> I</c><00:04:49.120><c> will</c><00:04:49.300><c> discuss</c>
+
+00:04:50.100 --> 00:04:50.110 align:start position:0%
+can say now obviously I will discuss
+ 
+
+00:04:50.110 --> 00:04:51.660 align:start position:0%
+can say now obviously I will discuss
+this<00:04:50.230><c> with</c><00:04:50.470><c> elbow</c><00:04:50.710><c> in</c><00:04:50.770><c> this</c><00:04:50.920><c> example</c><00:04:51.280><c> then</c><00:04:51.550><c> you</c>
+
+00:04:51.660 --> 00:04:51.670 align:start position:0%
+this with elbow in this example then you
+ 
+
+00:04:51.670 --> 00:04:53.220 align:start position:0%
+this with elbow in this example then you
+will<00:04:51.760><c> get</c><00:04:51.910><c> it</c><00:04:51.970><c> better</c><00:04:52.180><c> now</c><00:04:52.720><c> what</c><00:04:52.870><c> is</c><00:04:52.990><c> known</c>
+
+00:04:53.220 --> 00:04:53.230 align:start position:0%
+will get it better now what is known
+ 
+
+00:04:53.230 --> 00:04:55.410 align:start position:0%
+will get it better now what is known
+primate<00:04:53.680><c> rib</c><00:04:53.860><c> you</c><00:04:53.980><c> see</c><00:04:54.460><c> I</c><00:04:54.490><c> hold</c><00:04:54.850><c> discussed</c>
+
+00:04:55.410 --> 00:04:55.420 align:start position:0%
+primate rib you see I hold discussed
+ 
+
+00:04:55.420 --> 00:04:57.260 align:start position:0%
+primate rib you see I hold discussed
+prime<00:04:55.690><c> a</c><00:04:55.810><c> tribute</c><00:04:56.170><c> non-prime</c><00:04:56.590><c> attribute</c>
+
+00:04:57.260 --> 00:04:57.270 align:start position:0%
+prime a tribute non-prime attribute
+ 
+
+00:04:57.270 --> 00:05:00.180 align:start position:0%
+prime a tribute non-prime attribute
+primary<00:04:58.270><c> boots</c><00:04:58.480><c> are</c><00:04:58.690><c> those</c><00:04:58.960><c> which</c><00:04:59.530><c> are</c><00:04:59.770><c> part</c>
+
+00:05:00.180 --> 00:05:00.190 align:start position:0%
+primary boots are those which are part
+ 
+
+00:05:00.190 --> 00:05:05.250 align:start position:0%
+primary boots are those which are part
+of<00:05:00.630><c> candidate</c><00:05:01.630><c> keys</c><00:05:02.220><c> right</c><00:05:03.540><c> suppose</c><00:05:04.540><c> here</c><00:05:04.930><c> in</c>
+
+00:05:05.250 --> 00:05:05.260 align:start position:0%
+of candidate keys right suppose here in
+ 
+
+00:05:05.260 --> 00:05:07.230 align:start position:0%
+of candidate keys right suppose here in
+this<00:05:05.500><c> relation</c><00:05:05.920><c> suppose</c><00:05:06.370><c> I</c><00:05:06.640><c> am</c><00:05:06.850><c> NOT</c><00:05:07.030><c> saying</c>
+
+00:05:07.230 --> 00:05:07.240 align:start position:0%
+this relation suppose I am NOT saying
+ 
+
+00:05:07.240 --> 00:05:09.180 align:start position:0%
+this relation suppose I am NOT saying
+that<00:05:07.390><c> these</c><00:05:08.020><c> are</c><00:05:08.080><c> the</c><00:05:08.320><c> candidate</c><00:05:08.680><c> key</c><00:05:08.830><c> suppose</c>
+
+00:05:09.180 --> 00:05:09.190 align:start position:0%
+that these are the candidate key suppose
+ 
+
+00:05:09.190 --> 00:05:12.210 align:start position:0%
+that these are the candidate key suppose
+a<00:05:09.400><c> D</c><00:05:09.460><c> is</c><00:05:09.730><c> candidate</c><00:05:10.180><c> key</c><00:05:10.450><c> B</c><00:05:11.410><c> C</c><00:05:11.620><c> is</c><00:05:11.740><c> candidate</c>
+
+00:05:12.210 --> 00:05:12.220 align:start position:0%
+a D is candidate key B C is candidate
+ 
+
+00:05:12.220 --> 00:05:14.190 align:start position:0%
+a D is candidate key B C is candidate
+key<00:05:12.430><c> to</c><00:05:12.640><c> candidate</c><00:05:13.180><c> keys</c><00:05:13.480><c> are</c><00:05:13.690><c> there</c><00:05:13.870><c> in</c><00:05:14.050><c> this</c>
+
+00:05:14.190 --> 00:05:14.200 align:start position:0%
+key to candidate keys are there in this
+ 
+
+00:05:14.200 --> 00:05:16.920 align:start position:0%
+key to candidate keys are there in this
+relation<00:05:14.710><c> right</c><00:05:15.220><c> so</c><00:05:15.790><c> prime</c><00:05:16.090><c> attributes</c><00:05:16.720><c> would</c>
+
+00:05:16.920 --> 00:05:16.930 align:start position:0%
+relation right so prime attributes would
+ 
+
+00:05:16.930 --> 00:05:23.160 align:start position:0%
+relation right so prime attributes would
+be<00:05:17.140><c> what</c><00:05:17.320><c> a</c><00:05:17.940><c> b</c><00:05:18.940><c> c</c><00:05:19.600><c> d</c><00:05:19.840><c> e</c><00:05:20.910><c> the</c><00:05:21.910><c> attributes</c><00:05:22.480><c> which</c>
+
+00:05:23.160 --> 00:05:23.170 align:start position:0%
+be what a b c d e the attributes which
+ 
+
+00:05:23.170 --> 00:05:26.250 align:start position:0%
+be what a b c d e the attributes which
+are<00:05:23.320><c> part</c><00:05:23.680><c> of</c><00:05:24.030><c> candidate</c><00:05:25.030><c> keys</c><00:05:25.390><c> or</c><00:05:25.960><c> which</c><00:05:26.110><c> are</c>
+
+00:05:26.250 --> 00:05:26.260 align:start position:0%
+are part of candidate keys or which are
+ 
+
+00:05:26.260 --> 00:05:28.260 align:start position:0%
+are part of candidate keys or which are
+making<00:05:26.740><c> the</c><00:05:26.890><c> candidate</c><00:05:27.370><c> key</c><00:05:27.610><c> those</c><00:05:27.850><c> are</c><00:05:28.030><c> prime</c>
+
+00:05:28.260 --> 00:05:28.270 align:start position:0%
+making the candidate key those are prime
+ 
+
+00:05:28.270 --> 00:05:30.720 align:start position:0%
+making the candidate key those are prime
+atributes<00:05:28.930><c> and</c><00:05:29.200><c> the</c><00:05:30.190><c> remaining</c><00:05:30.580><c> attributes</c>
+
+00:05:30.720 --> 00:05:30.730 align:start position:0%
+atributes and the remaining attributes
+ 
+
+00:05:30.730 --> 00:05:32.820 align:start position:0%
+atributes and the remaining attributes
+are<00:05:31.210><c> means</c><00:05:31.630><c> the</c><00:05:31.780><c> attributes</c><00:05:32.169><c> which</c><00:05:32.350><c> are</c><00:05:32.530><c> not</c>
+
+00:05:32.820 --> 00:05:32.830 align:start position:0%
+are means the attributes which are not
+ 
+
+00:05:32.830 --> 00:05:35.100 align:start position:0%
+are means the attributes which are not
+part<00:05:33.250><c> of</c><00:05:33.400><c> candidate</c><00:05:33.910><c> key</c><00:05:34.150><c> which</c><00:05:34.300><c> are</c><00:05:34.480><c> those</c>
+
+00:05:35.100 --> 00:05:35.110 align:start position:0%
+part of candidate key which are those
+ 
+
+00:05:35.110 --> 00:05:37.050 align:start position:0%
+part of candidate key which are those
+are<00:05:35.290><c> non-prime</c><00:05:36.130><c> attribute</c><00:05:36.280><c> so</c><00:05:36.820><c> here</c>
+
+00:05:37.050 --> 00:05:37.060 align:start position:0%
+are non-prime attribute so here
+ 
+
+00:05:37.060 --> 00:05:39.810 align:start position:0%
+are non-prime attribute so here
+non-prime<00:05:37.540><c> attribute</c><00:05:37.570><c> would</c><00:05:38.260><c> be</c><00:05:38.440><c> i</c><00:05:38.820><c> guess</c>
+
+00:05:39.810 --> 00:05:39.820 align:start position:0%
+non-prime attribute would be i guess
+ 
+
+00:05:39.820 --> 00:05:42.470 align:start position:0%
+non-prime attribute would be i guess
+only<00:05:40.240><c> F</c><00:05:40.750><c> would</c><00:05:41.140><c> be</c><00:05:41.200><c> non-prime</c><00:05:41.740><c> attribute</c>
+
+00:05:42.470 --> 00:05:42.480 align:start position:0%
+only F would be non-prime attribute
+ 
+
+00:05:42.480 --> 00:05:44.820 align:start position:0%
+only F would be non-prime attribute
+right<00:05:43.480><c> so</c><00:05:43.930><c> I</c><00:05:43.960><c> hope</c><00:05:44.169><c> you</c><00:05:44.290><c> all</c><00:05:44.320><c> know</c><00:05:44.440><c> what</c><00:05:44.710><c> is</c>
+
+00:05:44.820 --> 00:05:44.830 align:start position:0%
+right so I hope you all know what is
+ 
+
+00:05:44.830 --> 00:05:47.340 align:start position:0%
+right so I hope you all know what is
+known<00:05:45.040><c> primate</c><00:05:45.520><c> repute</c><00:05:45.960><c> so</c><00:05:46.960><c> now</c><00:05:47.110><c> let</c><00:05:47.320><c> us</c>
+
+00:05:47.340 --> 00:05:47.350 align:start position:0%
+known primate repute so now let us
+ 
+
+00:05:47.350 --> 00:05:51.540 align:start position:0%
+known primate repute so now let us
+discuss<00:05:47.650><c> it</c><00:05:48.100><c> with</c><00:05:49.090><c> this</c><00:05:49.240><c> example</c><00:05:49.630><c> let</c><00:05:50.560><c> us</c><00:05:50.590><c> find</c>
+
+00:05:51.540 --> 00:05:51.550 align:start position:0%
+discuss it with this example let us find
+ 
+
+00:05:51.550 --> 00:05:51.990 align:start position:0%
+discuss it with this example let us find
+out
+
+00:05:51.990 --> 00:05:52.000 align:start position:0%
+out
+ 
+
+00:05:52.000 --> 00:05:54.150 align:start position:0%
+out
+thus<00:05:52.270><c> this</c><00:05:52.540><c> relation</c><00:05:53.110><c> is</c><00:05:53.290><c> in</c><00:05:53.500><c> second</c><00:05:53.980><c> normal</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+thus this relation is in second normal
+ 
+
+00:05:54.160 --> 00:05:57.510 align:start position:0%
+thus this relation is in second normal
+form<00:05:54.430><c> or</c><00:05:54.910><c> not</c><00:05:54.970><c> right</c><00:05:55.780><c> and</c><00:05:56.050><c> after</c><00:05:56.860><c> that</c><00:05:57.010><c> we</c><00:05:57.460><c> will</c>
+
+00:05:57.510 --> 00:05:57.520 align:start position:0%
+form or not right and after that we will
+ 
+
+00:05:57.520 --> 00:05:58.890 align:start position:0%
+form or not right and after that we will
+discuss<00:05:57.880><c> it</c><00:05:58.000><c> with</c><00:05:58.030><c> help</c><00:05:58.300><c> of</c><00:05:58.419><c> two</c><00:05:58.750><c> or</c><00:05:58.870><c> three</c>
+
+00:05:58.890 --> 00:05:58.900 align:start position:0%
+discuss it with help of two or three
+ 
+
+00:05:58.900 --> 00:06:01.170 align:start position:0%
+discuss it with help of two or three
+examples<00:05:59.590><c> with</c><00:05:59.800><c> all</c><00:05:59.980><c> the</c><00:06:00.130><c> type</c><00:06:00.280><c> of</c><00:06:00.400><c> examples</c><00:06:01.000><c> I</c>
+
+00:06:01.170 --> 00:06:01.180 align:start position:0%
+examples with all the type of examples I
+ 
+
+00:06:01.180 --> 00:06:03.030 align:start position:0%
+examples with all the type of examples I
+will<00:06:01.660><c> take</c><00:06:01.780><c> all</c><00:06:01.930><c> the</c><00:06:02.050><c> type</c><00:06:02.200><c> of</c><00:06:02.320><c> examples</c><00:06:02.830><c> and</c>
+
+00:06:03.030 --> 00:06:03.040 align:start position:0%
+will take all the type of examples and
+ 
+
+00:06:03.040 --> 00:06:06.060 align:start position:0%
+will take all the type of examples and
+after<00:06:03.730><c> that</c><00:06:03.850><c> we</c><00:06:04.030><c> will</c><00:06:04.120><c> see</c><00:06:04.570><c> if</c><00:06:05.290><c> this</c><00:06:05.620><c> is</c><00:06:05.740><c> not</c><00:06:05.919><c> in</c>
+
+00:06:06.060 --> 00:06:06.070 align:start position:0%
+after that we will see if this is not in
+ 
+
+00:06:06.070 --> 00:06:08.010 align:start position:0%
+after that we will see if this is not in
+second<00:06:06.430><c> normal</c><00:06:06.730><c> form</c><00:06:06.790><c> then</c><00:06:07.330><c> how</c><00:06:07.480><c> to</c><00:06:07.540><c> convert</c>
+
+00:06:08.010 --> 00:06:08.020 align:start position:0%
+second normal form then how to convert
+ 
+
+00:06:08.020 --> 00:06:12.240 align:start position:0%
+second normal form then how to convert
+it<00:06:08.290><c> into</c><00:06:08.500><c> second</c><00:06:09.400><c> normal</c><00:06:09.430><c> form</c><00:06:10.169><c> right</c><00:06:11.169><c> so</c><00:06:12.130><c> now</c>
+
+00:06:12.240 --> 00:06:12.250 align:start position:0%
+it into second normal form right so now
+ 
+
+00:06:12.250 --> 00:06:14.820 align:start position:0%
+it into second normal form right so now
+this<00:06:12.490><c> is</c><00:06:12.669><c> in</c><00:06:12.820><c> first</c><00:06:13.120><c> normal</c><00:06:13.450><c> form</c><00:06:13.900><c> right</c><00:06:14.560><c> by</c>
+
+00:06:14.820 --> 00:06:14.830 align:start position:0%
+this is in first normal form right by
+ 
+
+00:06:14.830 --> 00:06:16.770 align:start position:0%
+this is in first normal form right by
+default<00:06:15.220><c> the</c><00:06:15.700><c> relational</c><00:06:16.090><c> schema</c><00:06:16.150><c> is</c><00:06:16.480><c> given</c>
+
+00:06:16.770 --> 00:06:16.780 align:start position:0%
+default the relational schema is given
+ 
+
+00:06:16.780 --> 00:06:18.480 align:start position:0%
+default the relational schema is given
+and<00:06:16.930><c> this</c><00:06:17.290><c> condition</c><00:06:17.800><c> is</c><00:06:17.919><c> satisfied</c><00:06:18.310><c> now</c><00:06:18.430><c> you</c>
+
+00:06:18.480 --> 00:06:18.490 align:start position:0%
+and this condition is satisfied now you
+ 
+
+00:06:18.490 --> 00:06:20.040 align:start position:0%
+and this condition is satisfied now you
+have<00:06:18.700><c> to</c><00:06:18.820><c> find</c><00:06:19.030><c> out</c><00:06:19.150><c> this</c><00:06:19.330><c> condition</c><00:06:19.810><c> means</c>
+
+00:06:20.040 --> 00:06:20.050 align:start position:0%
+have to find out this condition means
+ 
+
+00:06:20.050 --> 00:06:22.470 align:start position:0%
+have to find out this condition means
+there<00:06:20.350><c> should</c><00:06:20.500><c> be</c><00:06:20.620><c> no</c><00:06:20.770><c> partial</c><00:06:21.160><c> dependency</c><00:06:21.850><c> so</c>
+
+00:06:22.470 --> 00:06:22.480 align:start position:0%
+there should be no partial dependency so
+ 
+
+00:06:22.480 --> 00:06:24.120 align:start position:0%
+there should be no partial dependency so
+now<00:06:22.600><c> you</c><00:06:22.660><c> have</c><00:06:22.900><c> to</c><00:06:23.080><c> find</c><00:06:23.290><c> out</c><00:06:23.470><c> this</c><00:06:23.830><c> type</c><00:06:24.100><c> of</c>
+
+00:06:24.120 --> 00:06:24.130 align:start position:0%
+now you have to find out this type of
+ 
+
+00:06:24.130 --> 00:06:26.310 align:start position:0%
+now you have to find out this type of
+functional<00:06:24.910><c> dependency</c><00:06:25.510><c> here</c><00:06:25.720><c> if</c><00:06:25.870><c> this</c><00:06:26.110><c> type</c>
+
+00:06:26.310 --> 00:06:26.320 align:start position:0%
+functional dependency here if this type
+ 
+
+00:06:26.320 --> 00:06:27.960 align:start position:0%
+functional dependency here if this type
+of<00:06:26.350><c> functional</c><00:06:26.770><c> dependency</c><00:06:27.280><c> present</c><00:06:27.700><c> here</c>
+
+00:06:27.960 --> 00:06:27.970 align:start position:0%
+of functional dependency present here
+ 
+
+00:06:27.970 --> 00:06:30.000 align:start position:0%
+of functional dependency present here
+then<00:06:28.660><c> you</c><00:06:28.810><c> can</c><00:06:28.930><c> say</c><00:06:29.080><c> this</c><00:06:29.230><c> is</c><00:06:29.380><c> not</c><00:06:29.530><c> in</c><00:06:29.680><c> second</c>
+
+00:06:30.000 --> 00:06:30.010 align:start position:0%
+then you can say this is not in second
+ 
+
+00:06:30.010 --> 00:06:32.340 align:start position:0%
+then you can say this is not in second
+normal<00:06:30.100><c> form</c><00:06:30.310><c> right</c><00:06:30.940><c> but</c><00:06:31.660><c> for</c><00:06:31.900><c> this</c><00:06:32.020><c> you</c><00:06:32.230><c> have</c>
+
+00:06:32.340 --> 00:06:32.350 align:start position:0%
+normal form right but for this you have
+ 
+
+00:06:32.350 --> 00:06:34.680 align:start position:0%
+normal form right but for this you have
+to<00:06:32.500><c> find</c><00:06:32.710><c> out</c><00:06:32.830><c> what</c><00:06:33.130><c> is</c><00:06:33.250><c> candidate</c><00:06:33.730><c> here</c><00:06:34.060><c> to</c>
+
+00:06:34.680 --> 00:06:34.690 align:start position:0%
+to find out what is candidate here to
+ 
+
+00:06:34.690 --> 00:06:36.510 align:start position:0%
+to find out what is candidate here to
+find<00:06:34.930><c> out</c><00:06:35.080><c> the</c><00:06:35.110><c> proper</c><00:06:35.410><c> subset</c><00:06:35.950><c> of</c><00:06:35.979><c> candidate</c>
+
+00:06:36.510 --> 00:06:36.520 align:start position:0%
+find out the proper subset of candidate
+ 
+
+00:06:36.520 --> 00:06:38.340 align:start position:0%
+find out the proper subset of candidate
+keys<00:06:36.910><c> you</c><00:06:37.180><c> have</c><00:06:37.330><c> to</c><00:06:37.510><c> find</c><00:06:37.690><c> out</c><00:06:37.810><c> all</c><00:06:38.140><c> the</c>
+
+00:06:38.340 --> 00:06:38.350 align:start position:0%
+keys you have to find out all the
+ 
+
+00:06:38.350 --> 00:06:38.980 align:start position:0%
+keys you have to find out all the
+candidate
+
+00:06:38.980 --> 00:06:38.990 align:start position:0%
+candidate
+ 
+
+00:06:38.990 --> 00:06:41.470 align:start position:0%
+candidate
+from<00:06:39.230><c> a</c><00:06:39.320><c> relation</c><00:06:39.770><c> right</c><00:06:40.250><c> without</c><00:06:41.060><c> finding</c>
+
+00:06:41.470 --> 00:06:41.480 align:start position:0%
+from a relation right without finding
+ 
+
+00:06:41.480 --> 00:06:43.330 align:start position:0%
+from a relation right without finding
+candidate<00:06:42.020><c> he</c><00:06:42.260><c> is</c><00:06:42.290><c> you</c><00:06:42.440><c> cannot</c><00:06:42.710><c> do</c><00:06:42.950><c> anything</c>
+
+00:06:43.330 --> 00:06:43.340 align:start position:0%
+candidate he is you cannot do anything
+ 
+
+00:06:43.340 --> 00:06:45.250 align:start position:0%
+candidate he is you cannot do anything
+so<00:06:44.030><c> that</c><00:06:44.210><c> is</c><00:06:44.330><c> very</c><00:06:44.480><c> important</c><00:06:44.960><c> now</c><00:06:45.050><c> how</c><00:06:45.200><c> to</c>
+
+00:06:45.250 --> 00:06:45.260 align:start position:0%
+so that is very important now how to
+ 
+
+00:06:45.260 --> 00:06:47.920 align:start position:0%
+so that is very important now how to
+find<00:06:45.590><c> out</c><00:06:45.710><c> candidate</c><00:06:46.220><c> keys</c><00:06:46.660><c> we</c><00:06:47.660><c> have</c><00:06:47.690><c> already</c>
+
+00:06:47.920 --> 00:06:47.930 align:start position:0%
+find out candidate keys we have already
+ 
+
+00:06:47.930 --> 00:06:49.780 align:start position:0%
+find out candidate keys we have already
+discussed<00:06:48.530><c> candidate</c><00:06:49.130><c> key</c><00:06:49.310><c> is</c><00:06:49.370><c> what</c><00:06:49.610><c> the</c>
+
+00:06:49.780 --> 00:06:49.790 align:start position:0%
+discussed candidate key is what the
+ 
+
+00:06:49.790 --> 00:06:52.090 align:start position:0%
+discussed candidate key is what the
+minimal<00:06:50.150><c> superkey</c><00:06:50.510><c> so</c><00:06:51.080><c> now</c><00:06:51.290><c> here</c><00:06:51.590><c> how</c><00:06:51.740><c> to</c><00:06:51.800><c> find</c>
+
+00:06:52.090 --> 00:06:52.100 align:start position:0%
+minimal superkey so now here how to find
+ 
+
+00:06:52.100 --> 00:06:56.350 align:start position:0%
+minimal superkey so now here how to find
+out<00:06:53.500><c> by</c><00:06:54.500><c> taking</c><00:06:54.710><c> the</c><00:06:54.980><c> attribute</c><00:06:55.460><c> closer</c><00:06:55.880><c> so</c>
+
+00:06:56.350 --> 00:06:56.360 align:start position:0%
+out by taking the attribute closer so
+ 
+
+00:06:56.360 --> 00:06:57.940 align:start position:0%
+out by taking the attribute closer so
+that<00:06:56.390><c> also</c><00:06:56.780><c> I</c><00:06:56.930><c> have</c><00:06:57.200><c> discussed</c><00:06:57.590><c> what</c><00:06:57.830><c> is</c>
+
+00:06:57.940 --> 00:06:57.950 align:start position:0%
+that also I have discussed what is
+ 
+
+00:06:57.950 --> 00:06:59.620 align:start position:0%
+that also I have discussed what is
+attribute<00:06:58.400><c> closer</c><00:06:58.670><c> and</c><00:06:58.910><c> how</c><00:06:59.030><c> to</c><00:06:59.090><c> find</c><00:06:59.450><c> out</c>
+
+00:06:59.620 --> 00:06:59.630 align:start position:0%
+attribute closer and how to find out
+ 
+
+00:06:59.630 --> 00:07:02.460 align:start position:0%
+attribute closer and how to find out
+that<00:06:59.900><c> Ribit</c><00:07:00.290><c> closer</c><00:07:00.560><c> of</c><00:07:00.830><c> an</c><00:07:00.980><c> attribute</c><00:07:01.130><c> right</c>
+
+00:07:02.460 --> 00:07:02.470 align:start position:0%
+that Ribit closer of an attribute right
+ 
+
+00:07:02.470 --> 00:07:04.630 align:start position:0%
+that Ribit closer of an attribute right
+so<00:07:03.470><c> I</c><00:07:03.500><c> will</c><00:07:03.770><c> take</c><00:07:03.920><c> first</c><00:07:04.130><c> of</c><00:07:04.280><c> all</c><00:07:04.430><c> all</c><00:07:04.610><c> the</c>
+
+00:07:04.630 --> 00:07:04.640 align:start position:0%
+so I will take first of all all the
+ 
+
+00:07:04.640 --> 00:07:06.100 align:start position:0%
+so I will take first of all all the
+attributes<00:07:05.240><c> find</c><00:07:05.570><c> out</c><00:07:05.690><c> the</c><00:07:05.840><c> closer</c>
+
+00:07:06.100 --> 00:07:06.110 align:start position:0%
+attributes find out the closer
+ 
+
+00:07:06.110 --> 00:07:10.960 align:start position:0%
+attributes find out the closer
+definitely<00:07:07.570><c> it</c><00:07:08.570><c> will</c><00:07:08.720><c> find</c><00:07:08.990><c> out</c><00:07:09.310><c> all</c><00:07:10.310><c> that</c>
+
+00:07:10.960 --> 00:07:10.970 align:start position:0%
+definitely it will find out all that
+ 
+
+00:07:10.970 --> 00:07:12.790 align:start position:0%
+definitely it will find out all that
+reviews<00:07:11.390><c> so</c><00:07:11.780><c> this</c><00:07:11.990><c> is</c><00:07:12.110><c> all</c><00:07:12.260><c> definitely</c><00:07:12.590><c> a</c>
+
+00:07:12.790 --> 00:07:12.800 align:start position:0%
+reviews so this is all definitely a
+ 
+
+00:07:12.800 --> 00:07:15.370 align:start position:0%
+reviews so this is all definitely a
+super<00:07:13.190><c> key</c><00:07:13.370><c> right</c><00:07:14.240><c> because</c><00:07:14.840><c> of</c><00:07:14.930><c> reflexive</c>
+
+00:07:15.370 --> 00:07:15.380 align:start position:0%
+super key right because of reflexive
+ 
+
+00:07:15.380 --> 00:07:18.850 align:start position:0%
+super key right because of reflexive
+reflexivity<00:07:16.040><c> property</c><00:07:16.640><c> now</c><00:07:17.510><c> try</c><00:07:18.320><c> to</c><00:07:18.350><c> discard</c>
+
+00:07:18.850 --> 00:07:18.860 align:start position:0%
+reflexivity property now try to discard
+ 
+
+00:07:18.860 --> 00:07:21.910 align:start position:0%
+reflexivity property now try to discard
+attributes<00:07:19.520><c> from</c><00:07:19.850><c> here</c><00:07:20.180><c> so</c><00:07:20.750><c> now</c><00:07:21.020><c> a</c><00:07:21.320><c> can</c>
+
+00:07:21.910 --> 00:07:21.920 align:start position:0%
+attributes from here so now a can
+ 
+
+00:07:21.920 --> 00:07:24.640 align:start position:0%
+attributes from here so now a can
+determine<00:07:22.220><c> B</c><00:07:22.640><c> so</c><00:07:23.360><c> we</c><00:07:23.810><c> have</c><00:07:23.840><c> a</c><00:07:24.260><c> so</c><00:07:24.320><c> I</c><00:07:24.560><c> can</c>
+
+00:07:24.640 --> 00:07:24.650 align:start position:0%
+determine B so we have a so I can
+ 
+
+00:07:24.650 --> 00:07:26.620 align:start position:0%
+determine B so we have a so I can
+discard<00:07:25.160><c> B</c><00:07:25.400><c> from</c><00:07:25.610><c> here</c><00:07:25.700><c> because</c><00:07:26.210><c> if</c><00:07:26.360><c> you</c><00:07:26.390><c> have</c>
+
+00:07:26.620 --> 00:07:26.630 align:start position:0%
+discard B from here because if you have
+ 
+
+00:07:26.630 --> 00:07:28.900 align:start position:0%
+discard B from here because if you have
+a<00:07:26.870><c> then</c><00:07:27.350><c> a</c><00:07:27.500><c> can</c><00:07:27.680><c> determine</c><00:07:27.920><c> itself</c><00:07:28.400><c> and</c><00:07:28.640><c> a</c><00:07:28.730><c> can</c>
+
+00:07:28.900 --> 00:07:28.910 align:start position:0%
+a then a can determine itself and a can
+ 
+
+00:07:28.910 --> 00:07:32.290 align:start position:0%
+a then a can determine itself and a can
+determine<00:07:29.180><c> B</c><00:07:29.480><c> also</c><00:07:29.660><c> so</c><00:07:30.230><c> you</c><00:07:30.320><c> can</c><00:07:30.470><c> discard</c><00:07:30.770><c> B</c><00:07:31.300><c> it</c>
+
+00:07:32.290 --> 00:07:32.300 align:start position:0%
+determine B also so you can discard B it
+ 
+
+00:07:32.300 --> 00:07:34.480 align:start position:0%
+determine B also so you can discard B it
+can<00:07:32.480><c> determine</c><00:07:32.690><c> V</c><00:07:32.990><c> B</c><00:07:33.170><c> can</c><00:07:33.320><c> determine</c><00:07:33.560><c> C</c><00:07:33.950><c> so</c><00:07:34.340><c> by</c>
+
+00:07:34.480 --> 00:07:34.490 align:start position:0%
+can determine V B can determine C so by
+ 
+
+00:07:34.490 --> 00:07:36.610 align:start position:0%
+can determine V B can determine C so by
+transitivity<00:07:34.940><c> property</c><00:07:35.510><c> a</c><00:07:35.660><c> can</c><00:07:35.900><c> determine</c><00:07:36.200><c> C</c>
+
+00:07:36.610 --> 00:07:36.620 align:start position:0%
+transitivity property a can determine C
+ 
+
+00:07:36.620 --> 00:07:39.310 align:start position:0%
+transitivity property a can determine C
+so<00:07:36.830><c> you</c><00:07:36.860><c> can</c><00:07:37.070><c> discard</c><00:07:37.400><c> C</c><00:07:37.700><c> C</c><00:07:38.540><c> can</c><00:07:38.720><c> determine</c><00:07:38.990><c> D</c>
+
+00:07:39.310 --> 00:07:39.320 align:start position:0%
+so you can discard C C can determine D
+ 
+
+00:07:39.320 --> 00:07:41.320 align:start position:0%
+so you can discard C C can determine D
+so<00:07:39.650><c> by</c><00:07:39.800><c> transitivity</c><00:07:40.220><c> property</c><00:07:40.790><c> a</c><00:07:40.970><c> can</c><00:07:41.150><c> also</c>
+
+00:07:41.320 --> 00:07:41.330 align:start position:0%
+so by transitivity property a can also
+ 
+
+00:07:41.330 --> 00:07:44.680 align:start position:0%
+so by transitivity property a can also
+determine<00:07:41.840><c> B</c><00:07:42.230><c> so</c><00:07:42.440><c> you</c><00:07:42.530><c> can</c><00:07:42.710><c> discard</c><00:07:43.010><c> D</c><00:07:43.540><c> now</c><00:07:44.540><c> I</c>
+
+00:07:44.680 --> 00:07:44.690 align:start position:0%
+determine B so you can discard D now I
+ 
+
+00:07:44.690 --> 00:07:47.050 align:start position:0%
+determine B so you can discard D now I
+can<00:07:44.870><c> determine</c><00:07:45.080><c> D</c><00:07:45.440><c> and</c><00:07:45.590><c> D</c><00:07:45.830><c> can</c><00:07:46.040><c> determine</c><00:07:46.310><c> e</c><00:07:46.700><c> so</c>
+
+00:07:47.050 --> 00:07:47.060 align:start position:0%
+can determine D and D can determine e so
+ 
+
+00:07:47.060 --> 00:07:49.450 align:start position:0%
+can determine D and D can determine e so
+by<00:07:47.210><c> default</c><00:07:47.570><c> a</c><00:07:47.750><c> can</c><00:07:47.960><c> determine</c><00:07:48.260><c> e</c><00:07:48.590><c> means</c><00:07:49.100><c> by</c>
+
+00:07:49.450 --> 00:07:49.460 align:start position:0%
+by default a can determine e means by
+ 
+
+00:07:49.460 --> 00:07:51.220 align:start position:0%
+by default a can determine e means by
+transitivity<00:07:49.880><c> property</c><00:07:50.480><c> so</c><00:07:50.660><c> you</c><00:07:50.690><c> can</c><00:07:50.900><c> discard</c>
+
+00:07:51.220 --> 00:07:51.230 align:start position:0%
+transitivity property so you can discard
+ 
+
+00:07:51.230 --> 00:07:57.040 align:start position:0%
+transitivity property so you can discard
+e<00:07:52.750><c> can</c><00:07:53.750><c> you</c><00:07:53.840><c> discard</c><00:07:54.230><c> F</c><00:07:54.970><c> no</c><00:07:55.970><c> we</c><00:07:56.720><c> don't</c><00:07:56.870><c> have</c>
+
+00:07:57.040 --> 00:07:57.050 align:start position:0%
+e can you discard F no we don't have
+ 
+
+00:07:57.050 --> 00:07:58.630 align:start position:0%
+e can you discard F no we don't have
+such<00:07:57.200><c> type</c><00:07:57.440><c> of</c><00:07:57.470><c> dependent</c><00:07:58.010><c> dependency</c><00:07:58.520><c> that</c>
+
+00:07:58.630 --> 00:07:58.640 align:start position:0%
+such type of dependent dependency that
+ 
+
+00:07:58.640 --> 00:08:00.850 align:start position:0%
+such type of dependent dependency that
+using<00:07:59.090><c> that</c><00:07:59.270><c> we</c><00:07:59.480><c> can</c><00:07:59.600><c> discard</c><00:07:59.930><c> F</c><00:08:00.200><c> because</c>
+
+00:08:00.850 --> 00:08:00.860 align:start position:0%
+using that we can discard F because
+ 
+
+00:08:00.860 --> 00:08:02.980 align:start position:0%
+using that we can discard F because
+nothing<00:08:01.220><c> is</c><00:08:01.340><c> going</c><00:08:01.400><c> to</c><00:08:01.700><c> find</c><00:08:01.940><c> out</c><00:08:02.180><c> nothing</c><00:08:02.870><c> is</c>
+
+00:08:02.980 --> 00:08:02.990 align:start position:0%
+nothing is going to find out nothing is
+ 
+
+00:08:02.990 --> 00:08:06.480 align:start position:0%
+nothing is going to find out nothing is
+determining<00:08:03.560><c> here</c><00:08:03.710><c> F</c><00:08:03.920><c> so</c><00:08:04.820><c> now</c><00:08:04.940><c> a</c><00:08:05.180><c> and</c><00:08:05.420><c> if</c><00:08:05.540><c> you</c>
+
+00:08:06.480 --> 00:08:06.490 align:start position:0%
+determining here F so now a and if you
+ 
+
+00:08:06.490 --> 00:08:08.740 align:start position:0%
+determining here F so now a and if you
+can<00:08:07.490><c> take</c><00:08:07.670><c> the</c><00:08:07.790><c> closer</c><00:08:08.000><c> and</c><00:08:08.240><c> you</c><00:08:08.360><c> will</c><00:08:08.480><c> find</c>
+
+00:08:08.740 --> 00:08:08.750 align:start position:0%
+can take the closer and you will find
+ 
+
+00:08:08.750 --> 00:08:10.300 align:start position:0%
+can take the closer and you will find
+all<00:08:08.900><c> the</c><00:08:08.960><c> attributes</c><00:08:09.530><c> so</c><00:08:09.680><c> this</c><00:08:09.890><c> would</c><00:08:10.070><c> be</c><00:08:10.190><c> the</c>
+
+00:08:10.300 --> 00:08:10.310 align:start position:0%
+all the attributes so this would be the
+ 
+
+00:08:10.310 --> 00:08:13.510 align:start position:0%
+all the attributes so this would be the
+super<00:08:10.640><c> key</c><00:08:11.260><c> right</c><00:08:12.260><c> so</c><00:08:12.800><c> how</c><00:08:12.920><c> to</c><00:08:12.980><c> find</c><00:08:13.100><c> out</c><00:08:13.340><c> that</c>
+
+00:08:13.510 --> 00:08:13.520 align:start position:0%
+super key right so how to find out that
+ 
+
+00:08:13.520 --> 00:08:15.910 align:start position:0%
+super key right so how to find out that
+that<00:08:13.700><c> is</c><00:08:13.880><c> candidate</c><00:08:14.210><c> here</c><00:08:14.480><c> not</c><00:08:14.690><c> proper</c><00:08:15.500><c> subset</c>
+
+00:08:15.910 --> 00:08:15.920 align:start position:0%
+that is candidate here not proper subset
+ 
+
+00:08:15.920 --> 00:08:20.770 align:start position:0%
+that is candidate here not proper subset
+is<00:08:16.070><c> a</c><00:08:16.310><c> and</c><00:08:16.610><c> F</c><00:08:17.830><c> proper</c><00:08:18.830><c> subset</c><00:08:19.250><c> is</c><00:08:19.430><c> if</c><00:08:20.330><c> proper</c>
+
+00:08:20.770 --> 00:08:20.780 align:start position:0%
+is a and F proper subset is if proper
+ 
+
+00:08:20.780 --> 00:08:22.420 align:start position:0%
+is a and F proper subset is if proper
+subset<00:08:21.110><c> is</c><00:08:21.200><c> also</c><00:08:21.470><c> super</c><00:08:21.620><c> in</c><00:08:21.920><c> and</c><00:08:22.100><c> that</c><00:08:22.250><c> would</c>
+
+00:08:22.420 --> 00:08:22.430 align:start position:0%
+subset is also super in and that would
+ 
+
+00:08:22.430 --> 00:08:24.700 align:start position:0%
+subset is also super in and that would
+not<00:08:22.640><c> be</c><00:08:22.820><c> a</c><00:08:22.850><c> candidate</c><00:08:23.270><c> key</c><00:08:23.510><c> you</c><00:08:24.170><c> can</c><00:08:24.350><c> find</c><00:08:24.590><c> out</c>
+
+00:08:24.700 --> 00:08:24.710 align:start position:0%
+not be a candidate key you can find out
+ 
+
+00:08:24.710 --> 00:08:27.010 align:start position:0%
+not be a candidate key you can find out
+closure<00:08:24.980><c> of</c><00:08:25.190><c> a</c><00:08:25.400><c> closure</c><00:08:26.030><c> of</c><00:08:26.240><c> a</c><00:08:26.390><c> will</c><00:08:26.600><c> find</c><00:08:26.870><c> out</c>
+
+00:08:27.010 --> 00:08:27.020 align:start position:0%
+closure of a closure of a will find out
+ 
+
+00:08:27.020 --> 00:08:31.000 align:start position:0%
+closure of a closure of a will find out
+a<00:08:27.230><c> right</c><00:08:28.220><c> itself</c><00:08:28.820><c> then</c><00:08:29.570><c> B</c><00:08:29.870><c> then</c><00:08:29.900><c> C</c><00:08:30.260><c> then</c><00:08:30.770><c> D</c><00:08:30.800><c> then</c>
+
+00:08:31.000 --> 00:08:31.010 align:start position:0%
+a right itself then B then C then D then
+ 
+
+00:08:31.010 --> 00:08:33.760 align:start position:0%
+a right itself then B then C then D then
+e<00:08:31.460><c> not</c><00:08:31.940><c> F</c><00:08:32.240><c> so</c><00:08:32.480><c> this</c><00:08:32.660><c> is</c><00:08:32.750><c> not</c><00:08:32.900><c> super</c><00:08:33.200><c> key</c><00:08:33.380><c> F</c>
+
+00:08:33.760 --> 00:08:33.770 align:start position:0%
+e not F so this is not super key F
+ 
+
+00:08:33.770 --> 00:08:36.580 align:start position:0%
+e not F so this is not super key F
+proper<00:08:34.460><c> F</c><00:08:34.640><c> closer</c><00:08:35.000><c> would</c><00:08:35.210><c> we</c><00:08:35.360><c> want</c><00:08:35.570><c> only</c><00:08:36.140><c> F</c><00:08:36.290><c> F</c>
+
+00:08:36.580 --> 00:08:36.590 align:start position:0%
+proper F closer would we want only F F
+ 
+
+00:08:36.590 --> 00:08:39.100 align:start position:0%
+proper F closer would we want only F F
+can<00:08:37.070><c> determine</c><00:08:37.340><c> itself</c><00:08:38.000><c> this</c><00:08:38.690><c> is</c><00:08:38.840><c> trivial</c>
+
+00:08:39.100 --> 00:08:39.110 align:start position:0%
+can determine itself this is trivial
+ 
+
+00:08:39.110 --> 00:08:42.460 align:start position:0%
+can determine itself this is trivial
+functional<00:08:40.010><c> dependency</c><00:08:40.780><c> nothing</c><00:08:41.780><c> else</c><00:08:41.960><c> so</c>
+
+00:08:42.460 --> 00:08:42.470 align:start position:0%
+functional dependency nothing else so
+ 
+
+00:08:42.470 --> 00:08:44.020 align:start position:0%
+functional dependency nothing else so
+this<00:08:42.620><c> is</c><00:08:42.740><c> also</c><00:08:42.890><c> not</c><00:08:43.100><c> super</c><00:08:43.280><c> key</c><00:08:43.520><c> so</c><00:08:43.670><c> you</c><00:08:43.700><c> here</c>
+
+00:08:44.020 --> 00:08:44.030 align:start position:0%
+this is also not super key so you here
+ 
+
+00:08:44.030 --> 00:08:47.050 align:start position:0%
+this is also not super key so you here
+you<00:08:44.150><c> can</c><00:08:44.210><c> say</c><00:08:44.510><c> AF</c><00:08:45.170><c> is</c><00:08:45.560><c> candidate</c><00:08:46.520><c> key</c><00:08:46.790><c> because</c>
+
+00:08:47.050 --> 00:08:47.060 align:start position:0%
+you can say AF is candidate key because
+ 
+
+00:08:47.060 --> 00:08:49.480 align:start position:0%
+you can say AF is candidate key because
+no<00:08:47.270><c> proper</c><00:08:47.660><c> subset</c><00:08:47.810><c> of</c><00:08:48.050><c> super</c><00:08:48.740><c> key</c><00:08:48.980><c> the</c><00:08:49.190><c> super</c>
+
+00:08:49.480 --> 00:08:49.490 align:start position:0%
+no proper subset of super key the super
+ 
+
+00:08:49.490 --> 00:08:52.390 align:start position:0%
+no proper subset of super key the super
+key<00:08:49.700><c> is</c><00:08:50.560><c> super</c><00:08:51.560><c> key</c>
+
+00:08:52.390 --> 00:08:52.400 align:start position:0%
+key is super key
+ 
+
+00:08:52.400 --> 00:08:56.800 align:start position:0%
+key is super key
+so<00:08:52.880><c> here</c><00:08:53.090><c> AF</c><00:08:53.570><c> is</c><00:08:53.780><c> what</c><00:08:54.160><c> candidate</c><00:08:55.480><c> we</c><00:08:56.480><c> have</c><00:08:56.600><c> got</c>
+
+00:08:56.800 --> 00:08:56.810 align:start position:0%
+so here AF is what candidate we have got
+ 
+
+00:08:56.810 --> 00:09:00.850 align:start position:0%
+so here AF is what candidate we have got
+one<00:08:57.080><c> candidate</c><00:08:57.620><c> key</c><00:08:57.830><c> that</c><00:08:58.010><c> is</c><00:08:58.190><c> F</c><00:08:58.730><c> so</c><00:08:59.720><c> now</c><00:08:59.860><c> we</c>
+
+00:09:00.850 --> 00:09:00.860 align:start position:0%
+one candidate key that is F so now we
+ 
+
+00:09:00.860 --> 00:09:02.710 align:start position:0%
+one candidate key that is F so now we
+have<00:09:01.040><c> got</c><00:09:01.220><c> as</c><00:09:01.370><c> well</c><00:09:01.550><c> as</c><00:09:01.670><c> the</c><00:09:01.790><c> primary</c><00:09:02.060><c> beauts</c>
+
+00:09:02.710 --> 00:09:02.720 align:start position:0%
+have got as well as the primary beauts
+ 
+
+00:09:02.720 --> 00:09:07.870 align:start position:0%
+have got as well as the primary beauts
+right<00:09:03.200><c> means</c><00:09:03.950><c> a</c><00:09:04.130><c> and</c><00:09:04.220><c> F</c><00:09:04.550><c> a</c><00:09:05.590><c> comma</c><00:09:06.590><c> F</c><00:09:06.890><c> R</c><00:09:07.190><c> prime</c>
+
+00:09:07.870 --> 00:09:07.880 align:start position:0%
+right means a and F a comma F R prime
+ 
+
+00:09:07.880 --> 00:09:11.530 align:start position:0%
+right means a and F a comma F R prime
+attributes<00:09:09.670><c> now</c><00:09:10.670><c> you</c><00:09:10.730><c> have</c><00:09:11.030><c> to</c><00:09:11.150><c> find</c><00:09:11.360><c> out</c>
+
+00:09:11.530 --> 00:09:11.540 align:start position:0%
+attributes now you have to find out
+ 
+
+00:09:11.540 --> 00:09:14.260 align:start position:0%
+attributes now you have to find out
+still<00:09:12.380><c> there</c><00:09:12.620><c> are</c><00:09:12.740><c> another</c><00:09:13.010><c> more</c><00:09:13.640><c> so</c><00:09:13.850><c> more</c>
+
+00:09:14.260 --> 00:09:14.270 align:start position:0%
+still there are another more so more
+ 
+
+00:09:14.270 --> 00:09:16.150 align:start position:0%
+still there are another more so more
+candidate<00:09:14.720><c> keys</c><00:09:14.930><c> exist</c><00:09:15.350><c> in</c><00:09:15.500><c> the</c><00:09:15.620><c> relation</c><00:09:16.040><c> or</c>
+
+00:09:16.150 --> 00:09:16.160 align:start position:0%
+candidate keys exist in the relation or
+ 
+
+00:09:16.160 --> 00:09:17.620 align:start position:0%
+candidate keys exist in the relation or
+not<00:09:16.340><c> because</c><00:09:16.670><c> we</c><00:09:16.700><c> have</c><00:09:17.030><c> what</c><00:09:17.210><c> only</c><00:09:17.360><c> one</c>
+
+00:09:17.620 --> 00:09:17.630 align:start position:0%
+not because we have what only one
+ 
+
+00:09:17.630 --> 00:09:19.180 align:start position:0%
+not because we have what only one
+candidate<00:09:18.020><c> you</c><00:09:18.200><c> know</c><00:09:18.230><c> how</c><00:09:18.470><c> to</c><00:09:18.530><c> find</c><00:09:18.860><c> out</c><00:09:18.980><c> that</c>
+
+00:09:19.180 --> 00:09:19.190 align:start position:0%
+candidate you know how to find out that
+ 
+
+00:09:19.190 --> 00:09:21.820 align:start position:0%
+candidate you know how to find out that
+thing<00:09:19.430><c> if</c><00:09:20.240><c> the</c><00:09:20.810><c> prime</c><00:09:21.020><c> attributes</c><00:09:21.620><c> are</c>
+
+00:09:21.820 --> 00:09:21.830 align:start position:0%
+thing if the prime attributes are
+ 
+
+00:09:21.830 --> 00:09:24.010 align:start position:0%
+thing if the prime attributes are
+present<00:09:22.310><c> on</c><00:09:22.490><c> the</c><00:09:22.700><c> right</c><00:09:23.030><c> hand</c><00:09:23.360><c> side</c><00:09:23.450><c> of</c><00:09:23.780><c> any</c>
+
+00:09:24.010 --> 00:09:24.020 align:start position:0%
+present on the right hand side of any
+ 
+
+00:09:24.020 --> 00:09:25.810 align:start position:0%
+present on the right hand side of any
+functional<00:09:24.500><c> dependency</c><00:09:25.100><c> then</c><00:09:25.610><c> definitely</c>
+
+00:09:25.810 --> 00:09:25.820 align:start position:0%
+functional dependency then definitely
+ 
+
+00:09:25.820 --> 00:09:27.670 align:start position:0%
+functional dependency then definitely
+there<00:09:26.330><c> would</c><00:09:26.510><c> be</c><00:09:26.540><c> more</c><00:09:26.930><c> candidate</c><00:09:27.440><c> he</c><00:09:27.620><c> is</c>
+
+00:09:27.670 --> 00:09:27.680 align:start position:0%
+there would be more candidate he is
+ 
+
+00:09:27.680 --> 00:09:32.020 align:start position:0%
+there would be more candidate he is
+present<00:09:28.130><c> if</c><00:09:28.580><c> not</c><00:09:29.440><c> then</c><00:09:30.520><c> there</c><00:09:31.520><c> would</c><00:09:31.670><c> be</c><00:09:31.700><c> no</c>
+
+00:09:32.020 --> 00:09:32.030 align:start position:0%
+present if not then there would be no
+ 
+
+00:09:32.030 --> 00:09:34.450 align:start position:0%
+present if not then there would be no
+more<00:09:32.270><c> candidate</c><00:09:32.750><c> he</c><00:09:32.900><c> so</c><00:09:33.440><c> find</c><00:09:33.650><c> out</c><00:09:33.770><c> is</c><00:09:34.040><c> a</c>
+
+00:09:34.450 --> 00:09:34.460 align:start position:0%
+more candidate he so find out is a
+ 
+
+00:09:34.460 --> 00:09:36.280 align:start position:0%
+more candidate he so find out is a
+present<00:09:34.970><c> on</c><00:09:35.150><c> the</c><00:09:35.270><c> right</c><00:09:35.300><c> hand</c><00:09:35.720><c> side</c><00:09:35.930><c> of</c><00:09:36.110><c> any</c>
+
+00:09:36.280 --> 00:09:36.290 align:start position:0%
+present on the right hand side of any
+ 
+
+00:09:36.290 --> 00:09:40.750 align:start position:0%
+present on the right hand side of any
+functional<00:09:36.710><c> dependency</c><00:09:37.310><c> no</c><00:09:37.760><c> F</c><00:09:39.040><c> no</c><00:09:40.070><c> so</c><00:09:40.490><c> in</c><00:09:40.610><c> this</c>
+
+00:09:40.750 --> 00:09:40.760 align:start position:0%
+functional dependency no F no so in this
+ 
+
+00:09:40.760 --> 00:09:42.670 align:start position:0%
+functional dependency no F no so in this
+relation<00:09:41.240><c> only</c><00:09:41.540><c> one</c><00:09:41.720><c> candidate</c><00:09:42.140><c> key</c><00:09:42.350><c> is</c><00:09:42.410><c> there</c>
+
+00:09:42.670 --> 00:09:42.680 align:start position:0%
+relation only one candidate key is there
+ 
+
+00:09:42.680 --> 00:09:45.610 align:start position:0%
+relation only one candidate key is there
+that<00:09:42.920><c> is</c><00:09:43.100><c> a</c><00:09:43.280><c> F</c><00:09:43.700><c> no</c><00:09:44.030><c> more</c><00:09:44.240><c> candidate</c><00:09:44.720><c> key</c><00:09:44.990><c> you</c>
+
+00:09:45.610 --> 00:09:45.620 align:start position:0%
+that is a F no more candidate key you
+ 
+
+00:09:45.620 --> 00:09:48.070 align:start position:0%
+that is a F no more candidate key you
+will<00:09:45.770><c> find</c><00:09:46.280><c> like</c><00:09:47.090><c> that</c><00:09:47.300><c> is</c><00:09:47.450><c> the</c><00:09:47.570><c> short</c><00:09:47.810><c> break</c>
+
+00:09:48.070 --> 00:09:48.080 align:start position:0%
+will find like that is the short break
+ 
+
+00:09:48.080 --> 00:09:49.140 align:start position:0%
+will find like that is the short break
+fine
+
+00:09:49.140 --> 00:09:49.150 align:start position:0%
+fine
+ 
+
+00:09:49.150 --> 00:09:53.530 align:start position:0%
+fine
+now<00:09:50.150><c> if</c><00:09:50.510><c> AF</c><00:09:51.050><c> is</c><00:09:51.230><c> candidate</c><00:09:51.770><c> key</c><00:09:52.300><c> then</c><00:09:53.300><c> here</c>
+
+00:09:53.530 --> 00:09:53.540 align:start position:0%
+now if AF is candidate key then here
+ 
+
+00:09:53.540 --> 00:09:56.050 align:start position:0%
+now if AF is candidate key then here
+known<00:09:53.840><c> prime</c><00:09:54.170><c> attributes</c><00:09:54.710><c> are</c><00:09:54.920><c> AFR</c><00:09:55.820><c> prime</c>
+
+00:09:56.050 --> 00:09:56.060 align:start position:0%
+known prime attributes are AFR prime
+ 
+
+00:09:56.060 --> 00:10:00.180 align:start position:0%
+known prime attributes are AFR prime
+attributes<00:09:56.600><c> so</c><00:09:57.140><c> remaining</c><00:09:57.530><c> means</c><00:09:58.520><c> bc</c><00:09:59.330><c> de</c>
+
+00:10:00.180 --> 00:10:00.190 align:start position:0%
+attributes so remaining means bc de
+ 
+
+00:10:00.190 --> 00:10:03.820 align:start position:0%
+attributes so remaining means bc de
+these<00:10:01.190><c> are</c><00:10:01.490><c> non</c><00:10:01.970><c> prime</c><00:10:02.240><c> attributes</c><00:10:02.780><c> now</c><00:10:03.650><c> they</c>
+
+00:10:03.820 --> 00:10:03.830 align:start position:0%
+these are non prime attributes now they
+ 
+
+00:10:03.830 --> 00:10:05.320 align:start position:0%
+these are non prime attributes now they
+have<00:10:03.980><c> known</c><00:10:04.130><c> prime</c><00:10:04.370><c> attributes</c><00:10:04.850><c> also</c><00:10:05.090><c> on</c>
+
+00:10:05.320 --> 00:10:05.330 align:start position:0%
+have known prime attributes also on
+ 
+
+00:10:05.330 --> 00:10:07.420 align:start position:0%
+have known prime attributes also on
+cannulate<00:10:06.020><c> field</c><00:10:06.260><c> so</c><00:10:06.440><c> now</c><00:10:06.470><c> you</c><00:10:06.680><c> can</c><00:10:06.980><c> check</c><00:10:07.280><c> out</c>
+
+00:10:07.420 --> 00:10:07.430 align:start position:0%
+cannulate field so now you can check out
+ 
+
+00:10:07.430 --> 00:10:09.430 align:start position:0%
+cannulate field so now you can check out
+this<00:10:07.760><c> type</c><00:10:08.030><c> of</c><00:10:08.180><c> dependency</c><00:10:08.690><c> exist</c><00:10:09.020><c> here</c><00:10:09.260><c> or</c>
+
+00:10:09.430 --> 00:10:09.440 align:start position:0%
+this type of dependency exist here or
+ 
+
+00:10:09.440 --> 00:10:11.740 align:start position:0%
+this type of dependency exist here or
+not<00:10:09.620><c> C</c><00:10:10.280><c> proper</c><00:10:10.640><c> subset</c><00:10:11.000><c> of</c><00:10:11.030><c> candidate</c><00:10:11.540><c> key</c>
+
+00:10:11.740 --> 00:10:11.750 align:start position:0%
+not C proper subset of candidate key
+ 
+
+00:10:11.750 --> 00:10:13.930 align:start position:0%
+not C proper subset of candidate key
+proper<00:10:12.110><c> subset</c><00:10:12.470><c> of</c><00:10:12.500><c> this</c><00:10:12.800><c> candidate</c><00:10:13.280><c> is</c><00:10:13.520><c> what</c>
+
+00:10:13.930 --> 00:10:13.940 align:start position:0%
+proper subset of this candidate is what
+ 
+
+00:10:13.940 --> 00:10:16.270 align:start position:0%
+proper subset of this candidate is what
+because<00:10:14.390><c> I</c><00:10:14.780><c> have</c><00:10:15.110><c> only</c><00:10:15.200><c> one</c><00:10:15.470><c> candidate</c><00:10:15.830><c> key</c><00:10:16.040><c> a</c>
+
+00:10:16.270 --> 00:10:16.280 align:start position:0%
+because I have only one candidate key a
+ 
+
+00:10:16.280 --> 00:10:21.670 align:start position:0%
+because I have only one candidate key a
+and<00:10:17.410><c> right</c><00:10:18.410><c> is</c><00:10:19.180><c> a</c><00:10:20.180><c> or</c><00:10:20.300><c> F</c><00:10:20.450><c> bit</c><00:10:20.990><c> remaining</c><00:10:21.500><c> any</c>
+
+00:10:21.670 --> 00:10:21.680 align:start position:0%
+and right is a or F bit remaining any
+ 
+
+00:10:21.680 --> 00:10:25.690 align:start position:0%
+and right is a or F bit remaining any
+non-prime<00:10:22.310><c> attribute</c><00:10:22.450><c> C</c><00:10:23.450><c> here</c><00:10:23.840><c> F</c><00:10:24.590><c> is</c><00:10:25.370><c> not</c><00:10:25.670><c> a</c>
+
+00:10:25.690 --> 00:10:25.700 align:start position:0%
+non-prime attribute C here F is not a
+ 
+
+00:10:25.700 --> 00:10:28.120 align:start position:0%
+non-prime attribute C here F is not a
+determining<00:10:26.330><c> anything</c><00:10:26.780><c> so</c><00:10:27.020><c> it</c><00:10:27.290><c> cannot</c><00:10:27.680><c> be</c>
+
+00:10:28.120 --> 00:10:28.130 align:start position:0%
+determining anything so it cannot be
+ 
+
+00:10:28.130 --> 00:10:30.430 align:start position:0%
+determining anything so it cannot be
+there<00:10:28.340><c> it</c><00:10:28.580><c> cannot</c><00:10:28.820><c> be</c><00:10:28.970><c> a</c><00:10:29.000><c> case</c><00:10:29.180><c> now</c><00:10:29.900><c> is</c><00:10:30.140><c> a</c>
+
+00:10:30.430 --> 00:10:30.440 align:start position:0%
+there it cannot be a case now is a
+ 
+
+00:10:30.440 --> 00:10:33.420 align:start position:0%
+there it cannot be a case now is a
+determining<00:10:31.220><c> here</c><00:10:31.520><c> C</c><00:10:31.760><c> is</c><00:10:32.110><c> determining</c><00:10:33.110><c> be</c>
+
+00:10:33.420 --> 00:10:33.430 align:start position:0%
+determining here C is determining be
+ 
+
+00:10:33.430 --> 00:10:38.400 align:start position:0%
+determining here C is determining be
+right<00:10:34.430><c> and</c><00:10:34.790><c> B</c><00:10:35.690><c> is</c><00:10:35.900><c> what</c><00:10:36.170><c> non-prime</c><00:10:37.040><c> attribute</c>
+
+00:10:38.400 --> 00:10:38.410 align:start position:0%
+right and B is what non-prime attribute
+ 
+
+00:10:38.410 --> 00:10:42.130 align:start position:0%
+right and B is what non-prime attribute
+means<00:10:39.410><c> you</c><00:10:39.770><c> go</c><00:10:39.950><c> to</c><00:10:40.010><c> this</c><00:10:40.370><c> type</c><00:10:40.670><c> of</c><00:10:41.140><c> functional</c>
+
+00:10:42.130 --> 00:10:42.140 align:start position:0%
+means you go to this type of functional
+ 
+
+00:10:42.140 --> 00:10:45.990 align:start position:0%
+means you go to this type of functional
+dependency<00:10:42.710><c> here</c><00:10:42.980><c> right</c><00:10:43.490><c> so</c><00:10:43.730><c> this</c><00:10:44.300><c> is</c><00:10:44.480><c> what</c><00:10:44.690><c> a</c>
+
+00:10:45.990 --> 00:10:46.000 align:start position:0%
+dependency here right so this is what a
+ 
+
+00:10:46.000 --> 00:10:48.400 align:start position:0%
+dependency here right so this is what a
+determine<00:10:47.000><c> B</c><00:10:47.210><c> this</c><00:10:47.480><c> is</c><00:10:47.690><c> what</c><00:10:47.900><c> partial</c>
+
+00:10:48.400 --> 00:10:48.410 align:start position:0%
+determine B this is what partial
+ 
+
+00:10:48.410 --> 00:10:51.550 align:start position:0%
+determine B this is what partial
+dependency<00:10:49.330><c> so</c><00:10:50.330><c> here</c><00:10:50.570><c> partial</c><00:10:51.020><c> dependency</c>
+
+00:10:51.550 --> 00:10:51.560 align:start position:0%
+dependency so here partial dependency
+ 
+
+00:10:51.560 --> 00:10:54.700 align:start position:0%
+dependency so here partial dependency
+exists<00:10:51.950><c> so</c><00:10:52.400><c> this</c><00:10:52.670><c> relation</c><00:10:53.270><c> is</c><00:10:53.420><c> not</c><00:10:53.450><c> in</c><00:10:54.110><c> second</c>
+
+00:10:54.700 --> 00:10:54.710 align:start position:0%
+exists so this relation is not in second
+ 
+
+00:10:54.710 --> 00:10:56.860 align:start position:0%
+exists so this relation is not in second
+normal<00:10:54.920><c> form</c><00:10:55.190><c> or</c><00:10:55.850><c> in</c><00:10:56.180><c> another</c><00:10:56.420><c> word</c><00:10:56.630><c> you</c><00:10:56.720><c> can</c>
+
+00:10:56.860 --> 00:10:56.870 align:start position:0%
+normal form or in another word you can
+ 
+
+00:10:56.870 --> 00:10:59.410 align:start position:0%
+normal form or in another word you can
+say<00:10:56.900><c> C</c><00:10:57.380><c> complete</c><00:10:57.830><c> AF</c><00:10:58.310><c> is</c><00:10:58.460><c> candidate</c><00:10:58.880><c> E</c><00:10:59.180><c> and</c>
+
+00:10:59.410 --> 00:10:59.420 align:start position:0%
+say C complete AF is candidate E and
+ 
+
+00:10:59.420 --> 00:11:03.460 align:start position:0%
+say C complete AF is candidate E and
+definitely<00:11:00.170><c> it</c><00:11:00.410><c> is</c><00:11:00.590><c> also</c><00:11:00.800><c> primary</c><00:11:01.340><c> key</c><00:11:02.470><c> right</c>
+
+00:11:03.460 --> 00:11:03.470 align:start position:0%
+definitely it is also primary key right
+ 
+
+00:11:03.470 --> 00:11:05.530 align:start position:0%
+definitely it is also primary key right
+and<00:11:03.850><c> only</c><00:11:04.850><c> a</c><00:11:04.880><c> PI</c>
+
+00:11:05.530 --> 00:11:05.540 align:start position:0%
+and only a PI
+ 
+
+00:11:05.540 --> 00:11:09.070 align:start position:0%
+and only a PI
+of<00:11:05.720><c> this</c><00:11:06.410><c> primary</c><00:11:06.890><c> key</c><00:11:07.180><c> only</c><00:11:08.180><c> a</c><00:11:08.210><c> part</c><00:11:08.570><c> of</c><00:11:08.780><c> this</c>
+
+00:11:09.070 --> 00:11:09.080 align:start position:0%
+of this primary key only a part of this
+ 
+
+00:11:09.080 --> 00:11:11.020 align:start position:0%
+of this primary key only a part of this
+primary<00:11:09.500><c> pure</c><00:11:09.650><c> candidate</c><00:11:10.250><c> key</c><00:11:10.730><c> is</c>
+
+00:11:11.020 --> 00:11:11.030 align:start position:0%
+primary pure candidate key is
+ 
+
+00:11:11.030 --> 00:11:14.500 align:start position:0%
+primary pure candidate key is
+determining<00:11:11.870><c> a</c><00:11:12.280><c> non-prime</c><00:11:13.280><c> attribute</c><00:11:13.480><c> only</c><00:11:14.480><c> a</c>
+
+00:11:14.500 --> 00:11:14.510 align:start position:0%
+determining a non-prime attribute only a
+ 
+
+00:11:14.510 --> 00:11:17.650 align:start position:0%
+determining a non-prime attribute only a
+part<00:11:14.840><c> not</c><00:11:15.050><c> the</c><00:11:15.260><c> complete</c><00:11:15.740><c> candidate</c><00:11:16.670><c> he</c><00:11:16.910><c> so</c>
+
+00:11:17.650 --> 00:11:17.660 align:start position:0%
+part not the complete candidate he so
+ 
+
+00:11:17.660 --> 00:11:20.620 align:start position:0%
+part not the complete candidate he so
+that<00:11:17.900><c> could</c><00:11:18.470><c> not</c><00:11:18.680><c> be</c><00:11:18.710><c> possible</c><00:11:19.010><c> right</c><00:11:19.760><c> so</c><00:11:20.540><c> now</c>
+
+00:11:20.620 --> 00:11:20.630 align:start position:0%
+that could not be possible right so now
+ 
+
+00:11:20.630 --> 00:11:22.170 align:start position:0%
+that could not be possible right so now
+let<00:11:20.810><c> us</c><00:11:20.840><c> discuss</c><00:11:21.110><c> it</c><00:11:21.470><c> with</c><00:11:21.620><c> one</c><00:11:21.770><c> more</c><00:11:21.800><c> example</c>
+
+00:11:22.170 --> 00:11:22.180 align:start position:0%
+let us discuss it with one more example
+ 
+
+00:11:22.180 --> 00:11:24.730 align:start position:0%
+let us discuss it with one more example
+so<00:11:23.180><c> let</c><00:11:23.330><c> us</c><00:11:23.360><c> take</c><00:11:23.570><c> this</c><00:11:23.750><c> example</c><00:11:23.930><c> now</c><00:11:24.350><c> this</c><00:11:24.620><c> is</c>
+
+00:11:24.730 --> 00:11:24.740 align:start position:0%
+so let us take this example now this is
+ 
+
+00:11:24.740 --> 00:11:26.470 align:start position:0%
+so let us take this example now this is
+the<00:11:24.860><c> relation</c><00:11:25.310><c> having</c><00:11:25.640><c> four</c><00:11:25.820><c> attributes</c><00:11:25.970><c> and</c>
+
+00:11:26.470 --> 00:11:26.480 align:start position:0%
+the relation having four attributes and
+ 
+
+00:11:26.480 --> 00:11:27.910 align:start position:0%
+the relation having four attributes and
+these<00:11:26.690><c> are</c><00:11:26.840><c> the</c><00:11:26.960><c> functional</c><00:11:27.350><c> dependency</c><00:11:27.830><c> is</c>
+
+00:11:27.910 --> 00:11:27.920 align:start position:0%
+these are the functional dependency is
+ 
+
+00:11:27.920 --> 00:11:29.650 align:start position:0%
+these are the functional dependency is
+given<00:11:28.250><c> here</c><00:11:28.460><c> so</c><00:11:28.670><c> this</c><00:11:29.090><c> relation</c><00:11:29.540><c> is</c>
+
+00:11:29.650 --> 00:11:29.660 align:start position:0%
+given here so this relation is
+ 
+
+00:11:29.660 --> 00:11:31.780 align:start position:0%
+given here so this relation is
+definitely<00:11:30.320><c> by</c><00:11:30.530><c> defaulting</c><00:11:30.950><c> first</c><00:11:31.220><c> normal</c>
+
+00:11:31.780 --> 00:11:31.790 align:start position:0%
+definitely by defaulting first normal
+ 
+
+00:11:31.790 --> 00:11:33.580 align:start position:0%
+definitely by defaulting first normal
+form<00:11:31.970><c> right</c><00:11:32.360><c> now</c><00:11:32.840><c> you</c><00:11:32.900><c> have</c><00:11:33.170><c> to</c><00:11:33.290><c> check</c><00:11:33.440><c> the</c>
+
+00:11:33.580 --> 00:11:33.590 align:start position:0%
+form right now you have to check the
+ 
+
+00:11:33.590 --> 00:11:35.440 align:start position:0%
+form right now you have to check the
+partial<00:11:33.950><c> dependency</c><00:11:34.520><c> present</c><00:11:34.880><c> here</c><00:11:35.120><c> or</c><00:11:35.300><c> not</c>
+
+00:11:35.440 --> 00:11:35.450 align:start position:0%
+partial dependency present here or not
+ 
+
+00:11:35.450 --> 00:11:38.280 align:start position:0%
+partial dependency present here or not
+how<00:11:35.720><c> to</c><00:11:35.780><c> find</c><00:11:36.080><c> out</c><00:11:36.200><c> partial</c><00:11:36.620><c> dependency</c><00:11:37.160><c> see</c>
+
+00:11:38.280 --> 00:11:38.290 align:start position:0%
+how to find out partial dependency see
+ 
+
+00:11:38.290 --> 00:11:41.170 align:start position:0%
+how to find out partial dependency see
+this<00:11:39.290><c> thing</c><00:11:39.590><c> you</c><00:11:39.830><c> have</c><00:11:40.040><c> to</c><00:11:40.190><c> take</c><00:11:40.370><c> care</c><00:11:40.640><c> if</c><00:11:40.910><c> you</c>
+
+00:11:41.170 --> 00:11:41.180 align:start position:0%
+this thing you have to take care if you
+ 
+
+00:11:41.180 --> 00:11:43.450 align:start position:0%
+this thing you have to take care if you
+know<00:11:41.420><c> how</c><00:11:42.050><c> to</c><00:11:42.110><c> find</c><00:11:42.380><c> out</c><00:11:42.530><c> partial</c><00:11:42.950><c> dependency</c>
+
+00:11:43.450 --> 00:11:43.460 align:start position:0%
+know how to find out partial dependency
+ 
+
+00:11:43.460 --> 00:11:45.550 align:start position:0%
+know how to find out partial dependency
+what<00:11:43.610><c> is</c><00:11:43.730><c> partial</c><00:11:43.940><c> dependency</c><00:11:44.660><c> then</c><00:11:45.320><c> you</c><00:11:45.410><c> can</c>
+
+00:11:45.550 --> 00:11:45.560 align:start position:0%
+what is partial dependency then you can
+ 
+
+00:11:45.560 --> 00:11:47.620 align:start position:0%
+what is partial dependency then you can
+easily<00:11:45.740><c> find</c><00:11:46.010><c> out</c><00:11:46.400><c> that</c><00:11:46.940><c> a</c><00:11:47.210><c> particular</c>
+
+00:11:47.620 --> 00:11:47.630 align:start position:0%
+easily find out that a particular
+ 
+
+00:11:47.630 --> 00:11:49.480 align:start position:0%
+easily find out that a particular
+relation<00:11:48.020><c> is</c><00:11:48.140><c> in</c><00:11:48.170><c> second</c><00:11:48.650><c> normal</c><00:11:48.920><c> form</c><00:11:48.980><c> or</c><00:11:49.310><c> not</c>
+
+00:11:49.480 --> 00:11:49.490 align:start position:0%
+relation is in second normal form or not
+ 
+
+00:11:49.490 --> 00:11:51.790 align:start position:0%
+relation is in second normal form or not
+this<00:11:49.730><c> is</c><00:11:49.940><c> the</c><00:11:49.970><c> important</c><00:11:50.510><c> concept</c><00:11:50.930><c> here</c><00:11:51.020><c> right</c>
+
+00:11:51.790 --> 00:11:51.800 align:start position:0%
+this is the important concept here right
+ 
+
+00:11:51.800 --> 00:11:53.950 align:start position:0%
+this is the important concept here right
+so<00:11:52.430><c> partial</c><00:11:52.670><c> dependency</c><00:11:53.330><c> means</c><00:11:53.540><c> you</c><00:11:53.690><c> have</c><00:11:53.840><c> to</c>
+
+00:11:53.950 --> 00:11:53.960 align:start position:0%
+so partial dependency means you have to
+ 
+
+00:11:53.960 --> 00:11:56.290 align:start position:0%
+so partial dependency means you have to
+find<00:11:54.140><c> out</c><00:11:54.290><c> this</c><00:11:54.560><c> kind</c><00:11:54.920><c> of</c><00:11:55.100><c> dependency</c><00:11:55.910><c> in</c><00:11:56.120><c> the</c>
+
+00:11:56.290 --> 00:11:56.300 align:start position:0%
+find out this kind of dependency in the
+ 
+
+00:11:56.300 --> 00:11:58.480 align:start position:0%
+find out this kind of dependency in the
+given<00:11:56.600><c> list</c><00:11:56.780><c> for</c><00:11:57.380><c> this</c><00:11:57.560><c> kind</c><00:11:57.800><c> of</c><00:11:57.890><c> dependency</c>
+
+00:11:58.480 --> 00:11:58.490 align:start position:0%
+given list for this kind of dependency
+ 
+
+00:11:58.490 --> 00:12:00.610 align:start position:0%
+given list for this kind of dependency
+you<00:11:58.610><c> have</c><00:11:58.760><c> to</c><00:11:58.910><c> find</c><00:11:59.090><c> out</c><00:11:59.240><c> candidate</c><00:11:59.780><c> keys</c><00:12:00.050><c> all</c>
+
+00:12:00.610 --> 00:12:00.620 align:start position:0%
+you have to find out candidate keys all
+ 
+
+00:12:00.620 --> 00:12:02.470 align:start position:0%
+you have to find out candidate keys all
+the<00:12:00.770><c> candidate</c><00:12:01.130><c> keys</c><00:12:01.340><c> and</c><00:12:01.610><c> definitely</c><00:12:02.240><c> then</c>
+
+00:12:02.470 --> 00:12:02.480 align:start position:0%
+the candidate keys and definitely then
+ 
+
+00:12:02.480 --> 00:12:03.670 align:start position:0%
+the candidate keys and definitely then
+you<00:12:02.600><c> can</c><00:12:02.720><c> find</c><00:12:02.930><c> out</c><00:12:03.050><c> the</c><00:12:03.200><c> non-prime</c><00:12:03.560><c> attribute</c>
+
+00:12:03.670 --> 00:12:03.680 align:start position:0%
+you can find out the non-prime attribute
+ 
+
+00:12:03.680 --> 00:12:06.400 align:start position:0%
+you can find out the non-prime attribute
+all<00:12:04.520><c> right</c><00:12:04.640><c> so</c><00:12:05.240><c> now</c><00:12:05.360><c> first</c><00:12:05.900><c> of</c><00:12:06.020><c> all</c><00:12:06.110><c> find</c><00:12:06.290><c> out</c>
+
+00:12:06.400 --> 00:12:06.410 align:start position:0%
+all right so now first of all find out
+ 
+
+00:12:06.410 --> 00:12:08.520 align:start position:0%
+all right so now first of all find out
+the<00:12:06.560><c> candidate</c><00:12:06.950><c> keys</c><00:12:07.190><c> how</c><00:12:07.370><c> to</c><00:12:07.430><c> find</c><00:12:07.700><c> out</c><00:12:07.880><c> if</c>
+
+00:12:08.520 --> 00:12:08.530 align:start position:0%
+the candidate keys how to find out if
+ 
+
+00:12:08.530 --> 00:12:11.230 align:start position:0%
+the candidate keys how to find out if
+all<00:12:09.530><c> the</c><00:12:09.740><c> attributes</c><00:12:10.220><c> take</c><00:12:10.580><c> the</c><00:12:10.700><c> closer</c><00:12:10.940><c> and</c>
+
+00:12:11.230 --> 00:12:11.240 align:start position:0%
+all the attributes take the closer and
+ 
+
+00:12:11.240 --> 00:12:12.970 align:start position:0%
+all the attributes take the closer and
+all<00:12:11.360><c> the</c><00:12:11.540><c> attributes</c><00:12:11.990><c> definitely</c><00:12:12.650><c> would</c><00:12:12.830><c> be</c>
+
+00:12:12.970 --> 00:12:12.980 align:start position:0%
+all the attributes definitely would be
+ 
+
+00:12:12.980 --> 00:12:17.610 align:start position:0%
+all the attributes definitely would be
+super<00:12:13.820><c> key</c><00:12:14.030><c> right</c><00:12:14.870><c> now</c><00:12:15.760><c> try</c><00:12:16.760><c> to</c><00:12:16.820><c> discard</c><00:12:17.300><c> as</c>
+
+00:12:17.610 --> 00:12:17.620 align:start position:0%
+super key right now try to discard as
+ 
+
+00:12:17.620 --> 00:12:19.690 align:start position:0%
+super key right now try to discard as
+many<00:12:18.620><c> attributes</c><00:12:19.070><c> as</c><00:12:19.250><c> you</c><00:12:19.400><c> can</c><00:12:19.550><c> because</c>
+
+00:12:19.690 --> 00:12:19.700 align:start position:0%
+many attributes as you can because
+ 
+
+00:12:19.700 --> 00:12:22.570 align:start position:0%
+many attributes as you can because
+candidate<00:12:20.180><c> he</c><00:12:20.360><c> is</c><00:12:20.390><c> minimal</c><00:12:20.930><c> superkey</c><00:12:21.290><c> now</c><00:12:22.040><c> see</c>
+
+00:12:22.570 --> 00:12:22.580 align:start position:0%
+candidate he is minimal superkey now see
+ 
+
+00:12:22.580 --> 00:12:25.450 align:start position:0%
+candidate he is minimal superkey now see
+check<00:12:23.360><c> the</c><00:12:23.480><c> dependencies</c><00:12:24.050><c> a</c><00:12:24.200><c> B</c><00:12:24.560><c> both</c><00:12:25.160><c> can</c>
+
+00:12:25.450 --> 00:12:25.460 align:start position:0%
+check the dependencies a B both can
+ 
+
+00:12:25.460 --> 00:12:27.670 align:start position:0%
+check the dependencies a B both can
+determine<00:12:25.730><c> C</c><00:12:26.150><c> D</c><00:12:26.300><c> do</c><00:12:26.480><c> you</c><00:12:26.570><c> have</c><00:12:26.750><c> a</c><00:12:26.780><c> B</c><00:12:26.930><c> yes</c><00:12:27.350><c> I</c><00:12:27.470><c> have</c>
+
+00:12:27.670 --> 00:12:27.680 align:start position:0%
+determine C D do you have a B yes I have
+ 
+
+00:12:27.680 --> 00:12:31.120 align:start position:0%
+determine C D do you have a B yes I have
+a<00:12:27.860><c> B</c><00:12:28.010><c> so</c><00:12:28.160><c> I</c><00:12:28.190><c> can</c><00:12:28.400><c> determine</c><00:12:28.580><c> both</c><00:12:28.970><c> C</c><00:12:29.240><c> and</c><00:12:29.420><c> D</c><00:12:29.540><c> so</c><00:12:30.130><c> a</c>
+
+00:12:31.120 --> 00:12:31.130 align:start position:0%
+a B so I can determine both C and D so a
+ 
+
+00:12:31.130 --> 00:12:34.330 align:start position:0%
+a B so I can determine both C and D so a
+B<00:12:31.880><c> closer</c><00:12:32.150><c> would</c><00:12:32.780><c> also</c><00:12:32.990><c> find</c><00:12:33.350><c> out</c><00:12:33.500><c> a</c><00:12:33.800><c> B</c><00:12:33.950><c> itself</c>
+
+00:12:34.330 --> 00:12:34.340 align:start position:0%
+B closer would also find out a B itself
+ 
+
+00:12:34.340 --> 00:12:36.910 align:start position:0%
+B closer would also find out a B itself
+because<00:12:34.790><c> of</c><00:12:34.940><c> reflexivity</c><00:12:35.360><c> and</c><00:12:35.810><c> a</c><00:12:36.110><c> B</c><00:12:36.800><c> can</c>
+
+00:12:36.910 --> 00:12:36.920 align:start position:0%
+because of reflexivity and a B can
+ 
+
+00:12:36.920 --> 00:12:38.650 align:start position:0%
+because of reflexivity and a B can
+determine<00:12:37.190><c> C</c><00:12:37.490><c> D</c><00:12:37.640><c> do</c><00:12:37.760><c> you</c><00:12:37.850><c> have</c><00:12:38.000><c> a</c><00:12:38.060><c> B</c><00:12:38.270><c> yes</c><00:12:38.450><c> so</c><00:12:38.600><c> I</c>
+
+00:12:38.650 --> 00:12:38.660 align:start position:0%
+determine C D do you have a B yes so I
+ 
+
+00:12:38.660 --> 00:12:41.290 align:start position:0%
+determine C D do you have a B yes so I
+can<00:12:38.840><c> determine</c><00:12:39.050><c> C</c><00:12:39.470><c> D</c><00:12:39.620><c> so</c><00:12:40.370><c> this</c><00:12:40.580><c> closure</c><00:12:40.880><c> of</c><00:12:41.120><c> the</c>
+
+00:12:41.290 --> 00:12:41.300 align:start position:0%
+can determine C D so this closure of the
+ 
+
+00:12:41.300 --> 00:12:42.700 align:start position:0%
+can determine C D so this closure of the
+say<00:12:41.450><c> B</c><00:12:41.570><c> is</c><00:12:41.600><c> containing</c><00:12:42.050><c> all</c><00:12:42.140><c> the</c><00:12:42.170><c> attributes</c>
+
+00:12:42.700 --> 00:12:42.710 align:start position:0%
+say B is containing all the attributes
+ 
+
+00:12:42.710 --> 00:12:45.100 align:start position:0%
+say B is containing all the attributes
+so<00:12:42.800><c> a</c><00:12:42.830><c> B</c><00:12:43.130><c> is</c><00:12:43.220><c> what</c><00:12:43.430><c> super</c><00:12:44.180><c> key</c><00:12:44.360><c> a</c><00:12:44.540><c> B</c><00:12:44.750><c> is</c><00:12:44.840><c> still</c><00:12:45.080><c> a</c>
+
+00:12:45.100 --> 00:12:45.110 align:start position:0%
+so a B is what super key a B is still a
+ 
+
+00:12:45.110 --> 00:12:48.640 align:start position:0%
+so a B is what super key a B is still a
+super<00:12:45.320><c> here</c><00:12:45.650><c> right</c><00:12:46.360><c> now</c><00:12:47.390><c> can</c><00:12:47.870><c> you</c><00:12:47.960><c> discard</c><00:12:48.440><c> any</c>
+
+00:12:48.640 --> 00:12:48.650 align:start position:0%
+super here right now can you discard any
+ 
+
+00:12:48.650 --> 00:12:50.770 align:start position:0%
+super here right now can you discard any
+more<00:12:48.890><c> attribute</c><00:12:49.310><c> from</c><00:12:49.520><c> a</c><00:12:49.700><c> b</c><00:12:49.850><c> c</c><00:12:50.030><c> can</c><00:12:50.510><c> determine</c>
+
+00:12:50.770 --> 00:12:50.780 align:start position:0%
+more attribute from a b c can determine
+ 
+
+00:12:50.780 --> 00:12:53.440 align:start position:0%
+more attribute from a b c can determine
+a<00:12:51.170><c> you</c><00:12:51.650><c> have</c><00:12:51.830><c> do</c><00:12:52.190><c> you</c><00:12:52.220><c> have</c><00:12:52.400><c> C</c><00:12:52.580><c> no</c><00:12:52.820><c> they</c><00:12:53.300><c> can</c>
+
+00:12:53.440 --> 00:12:53.450 align:start position:0%
+a you have do you have C no they can
+ 
+
+00:12:53.450 --> 00:12:55.240 align:start position:0%
+a you have do you have C no they can
+determine<00:12:53.720><c> B</c><00:12:54.050><c> but</c><00:12:54.230><c> we</c><00:12:54.350><c> don't</c><00:12:54.530><c> have</c><00:12:54.740><c> B</c><00:12:54.950><c> so</c><00:12:55.130><c> we</c>
+
+00:12:55.240 --> 00:12:55.250 align:start position:0%
+determine B but we don't have B so we
+ 
+
+00:12:55.250 --> 00:12:57.310 align:start position:0%
+determine B but we don't have B so we
+cannot<00:12:55.550><c> discard</c><00:12:55.910><c> any</c><00:12:56.150><c> more</c><00:12:56.420><c> attribute</c><00:12:56.930><c> right</c>
+
+00:12:57.310 --> 00:12:57.320 align:start position:0%
+cannot discard any more attribute right
+ 
+
+00:12:57.320 --> 00:13:00.160 align:start position:0%
+cannot discard any more attribute right
+so<00:12:58.040><c> now</c><00:12:58.220><c> check</c><00:12:58.430><c> out</c><00:12:58.610><c> as</c><00:12:58.760><c> a</c><00:12:59.060><c> B's</c><00:12:59.270><c> so</c><00:12:59.660><c> candidate</c>
+
+00:13:00.160 --> 00:13:00.170 align:start position:0%
+so now check out as a B's so candidate
+ 
+
+00:13:00.170 --> 00:13:02.500 align:start position:0%
+so now check out as a B's so candidate
+he<00:13:00.380><c> or</c><00:13:00.560><c> not</c><00:13:00.620><c> find</c><00:13:01.550><c> out</c><00:13:01.670><c> the</c><00:13:01.790><c> proper</c><00:13:02.090><c> subset</c>
+
+00:13:02.500 --> 00:13:02.510 align:start position:0%
+he or not find out the proper subset
+ 
+
+00:13:02.510 --> 00:13:05.890 align:start position:0%
+he or not find out the proper subset
+that<00:13:02.540><c> is</c><00:13:02.720><c> a</c><00:13:03.020><c> and</c><00:13:03.500><c> B</c><00:13:04.120><c> find</c><00:13:05.120><c> out</c><00:13:05.240><c> closure</c><00:13:05.510><c> of</c><00:13:05.750><c> a</c>
+
+00:13:05.890 --> 00:13:05.900 align:start position:0%
+that is a and B find out closure of a
+ 
+
+00:13:05.900 --> 00:13:08.020 align:start position:0%
+that is a and B find out closure of a
+find<00:13:06.260><c> out</c><00:13:06.380><c> a</c><00:13:06.620><c> and</c><00:13:06.770><c> B</c><00:13:06.920><c> individual</c><00:13:07.490><c> can</c><00:13:07.880><c> be</c><00:13:08.000><c> a</c>
+
+00:13:08.020 --> 00:13:08.030 align:start position:0%
+find out a and B individual can be a
+ 
+
+00:13:08.030 --> 00:13:11.260 align:start position:0%
+find out a and B individual can be a
+super<00:13:08.300><c> cure</c><00:13:08.480><c> node</c><00:13:08.660><c> closure</c><00:13:09.080><c> of</c><00:13:09.290><c> a</c><00:13:10.180><c> single</c><00:13:11.180><c> a</c>
+
+00:13:11.260 --> 00:13:11.270 align:start position:0%
+super cure node closure of a single a
+ 
+
+00:13:11.270 --> 00:13:14.740 align:start position:0%
+super cure node closure of a single a
+can<00:13:11.450><c> determine</c><00:13:11.720><c> a</c><00:13:12.080><c> but</c><00:13:12.910><c> we</c><00:13:13.910><c> don't</c><00:13:14.090><c> have</c><00:13:14.210><c> a</c><00:13:14.360><c> B</c><00:13:14.510><c> so</c>
+
+00:13:14.740 --> 00:13:14.750 align:start position:0%
+can determine a but we don't have a B so
+ 
+
+00:13:14.750 --> 00:13:18.280 align:start position:0%
+can determine a but we don't have a B so
+we<00:13:15.170><c> cannot</c><00:13:15.410><c> determine</c><00:13:15.710><c> C</c><00:13:16.070><c> D</c><00:13:16.280><c> so</c><00:13:16.520><c> only</c><00:13:17.450><c> a</c><00:13:17.780><c> can</c>
+
+00:13:18.280 --> 00:13:18.290 align:start position:0%
+we cannot determine C D so only a can
+ 
+
+00:13:18.290 --> 00:13:18.730 align:start position:0%
+we cannot determine C D so only a can
+throw<00:13:18.470><c> my</c>
+
+00:13:18.730 --> 00:13:18.740 align:start position:0%
+throw my
+ 
+
+00:13:18.740 --> 00:13:22.690 align:start position:0%
+throw my
+itself<00:13:19.190><c> we</c><00:13:19.760><c> can</c><00:13:19.940><c> determine</c><00:13:20.180><c> B</c><00:13:20.709><c> only</c><00:13:21.709><c> B</c><00:13:22.160><c> so</c><00:13:22.550><c> this</c>
+
+00:13:22.690 --> 00:13:22.700 align:start position:0%
+itself we can determine B only B so this
+ 
+
+00:13:22.700 --> 00:13:24.340 align:start position:0%
+itself we can determine B only B so this
+is<00:13:22.850><c> not</c><00:13:23.000><c> super</c><00:13:23.270><c> key</c><00:13:23.420><c> this</c><00:13:23.600><c> is</c><00:13:23.720><c> not</c><00:13:23.870><c> super</c><00:13:24.050><c> key</c>
+
+00:13:24.340 --> 00:13:24.350 align:start position:0%
+is not super key this is not super key
+ 
+
+00:13:24.350 --> 00:13:26.949 align:start position:0%
+is not super key this is not super key
+so<00:13:24.500><c> it</c><00:13:24.589><c> means</c><00:13:24.770><c> candidate</c><00:13:25.370><c> here</c><00:13:25.640><c> a</c><00:13:25.880><c> B</c><00:13:26.480><c> is</c><00:13:26.690><c> what</c>
+
+00:13:26.949 --> 00:13:26.959 align:start position:0%
+so it means candidate here a B is what
+ 
+
+00:13:26.959 --> 00:13:29.199 align:start position:0%
+so it means candidate here a B is what
+candidate<00:13:27.529><c> key</c><00:13:27.770><c> we</c><00:13:27.890><c> have</c><00:13:27.920><c> got</c><00:13:28.220><c> one</c><00:13:28.430><c> candidate</c>
+
+00:13:29.199 --> 00:13:29.209 align:start position:0%
+candidate key we have got one candidate
+ 
+
+00:13:29.209 --> 00:13:33.960 align:start position:0%
+candidate key we have got one candidate
+it<00:13:29.540><c> means</c><00:13:29.839><c> prime</c><00:13:30.080><c> attributes</c><00:13:30.620><c> are</c><00:13:30.860><c> a</c><00:13:32.709><c> and</c><00:13:33.709><c> B</c>
+
+00:13:33.960 --> 00:13:33.970 align:start position:0%
+it means prime attributes are a and B
+ 
+
+00:13:33.970 --> 00:13:36.490 align:start position:0%
+it means prime attributes are a and B
+right<00:13:34.970><c> now</c><00:13:35.180><c> check</c><00:13:35.420><c> more</c><00:13:35.720><c> candidate</c><00:13:36.140><c> keys</c><00:13:36.350><c> are</c>
+
+00:13:36.490 --> 00:13:36.500 align:start position:0%
+right now check more candidate keys are
+ 
+
+00:13:36.500 --> 00:13:38.920 align:start position:0%
+right now check more candidate keys are
+present<00:13:36.830><c> or</c><00:13:36.950><c> not</c><00:13:36.980><c> how</c><00:13:37.640><c> to</c><00:13:37.700><c> check</c><00:13:38.000><c> if</c><00:13:38.240><c> prime</c>
+
+00:13:38.920 --> 00:13:38.930 align:start position:0%
+present or not how to check if prime
+ 
+
+00:13:38.930 --> 00:13:40.510 align:start position:0%
+present or not how to check if prime
+attributes<00:13:39.410><c> are</c><00:13:39.560><c> present</c><00:13:39.860><c> on</c><00:13:39.980><c> the</c><00:13:40.070><c> right</c><00:13:40.100><c> hand</c>
+
+00:13:40.510 --> 00:13:40.520 align:start position:0%
+attributes are present on the right hand
+ 
+
+00:13:40.520 --> 00:13:42.280 align:start position:0%
+attributes are present on the right hand
+side<00:13:40.580><c> of</c><00:13:40.880><c> any</c><00:13:41.060><c> functional</c><00:13:41.510><c> dependency</c><00:13:42.080><c> then</c>
+
+00:13:42.280 --> 00:13:42.290 align:start position:0%
+side of any functional dependency then
+ 
+
+00:13:42.290 --> 00:13:44.380 align:start position:0%
+side of any functional dependency then
+definitely<00:13:43.220><c> more</c><00:13:43.430><c> candidate</c><00:13:43.850><c> keys</c><00:13:44.089><c> would</c><00:13:44.209><c> be</c>
+
+00:13:44.380 --> 00:13:44.390 align:start position:0%
+definitely more candidate keys would be
+ 
+
+00:13:44.390 --> 00:13:46.990 align:start position:0%
+definitely more candidate keys would be
+there<00:13:44.570><c> C</c><00:13:45.260><c> is</c><00:13:45.500><c> present</c><00:13:46.339><c> on</c><00:13:46.430><c> the</c><00:13:46.580><c> right</c><00:13:46.760><c> hand</c>
+
+00:13:46.990 --> 00:13:47.000 align:start position:0%
+there C is present on the right hand
+ 
+
+00:13:47.000 --> 00:13:48.790 align:start position:0%
+there C is present on the right hand
+side<00:13:47.149><c> of</c><00:13:47.300><c> this</c><00:13:47.480><c> functional</c><00:13:47.930><c> dependency</c><00:13:48.470><c> right</c>
+
+00:13:48.790 --> 00:13:48.800 align:start position:0%
+side of this functional dependency right
+ 
+
+00:13:48.800 --> 00:13:51.340 align:start position:0%
+side of this functional dependency right
+means<00:13:49.190><c> you</c><00:13:49.550><c> will</c><00:13:49.700><c> get</c><00:13:49.850><c> more</c><00:13:50.600><c> candidate</c><00:13:51.080><c> he</c><00:13:51.290><c> is</c>
+
+00:13:51.340 --> 00:13:51.350 align:start position:0%
+means you will get more candidate he is
+ 
+
+00:13:51.350 --> 00:13:54.790 align:start position:0%
+means you will get more candidate he is
+here<00:13:51.649><c> right</c><00:13:51.860><c> now</c><00:13:52.220><c> how</c><00:13:53.060><c> to</c><00:13:53.089><c> do</c><00:13:53.360><c> that</c><00:13:53.510><c> thing</c><00:13:53.810><c> C</c>
+
+00:13:54.790 --> 00:13:54.800 align:start position:0%
+here right now how to do that thing C
+ 
+
+00:13:54.800 --> 00:13:57.250 align:start position:0%
+here right now how to do that thing C
+existing<00:13:55.430><c> candidate</c><00:13:55.790><c> is</c><00:13:56.000><c> this</c><00:13:56.209><c> one</c><00:13:56.420><c> so</c><00:13:57.050><c> at</c><00:13:57.140><c> the</c>
+
+00:13:57.250 --> 00:13:57.260 align:start position:0%
+existing candidate is this one so at the
+ 
+
+00:13:57.260 --> 00:14:00.269 align:start position:0%
+existing candidate is this one so at the
+place<00:13:57.440><c> of</c><00:13:57.620><c> a</c><00:13:57.950><c> you</c><00:13:58.370><c> can</c><00:13:58.550><c> replace</c><00:13:58.850><c> a</c><00:13:59.120><c> with</c><00:13:59.270><c> C</c>
+
+00:14:00.269 --> 00:14:00.279 align:start position:0%
+place of a you can replace a with C
+ 
+
+00:14:00.279 --> 00:14:04.600 align:start position:0%
+place of a you can replace a with C
+after<00:14:01.279><c> replacing</c><00:14:01.520><c> you</c><00:14:01.820><c> will</c><00:14:01.910><c> get</c><00:14:02.089><c> C</c><00:14:02.740><c> B</c><00:14:03.740><c> right</c>
+
+00:14:04.600 --> 00:14:04.610 align:start position:0%
+after replacing you will get C B right
+ 
+
+00:14:04.610 --> 00:14:07.420 align:start position:0%
+after replacing you will get C B right
+and<00:14:04.820><c> second</c><00:14:05.690><c> option</c><00:14:06.020><c> is</c><00:14:06.140><c> C</c><00:14:06.649><c> B</c><00:14:06.860><c> is</c><00:14:06.920><c> also</c><00:14:07.250><c> prime</c>
+
+00:14:07.420 --> 00:14:07.430 align:start position:0%
+and second option is C B is also prime
+ 
+
+00:14:07.430 --> 00:14:09.010 align:start position:0%
+and second option is C B is also prime
+attribute<00:14:07.880><c> and</c><00:14:08.029><c> B</c><00:14:08.209><c> is</c><00:14:08.360><c> present</c><00:14:08.750><c> on</c><00:14:08.839><c> the</c><00:14:08.899><c> right</c>
+
+00:14:09.010 --> 00:14:09.020 align:start position:0%
+attribute and B is present on the right
+ 
+
+00:14:09.020 --> 00:14:12.880 align:start position:0%
+attribute and B is present on the right
+hand<00:14:09.410><c> side</c><00:14:09.470><c> of</c><00:14:09.800><c> D</c><00:14:10.430><c> so</c><00:14:11.029><c> second</c><00:14:11.450><c> option</c><00:14:11.779><c> is</c><00:14:11.930><c> at</c>
+
+00:14:12.880 --> 00:14:12.890 align:start position:0%
+hand side of D so second option is at
+ 
+
+00:14:12.890 --> 00:14:16.810 align:start position:0%
+hand side of D so second option is at
+the<00:14:13.070><c> place</c><00:14:13.220><c> of</c><00:14:13.250><c> B</c><00:14:13.550><c> you</c><00:14:13.790><c> can</c><00:14:13.970><c> write</c><00:14:14.180><c> down</c><00:14:14.709><c> B</c><00:14:15.820><c> but</c>
+
+00:14:16.810 --> 00:14:16.820 align:start position:0%
+the place of B you can write down B but
+ 
+
+00:14:16.820 --> 00:14:18.610 align:start position:0%
+the place of B you can write down B but
+I'm<00:14:16.970><c> not</c><00:14:17.120><c> saying</c><00:14:17.330><c> that</c><00:14:17.450><c> this</c><00:14:17.810><c> and</c><00:14:18.020><c> s</c><00:14:18.200><c> would</c><00:14:18.470><c> be</c>
+
+00:14:18.610 --> 00:14:18.620 align:start position:0%
+I'm not saying that this and s would be
+ 
+
+00:14:18.620 --> 00:14:20.620 align:start position:0%
+I'm not saying that this and s would be
+definitely<00:14:18.800><c> candidate</c><00:14:19.550><c> is</c><00:14:19.880><c> still</c><00:14:20.360><c> you</c><00:14:20.450><c> need</c>
+
+00:14:20.620 --> 00:14:20.630 align:start position:0%
+definitely candidate is still you need
+ 
+
+00:14:20.630 --> 00:14:22.360 align:start position:0%
+definitely candidate is still you need
+to<00:14:20.720><c> find</c><00:14:20.959><c> out</c><00:14:21.110><c> but</c><00:14:21.320><c> yeah</c><00:14:21.560><c> I</c><00:14:21.589><c> can</c><00:14:21.860><c> say</c><00:14:22.010><c> that</c><00:14:22.190><c> this</c>
+
+00:14:22.360 --> 00:14:22.370 align:start position:0%
+to find out but yeah I can say that this
+ 
+
+00:14:22.370 --> 00:14:25.030 align:start position:0%
+to find out but yeah I can say that this
+and<00:14:22.580><c> this</c><00:14:22.700><c> are</c><00:14:23.000><c> super</c><00:14:23.450><c> keys</c><00:14:23.660><c> right</c><00:14:24.200><c> so</c><00:14:24.920><c> now</c>
+
+00:14:25.030 --> 00:14:25.040 align:start position:0%
+and this are super keys right so now
+ 
+
+00:14:25.040 --> 00:14:28.480 align:start position:0%
+and this are super keys right so now
+check<00:14:25.070><c> out</c><00:14:25.339><c> the</c><00:14:25.459><c> proper</c><00:14:25.760><c> subset</c><00:14:26.149><c> of</c><00:14:26.180><c> B</c><00:14:26.410><c> and</c><00:14:27.410><c> C</c><00:14:27.649><c> 1</c>
+
+00:14:28.480 --> 00:14:28.490 align:start position:0%
+check out the proper subset of B and C 1
+ 
+
+00:14:28.490 --> 00:14:31.810 align:start position:0%
+check out the proper subset of B and C 1
+is<00:14:28.610><c> B</c><00:14:28.820><c> 1</c><00:14:29.180><c> is</c><00:14:29.360><c> C</c><00:14:29.870><c> check</c><00:14:30.860><c> out</c><00:14:31.010><c> these</c><00:14:31.220><c> are</c><00:14:31.430><c> super</c>
+
+00:14:31.810 --> 00:14:31.820 align:start position:0%
+is B 1 is C check out these are super
+ 
+
+00:14:31.820 --> 00:14:34.210 align:start position:0%
+is B 1 is C check out these are super
+keys<00:14:32.029><c> or</c><00:14:32.180><c> not</c><00:14:32.329><c> find</c><00:14:32.690><c> out</c><00:14:32.810><c> to</c><00:14:32.899><c> be</c><00:14:33.020><c> closer</c><00:14:33.290><c> see</c><00:14:33.890><c> B</c>
+
+00:14:34.210 --> 00:14:34.220 align:start position:0%
+keys or not find out to be closer see B
+ 
+
+00:14:34.220 --> 00:14:36.670 align:start position:0%
+keys or not find out to be closer see B
+is<00:14:34.339><c> not</c><00:14:34.490><c> a</c><00:14:34.520><c> super</c><00:14:34.850><c> key</c><00:14:35.089><c> C</c><00:14:35.360><c> closer</c><00:14:35.630><c> so</c><00:14:36.560><c> you</c><00:14:36.620><c> can</c>
+
+00:14:36.670 --> 00:14:36.680 align:start position:0%
+is not a super key C closer so you can
+ 
+
+00:14:36.680 --> 00:14:40.230 align:start position:0%
+is not a super key C closer so you can
+determine<00:14:37.040><c> itself</c><00:14:37.700><c> C</c><00:14:38.209><c> can</c><00:14:38.450><c> determine</c><00:14:38.750><c> a</c>
+
+00:14:40.230 --> 00:14:40.240 align:start position:0%
+determine itself C can determine a
+ 
+
+00:14:40.240 --> 00:14:42.610 align:start position:0%
+determine itself C can determine a
+nothing<00:14:41.240><c> else</c><00:14:41.420><c> so</c><00:14:41.570><c> this</c><00:14:41.690><c> is</c><00:14:41.810><c> not</c><00:14:41.990><c> super</c><00:14:42.320><c> key</c><00:14:42.500><c> so</c>
+
+00:14:42.610 --> 00:14:42.620 align:start position:0%
+nothing else so this is not super key so
+ 
+
+00:14:42.620 --> 00:14:45.519 align:start position:0%
+nothing else so this is not super key so
+it<00:14:42.770><c> means</c><00:14:42.950><c> B</c><00:14:43.279><c> C</c><00:14:43.550><c> is</c><00:14:43.730><c> also</c><00:14:44.089><c> candidate</c><00:14:44.540><c> key</c><00:14:44.720><c> right</c>
+
+00:14:45.519 --> 00:14:45.529 align:start position:0%
+it means B C is also candidate key right
+ 
+
+00:14:45.529 --> 00:14:47.949 align:start position:0%
+it means B C is also candidate key right
+so<00:14:46.250><c> now</c><00:14:46.370><c> we</c><00:14:46.430><c> go</c><00:14:46.640><c> to</c><00:14:46.700><c> one</c><00:14:46.910><c> more</c><00:14:47.149><c> prime</c><00:14:47.480><c> attribute</c>
+
+00:14:47.949 --> 00:14:47.959 align:start position:0%
+so now we go to one more prime attribute
+ 
+
+00:14:47.959 --> 00:14:51.519 align:start position:0%
+so now we go to one more prime attribute
+that<00:14:48.140><c> is</c><00:14:48.200><c> C</c><00:14:49.300><c> now</c><00:14:50.300><c> check</c><00:14:50.600><c> out</c><00:14:50.720><c> a</c><00:14:50.930><c> DS</c><00:14:51.079><c> candidate</c>
+
+00:14:51.519 --> 00:14:51.529 align:start position:0%
+that is C now check out a DS candidate
+ 
+
+00:14:51.529 --> 00:14:53.319 align:start position:0%
+that is C now check out a DS candidate
+key<00:14:51.680><c> or</c><00:14:51.770><c> not</c><00:14:51.950><c> a</c><00:14:52.190><c> closer</c>
+
+00:14:53.319 --> 00:14:53.329 align:start position:0%
+key or not a closer
+ 
+
+00:14:53.329 --> 00:14:56.980 align:start position:0%
+key or not a closer
+not<00:14:53.930><c> candidate</c><00:14:54.410><c> key</c><00:14:54.589><c> be</c><00:14:54.890><c> closer</c><00:14:55.720><c> be</c><00:14:56.720><c> closer</c>
+
+00:14:56.980 --> 00:14:56.990 align:start position:0%
+not candidate key be closer be closer
+ 
+
+00:14:56.990 --> 00:15:01.150 align:start position:0%
+not candidate key be closer be closer
+can<00:14:57.260><c> find</c><00:14:57.529><c> out</c><00:14:58.180><c> B</c><00:14:59.180><c> and</c><00:14:59.500><c> B</c><00:15:00.500><c> nothing</c><00:15:00.829><c> else</c><00:15:01.010><c> so</c>
+
+00:15:01.150 --> 00:15:01.160 align:start position:0%
+can find out B and B nothing else so
+ 
+
+00:15:01.160 --> 00:15:02.860 align:start position:0%
+can find out B and B nothing else so
+this<00:15:01.370><c> is</c><00:15:01.550><c> also</c><00:15:01.700><c> not</c><00:15:01.910><c> super</c><00:15:02.089><c> case</c><00:15:02.420><c> so</c><00:15:02.540><c> this</c><00:15:02.690><c> is</c>
+
+00:15:02.860 --> 00:15:02.870 align:start position:0%
+this is also not super case so this is
+ 
+
+00:15:02.870 --> 00:15:05.710 align:start position:0%
+this is also not super case so this is
+also<00:15:03.050><c> candidate</c><00:15:03.620><c> key</c><00:15:03.890><c> here</c><00:15:04.160><c> fine</c><00:15:04.520><c> so</c><00:15:05.149><c> a</c><00:15:05.360><c> and</c><00:15:05.570><c> D</c>
+
+00:15:05.710 --> 00:15:05.720 align:start position:0%
+also candidate key here fine so a and D
+ 
+
+00:15:05.720 --> 00:15:10.060 align:start position:0%
+also candidate key here fine so a and D
+so<00:15:06.050><c> D</c><00:15:06.230><c> is</c><00:15:06.410><c> also</c><00:15:06.740><c> prime</c><00:15:07.010><c> attribute</c><00:15:08.079><c> right</c><00:15:09.079><c> now</c>
+
+00:15:10.060 --> 00:15:10.070 align:start position:0%
+so D is also prime attribute right now
+ 
+
+00:15:10.070 --> 00:15:12.699 align:start position:0%
+so D is also prime attribute right now
+you<00:15:10.130><c> can</c><00:15:10.430><c> check</c><00:15:10.640><c> we</c><00:15:11.630><c> have</c><00:15:11.750><c> got</c><00:15:11.930><c> two</c><00:15:12.200><c> more</c><00:15:12.410><c> prime</c>
+
+00:15:12.699 --> 00:15:12.709 align:start position:0%
+you can check we have got two more prime
+ 
+
+00:15:12.709 --> 00:15:14.949 align:start position:0%
+you can check we have got two more prime
+attributes<00:15:13.160><c> now</c><00:15:13.370><c> check</c><00:15:13.610><c> these</c><00:15:13.790><c> are</c><00:15:14.000><c> available</c>
+
+00:15:14.949 --> 00:15:14.959 align:start position:0%
+attributes now check these are available
+ 
+
+00:15:14.959 --> 00:15:16.449 align:start position:0%
+attributes now check these are available
+on<00:15:15.050><c> the</c><00:15:15.170><c> right</c><00:15:15.320><c> hand</c><00:15:15.589><c> side</c><00:15:15.740><c> of</c><00:15:15.890><c> any</c><00:15:16.010><c> functional</c>
+
+00:15:16.449 --> 00:15:16.459 align:start position:0%
+on the right hand side of any functional
+ 
+
+00:15:16.459 --> 00:15:19.090 align:start position:0%
+on the right hand side of any functional
+dependencies<00:15:16.970><c> or</c><00:15:17.120><c> not</c><00:15:17.240><c> yes</c><00:15:17.680><c> available</c><00:15:18.680><c> see</c>
+
+00:15:19.090 --> 00:15:19.100 align:start position:0%
+dependencies or not yes available see
+ 
+
+00:15:19.100 --> 00:15:20.680 align:start position:0%
+dependencies or not yes available see
+this<00:15:19.640><c> you</c><00:15:19.790><c> can</c><00:15:19.970><c> write</c><00:15:20.089><c> down</c><00:15:20.300><c> something</c><00:15:20.540><c> like</c>
+
+00:15:20.680 --> 00:15:20.690 align:start position:0%
+this you can write down something like
+ 
+
+00:15:20.690 --> 00:15:22.750 align:start position:0%
+this you can write down something like
+this<00:15:21.020><c> by</c><00:15:21.350><c> splitting</c><00:15:21.770><c> property</c><00:15:22.279><c> a</c><00:15:22.430><c> B</c><00:15:22.579><c> can</c>
+
+00:15:22.750 --> 00:15:22.760 align:start position:0%
+this by splitting property a B can
+ 
+
+00:15:22.760 --> 00:15:26.319 align:start position:0%
+this by splitting property a B can
+determine<00:15:23.029><c> C</c><00:15:23.420><c> and</c><00:15:23.930><c> a</c><00:15:24.140><c> B</c><00:15:24.440><c> can</c><00:15:24.620><c> determine</c><00:15:24.920><c> D</c><00:15:25.790><c> so</c>
+
+00:15:26.319 --> 00:15:26.329 align:start position:0%
+determine C and a B can determine D so
+ 
+
+00:15:26.329 --> 00:15:28.480 align:start position:0%
+determine C and a B can determine D so
+at<00:15:26.450><c> the</c><00:15:26.570><c> place</c><00:15:26.779><c> of</c><00:15:26.810><c> C</c><00:15:27.230><c> you</c><00:15:27.589><c> can</c><00:15:27.800><c> replace</c><00:15:28.430><c> it</c>
+
+00:15:28.480 --> 00:15:28.490 align:start position:0%
+at the place of C you can replace it
+ 
+
+00:15:28.490 --> 00:15:31.970 align:start position:0%
+at the place of C you can replace it
+with<00:15:28.640><c> a</c><00:15:29.000><c> B</c><00:15:29.180><c> here</c><00:15:30.110><c> a</c><00:15:30.350><c> B</c><00:15:30.680><c> so</c><00:15:31.100><c> obviously</c>
+
+00:15:31.970 --> 00:15:31.980 align:start position:0%
+with a B here a B so obviously
+ 
+
+00:15:31.980 --> 00:15:34.670 align:start position:0%
+with a B here a B so obviously
+not<00:15:32.190><c> right</c><00:15:32.400><c> abb</c><00:15:32.850><c> a</c><00:15:32.880><c> B</c><00:15:33.180><c> but</c><00:15:33.570><c> we</c><00:15:33.690><c> have</c><00:15:33.870><c> got</c><00:15:34.050><c> on</c><00:15:34.200><c> the</c>
+
+00:15:34.670 --> 00:15:34.680 align:start position:0%
+not right abb a B but we have got on the
+ 
+
+00:15:34.680 --> 00:15:36.350 align:start position:0%
+not right abb a B but we have got on the
+candidate<00:15:35.070><c> he</c><00:15:35.220><c> a</c><00:15:35.370><c> B</c><00:15:35.550><c> so</c><00:15:35.730><c> no</c><00:15:35.850><c> need</c><00:15:36.000><c> to</c><00:15:36.120><c> replace</c>
+
+00:15:36.350 --> 00:15:36.360 align:start position:0%
+candidate he a B so no need to replace
+ 
+
+00:15:36.360 --> 00:15:41.210 align:start position:0%
+candidate he a B so no need to replace
+and<00:15:37.040><c> at</c><00:15:38.040><c> D</c><00:15:38.310><c> also</c><00:15:38.670><c> a</c><00:15:38.700><c> be</c><00:15:39.000><c> at</c><00:15:39.240><c> D</c><00:15:39.480><c> also</c><00:15:39.810><c> a</c><00:15:39.840><c> B</c><00:15:40.140><c> so</c><00:15:41.070><c> we</c>
+
+00:15:41.210 --> 00:15:41.220 align:start position:0%
+and at D also a be at D also a B so we
+ 
+
+00:15:41.220 --> 00:15:42.680 align:start position:0%
+and at D also a be at D also a B so we
+have<00:15:41.370><c> already</c><00:15:41.520><c> got</c><00:15:41.850><c> a</c><00:15:42.030><c> B</c><00:15:42.180><c> so</c><00:15:42.360><c> no</c><00:15:42.480><c> need</c><00:15:42.540><c> to</c>
+
+00:15:42.680 --> 00:15:42.690 align:start position:0%
+have already got a B so no need to
+ 
+
+00:15:42.690 --> 00:15:45.320 align:start position:0%
+have already got a B so no need to
+replace<00:15:43.020><c> so</c><00:15:43.740><c> now</c><00:15:43.950><c> these</c><00:15:44.610><c> are</c><00:15:44.670><c> the</c><00:15:44.940><c> candidate</c>
+
+00:15:45.320 --> 00:15:45.330 align:start position:0%
+replace so now these are the candidate
+ 
+
+00:15:45.330 --> 00:15:47.330 align:start position:0%
+replace so now these are the candidate
+III<00:15:45.810><c> candidate</c><00:15:46.260><c> he's</c><00:15:46.500><c> in</c><00:15:46.620><c> this</c><00:15:46.770><c> relation</c><00:15:47.220><c> and</c>
+
+00:15:47.330 --> 00:15:47.340 align:start position:0%
+III candidate he's in this relation and
+ 
+
+00:15:47.340 --> 00:15:51.230 align:start position:0%
+III candidate he's in this relation and
+prime<00:15:47.580><c> attributes</c><00:15:48.180><c> are</c><00:15:48.590><c> ABCD</c><00:15:49.590><c> now</c><00:15:50.550><c> here</c><00:15:50.850><c> all</c>
+
+00:15:51.230 --> 00:15:51.240 align:start position:0%
+prime attributes are ABCD now here all
+ 
+
+00:15:51.240 --> 00:15:53.750 align:start position:0%
+prime attributes are ABCD now here all
+the<00:15:52.020><c> attributes</c><00:15:52.650><c> of</c><00:15:52.800><c> the</c><00:15:52.950><c> relations</c><00:15:53.460><c> are</c>
+
+00:15:53.750 --> 00:15:53.760 align:start position:0%
+the attributes of the relations are
+ 
+
+00:15:53.760 --> 00:15:56.920 align:start position:0%
+the attributes of the relations are
+prime<00:15:54.180><c> atributes</c><00:15:54.780><c> so</c><00:15:55.560><c> definitely</c><00:15:56.130><c> that</c>
+
+00:15:56.920 --> 00:15:56.930 align:start position:0%
+prime atributes so definitely that
+ 
+
+00:15:56.930 --> 00:16:01.600 align:start position:0%
+prime atributes so definitely that
+relation<00:15:57.930><c> would</c><00:15:58.110><c> be</c><00:15:58.290><c> in</c><00:15:58.440><c> second</c><00:15:58.920><c> normal</c><00:15:59.100><c> form</c>
+
+00:16:01.600 --> 00:16:01.610 align:start position:0%
+ 
+ 
+
+00:16:01.610 --> 00:16:04.700 align:start position:0%
+ 
+why<00:16:02.610><c> so</c><00:16:02.850><c> because</c><00:16:03.060><c> there</c><00:16:03.390><c> is</c><00:16:03.540><c> no</c><00:16:03.900><c> non-prime</c>
+
+00:16:04.700 --> 00:16:04.710 align:start position:0%
+why so because there is no non-prime
+ 
+
+00:16:04.710 --> 00:16:07.670 align:start position:0%
+why so because there is no non-prime
+attribute<00:16:04.860><c> if</c><00:16:05.490><c> no</c><00:16:05.940><c> non-prime</c><00:16:06.450><c> attribute</c><00:16:06.680><c> then</c>
+
+00:16:07.670 --> 00:16:07.680 align:start position:0%
+attribute if no non-prime attribute then
+ 
+
+00:16:07.680 --> 00:16:09.140 align:start position:0%
+attribute if no non-prime attribute then
+you<00:16:07.830><c> will</c><00:16:07.980><c> never</c><00:16:08.250><c> get</c><00:16:08.550><c> this</c><00:16:08.850><c> type</c><00:16:09.120><c> of</c>
+
+00:16:09.140 --> 00:16:09.150 align:start position:0%
+you will never get this type of
+ 
+
+00:16:09.150 --> 00:16:11.960 align:start position:0%
+you will never get this type of
+situation<00:16:09.950><c> because</c><00:16:10.950><c> proper</c><00:16:11.610><c> subset</c><00:16:11.940><c> of</c>
+
+00:16:11.960 --> 00:16:11.970 align:start position:0%
+situation because proper subset of
+ 
+
+00:16:11.970 --> 00:16:15.230 align:start position:0%
+situation because proper subset of
+candidate<00:16:12.570><c> key</c><00:16:12.840><c> is</c><00:16:13.820><c> determining</c><00:16:14.820><c> non-prime</c>
+
+00:16:15.230 --> 00:16:15.240 align:start position:0%
+candidate key is determining non-prime
+ 
+
+00:16:15.240 --> 00:16:17.480 align:start position:0%
+candidate key is determining non-prime
+attribute<00:16:15.390><c> this</c><00:16:15.960><c> is</c><00:16:16.110><c> partial</c><00:16:16.740><c> dependency</c><00:16:17.340><c> but</c>
+
+00:16:17.480 --> 00:16:17.490 align:start position:0%
+attribute this is partial dependency but
+ 
+
+00:16:17.490 --> 00:16:19.370 align:start position:0%
+attribute this is partial dependency but
+we<00:16:17.640><c> don't</c><00:16:17.850><c> have</c><00:16:18.060><c> any</c><00:16:18.300><c> known</c><00:16:18.630><c> primate</c><00:16:18.660><c> review</c>
+
+00:16:19.370 --> 00:16:19.380 align:start position:0%
+we don't have any known primate review
+ 
+
+00:16:19.380 --> 00:16:21.530 align:start position:0%
+we don't have any known primate review
+so<00:16:20.040><c> you</c><00:16:20.100><c> will</c><00:16:20.340><c> never</c><00:16:20.640><c> get</c><00:16:20.910><c> this</c><00:16:21.150><c> kind</c><00:16:21.210><c> of</c>
+
+00:16:21.530 --> 00:16:21.540 align:start position:0%
+so you will never get this kind of
+ 
+
+00:16:21.540 --> 00:16:25.100 align:start position:0%
+so you will never get this kind of
+dependency<00:16:22.110><c> here</c><00:16:22.640><c> right</c><00:16:23.640><c> see</c><00:16:24.360><c> at</c><00:16:24.540><c> the</c><00:16:24.990><c> right</c>
+
+00:16:25.100 --> 00:16:25.110 align:start position:0%
+dependency here right see at the right
+ 
+
+00:16:25.110 --> 00:16:26.690 align:start position:0%
+dependency here right see at the right
+hand<00:16:25.260><c> side</c><00:16:25.380><c> non-prime</c><00:16:25.950><c> attribute</c><00:16:26.070><c> should</c><00:16:26.400><c> be</c>
+
+00:16:26.690 --> 00:16:26.700 align:start position:0%
+hand side non-prime attribute should be
+ 
+
+00:16:26.700 --> 00:16:29.750 align:start position:0%
+hand side non-prime attribute should be
+there<00:16:26.910><c> you</c><00:16:27.690><c> can</c><00:16:27.870><c> check</c><00:16:28.050><c> right</c><00:16:28.320><c> hand</c><00:16:29.130><c> side</c><00:16:29.310><c> CD</c>
+
+00:16:29.750 --> 00:16:29.760 align:start position:0%
+there you can check right hand side CD
+ 
+
+00:16:29.760 --> 00:16:31.910 align:start position:0%
+there you can check right hand side CD
+but<00:16:29.910><c> CDs</c><00:16:30.270><c> prime</c><00:16:30.510><c> attribute</c><00:16:30.960><c> a</c><00:16:31.110><c> is</c><00:16:31.440><c> also</c><00:16:31.650><c> prime</c>
+
+00:16:31.910 --> 00:16:31.920 align:start position:0%
+but CDs prime attribute a is also prime
+ 
+
+00:16:31.920 --> 00:16:33.800 align:start position:0%
+but CDs prime attribute a is also prime
+attribute<00:16:32.310><c> B</c><00:16:32.610><c> B's</c><00:16:32.850><c> also</c><00:16:33.180><c> prime</c><00:16:33.360><c> attribute</c>
+
+00:16:33.800 --> 00:16:33.810 align:start position:0%
+attribute B B's also prime attribute
+ 
+
+00:16:33.810 --> 00:16:37.460 align:start position:0%
+attribute B B's also prime attribute
+fine<00:16:34.650><c> so</c><00:16:35.190><c> if</c><00:16:35.280><c> all</c><00:16:35.520><c> the</c><00:16:36.260><c> attribute</c><00:16:37.260><c> of</c><00:16:37.350><c> a</c>
+
+00:16:37.460 --> 00:16:37.470 align:start position:0%
+fine so if all the attribute of a
+ 
+
+00:16:37.470 --> 00:16:39.440 align:start position:0%
+fine so if all the attribute of a
+relation<00:16:37.920><c> R</c><00:16:38.070><c> prime</c><00:16:38.310><c> attributes</c><00:16:38.910><c> then</c><00:16:39.180><c> that</c>
+
+00:16:39.440 --> 00:16:39.450 align:start position:0%
+relation R prime attributes then that
+ 
+
+00:16:39.450 --> 00:16:41.510 align:start position:0%
+relation R prime attributes then that
+relation<00:16:40.140><c> is</c><00:16:40.200><c> definitely</c><00:16:40.860><c> in</c><00:16:41.040><c> second</c>
+
+00:16:41.510 --> 00:16:41.520 align:start position:0%
+relation is definitely in second
+ 
+
+00:16:41.520 --> 00:16:44.450 align:start position:0%
+relation is definitely in second
+adorable<00:16:41.970><c> form</c><00:16:42.590><c> right</c><00:16:43.590><c> let</c><00:16:43.950><c> us</c><00:16:43.980><c> take</c><00:16:44.220><c> third</c>
+
+00:16:44.450 --> 00:16:44.460 align:start position:0%
+adorable form right let us take third
+ 
+
+00:16:44.460 --> 00:16:46.970 align:start position:0%
+adorable form right let us take third
+example<00:16:44.990><c> so</c><00:16:45.990><c> third</c><00:16:46.230><c> is</c><00:16:46.380><c> this</c><00:16:46.770><c> type</c><00:16:46.950><c> of</c>
+
+00:16:46.970 --> 00:16:46.980 align:start position:0%
+example so third is this type of
+ 
+
+00:16:46.980 --> 00:16:49.820 align:start position:0%
+example so third is this type of
+question<00:16:47.490><c> four</c><00:16:47.820><c> attributes</c><00:16:48.330><c> are</c><00:16:48.840><c> there</c><00:16:49.020><c> in</c>
+
+00:16:49.820 --> 00:16:49.830 align:start position:0%
+question four attributes are there in
+ 
+
+00:16:49.830 --> 00:16:51.140 align:start position:0%
+question four attributes are there in
+our<00:16:49.950><c> relation</c><00:16:50.310><c> these</c><00:16:50.550><c> are</c><00:16:50.700><c> the</c><00:16:50.820><c> functional</c>
+
+00:16:51.140 --> 00:16:51.150 align:start position:0%
+our relation these are the functional
+ 
+
+00:16:51.150 --> 00:16:52.580 align:start position:0%
+our relation these are the functional
+dependence<00:16:51.540><c> you</c><00:16:51.600><c> find</c><00:16:51.870><c> out</c><00:16:52.020><c> the</c><00:16:52.200><c> candidate</c>
+
+00:16:52.580 --> 00:16:52.590 align:start position:0%
+dependence you find out the candidate
+ 
+
+00:16:52.590 --> 00:16:55.040 align:start position:0%
+dependence you find out the candidate
+key<00:16:52.770><c> first</c><00:16:53.010><c> of</c><00:16:53.190><c> all</c><00:16:53.310><c> how</c><00:16:53.400><c> to</c><00:16:53.430><c> find</c><00:16:53.730><c> out</c><00:16:54.050><c> simple</c>
+
+00:16:55.040 --> 00:16:55.050 align:start position:0%
+key first of all how to find out simple
+ 
+
+00:16:55.050 --> 00:16:57.680 align:start position:0%
+key first of all how to find out simple
+rule<00:16:55.370><c> take</c><00:16:56.370><c> all</c><00:16:56.610><c> the</c><00:16:56.850><c> attributes</c><00:16:57.330><c> obviously</c>
+
+00:16:57.680 --> 00:16:57.690 align:start position:0%
+rule take all the attributes obviously
+ 
+
+00:16:57.690 --> 00:17:00.140 align:start position:0%
+rule take all the attributes obviously
+the<00:16:57.810><c> closer</c><00:16:58.050><c> would</c><00:16:58.290><c> be</c><00:16:58.470><c> ABCD</c><00:16:59.460><c> find</c><00:16:59.850><c> out</c><00:16:59.970><c> all</c>
+
+00:17:00.140 --> 00:17:00.150 align:start position:0%
+the closer would be ABCD find out all
+ 
+
+00:17:00.150 --> 00:17:01.550 align:start position:0%
+the closer would be ABCD find out all
+the<00:17:00.330><c> attributes</c><00:17:00.450><c> so</c><00:17:00.870><c> this</c><00:17:01.020><c> would</c><00:17:01.170><c> be</c><00:17:01.260><c> super</c>
+
+00:17:01.550 --> 00:17:01.560 align:start position:0%
+the attributes so this would be super
+ 
+
+00:17:01.560 --> 00:17:03.770 align:start position:0%
+the attributes so this would be super
+key<00:17:01.740><c> right</c><00:17:02.250><c> now</c><00:17:02.640><c> try</c><00:17:02.790><c> to</c><00:17:02.850><c> discard</c><00:17:03.270><c> attributes</c>
+
+00:17:03.770 --> 00:17:03.780 align:start position:0%
+key right now try to discard attributes
+ 
+
+00:17:03.780 --> 00:17:05.630 align:start position:0%
+key right now try to discard attributes
+how<00:17:04.440><c> will</c><00:17:04.589><c> discard</c><00:17:04.890><c> to</c><00:17:05.040><c> check</c><00:17:05.160><c> the</c><00:17:05.280><c> functional</c>
+
+00:17:05.630 --> 00:17:05.640 align:start position:0%
+how will discard to check the functional
+ 
+
+00:17:05.640 --> 00:17:07.610 align:start position:0%
+how will discard to check the functional
+dependency<00:17:06.060><c> is</c><00:17:06.329><c> determining</c><00:17:06.930><c> B</c><00:17:07.079><c> so</c><00:17:07.410><c> do</c><00:17:07.530><c> you</c>
+
+00:17:07.610 --> 00:17:07.620 align:start position:0%
+dependency is determining B so do you
+ 
+
+00:17:07.620 --> 00:17:10.760 align:start position:0%
+dependency is determining B so do you
+have<00:17:07.740><c> a</c><00:17:07.920><c> yes</c><00:17:08.130><c> I</c><00:17:08.280><c> can</c><00:17:08.459><c> discard</c><00:17:09.089><c> be</c><00:17:09.329><c> a</c><00:17:09.770><c> yet</c>
+
+00:17:10.760 --> 00:17:10.770 align:start position:0%
+have a yes I can discard be a yet
+ 
+
+00:17:10.770 --> 00:17:12.949 align:start position:0%
+have a yes I can discard be a yet
+remaining<00:17:10.949><c> BB</c><00:17:11.550><c> is</c><00:17:11.610><c> determining</c><00:17:12.180><c> see</c><00:17:12.360><c> so</c><00:17:12.780><c> by</c>
+
+00:17:12.949 --> 00:17:12.959 align:start position:0%
+remaining BB is determining see so by
+ 
+
+00:17:12.959 --> 00:17:15.110 align:start position:0%
+remaining BB is determining see so by
+transitivity<00:17:13.350><c> property</c><00:17:13.920><c> a</c><00:17:14.130><c> will</c><00:17:14.339><c> determine</c><00:17:14.640><c> C</c>
+
+00:17:15.110 --> 00:17:15.120 align:start position:0%
+transitivity property a will determine C
+ 
+
+00:17:15.120 --> 00:17:17.930 align:start position:0%
+transitivity property a will determine C
+so<00:17:15.720><c> I</c><00:17:15.750><c> can</c><00:17:16.020><c> discard</c><00:17:16.320><c> C</c><00:17:16.589><c> because</c><00:17:16.800><c> I</c><00:17:16.890><c> have</c><00:17:17.130><c> a</c><00:17:17.280><c> now</c>
+
+00:17:17.930 --> 00:17:17.940 align:start position:0%
+so I can discard C because I have a now
+ 
+
+00:17:17.940 --> 00:17:20.569 align:start position:0%
+so I can discard C because I have a now
+third<00:17:18.300><c> is</c><00:17:18.420><c> what</c><00:17:18.600><c> C</c><00:17:18.900><c> is</c><00:17:18.959><c> determining</c><00:17:19.530><c> B</c><00:17:19.709><c> means</c>
+
+00:17:20.569 --> 00:17:20.579 align:start position:0%
+third is what C is determining B means
+ 
+
+00:17:20.579 --> 00:17:23.210 align:start position:0%
+third is what C is determining B means
+a<00:17:20.730><c> can</c><00:17:21.000><c> determine</c><00:17:21.270><c> C</c><00:17:21.660><c> and</c><00:17:21.930><c> C</c><00:17:22.500><c> can</c><00:17:22.650><c> determine</c><00:17:22.920><c> D</c>
+
+00:17:23.210 --> 00:17:23.220 align:start position:0%
+a can determine C and C can determine D
+ 
+
+00:17:23.220 --> 00:17:25.579 align:start position:0%
+a can determine C and C can determine D
+by<00:17:23.370><c> transitivity</c><00:17:23.790><c> property</c><00:17:24.329><c> so</c><00:17:24.540><c> means</c><00:17:24.780><c> here</c>
+
+00:17:25.579 --> 00:17:25.589 align:start position:0%
+by transitivity property so means here
+ 
+
+00:17:25.589 --> 00:17:28.010 align:start position:0%
+by transitivity property so means here
+if<00:17:25.740><c> you</c><00:17:25.800><c> have</c><00:17:26.010><c> a</c><00:17:26.160><c> so</c><00:17:26.220><c> you</c><00:17:26.430><c> can</c><00:17:26.610><c> discard</c><00:17:26.910><c> B</c><00:17:27.360><c> so</c>
+
+00:17:28.010 --> 00:17:28.020 align:start position:0%
+if you have a so you can discard B so
+ 
+
+00:17:28.020 --> 00:17:30.260 align:start position:0%
+if you have a so you can discard B so
+now<00:17:28.110><c> we</c><00:17:28.170><c> are</c><00:17:28.350><c> left</c><00:17:28.470><c> with</c><00:17:28.710><c> only</c><00:17:28.740><c> a</c><00:17:29.220><c> so</c><00:17:29.910><c> find</c><00:17:30.150><c> out</c>
+
+00:17:30.260 --> 00:17:30.270 align:start position:0%
+now we are left with only a so find out
+ 
+
+00:17:30.270 --> 00:17:32.240 align:start position:0%
+now we are left with only a so find out
+a<00:17:30.450><c> closer</c><00:17:30.810><c> is</c><00:17:31.080><c> it</c><00:17:31.230><c> super</c><00:17:31.470><c> clear</c><00:17:31.680><c> node</c><00:17:31.860><c> a</c><00:17:32.100><c> will</c>
+
+00:17:32.240 --> 00:17:32.250 align:start position:0%
+a closer is it super clear node a will
+ 
+
+00:17:32.250 --> 00:17:32.690 align:start position:0%
+a closer is it super clear node a will
+determine
+
+00:17:32.690 --> 00:17:32.700 align:start position:0%
+determine
+ 
+
+00:17:32.700 --> 00:17:35.630 align:start position:0%
+determine
+itself<00:17:33.270><c> so</c><00:17:34.080><c> we</c><00:17:34.260><c> have</c><00:17:34.410><c> a</c><00:17:34.590><c> a</c><00:17:34.860><c> will</c><00:17:35.040><c> determine</c><00:17:35.340><c> V</c>
+
+00:17:35.630 --> 00:17:35.640 align:start position:0%
+itself so we have a a will determine V
+ 
+
+00:17:35.640 --> 00:17:37.610 align:start position:0%
+itself so we have a a will determine V
+do<00:17:35.790><c> you</c><00:17:35.850><c> have</c><00:17:36.000><c> a</c><00:17:36.150><c> yes</c><00:17:36.390><c> so</c><00:17:36.870><c> it</c><00:17:36.960><c> will</c><00:17:37.080><c> determine</c><00:17:37.320><c> B</c>
+
+00:17:37.610 --> 00:17:37.620 align:start position:0%
+do you have a yes so it will determine B
+ 
+
+00:17:37.620 --> 00:17:40.280 align:start position:0%
+do you have a yes so it will determine B
+B<00:17:37.860><c> will</c><00:17:37.980><c> determine</c><00:17:38.250><c> CSU</c><00:17:38.760><c> will</c><00:17:38.850><c> determine</c><00:17:39.150><c> D</c><00:17:39.450><c> so</c>
+
+00:17:40.280 --> 00:17:40.290 align:start position:0%
+B will determine CSU will determine D so
+ 
+
+00:17:40.290 --> 00:17:41.570 align:start position:0%
+B will determine CSU will determine D so
+I<00:17:40.320><c> am</c><00:17:40.440><c> getting</c><00:17:40.740><c> all</c><00:17:40.830><c> the</c><00:17:41.010><c> attributes</c><00:17:41.100><c> of</c><00:17:41.460><c> a</c>
+
+00:17:41.570 --> 00:17:41.580 align:start position:0%
+I am getting all the attributes of a
+ 
+
+00:17:41.580 --> 00:17:43.860 align:start position:0%
+I am getting all the attributes of a
+relation<00:17:41.880><c> so</c><00:17:42.030><c> a</c><00:17:42.270><c> is</c><00:17:42.420><c> what</c><00:17:42.630><c> super</c><00:17:43.230><c> key</c>
+
+00:17:43.860 --> 00:17:43.870 align:start position:0%
+relation so a is what super key
+ 
+
+00:17:43.870 --> 00:17:46.460 align:start position:0%
+relation so a is what super key
+right<00:17:44.080><c> now</c><00:17:44.830><c> is</c><00:17:45.100><c> a</c><00:17:45.520><c> candidate</c><00:17:46.000><c> key</c><00:17:46.210><c> or</c><00:17:46.270><c> not</c>
+
+00:17:46.460 --> 00:17:46.470 align:start position:0%
+right now is a candidate key or not
+ 
+
+00:17:46.470 --> 00:17:49.650 align:start position:0%
+right now is a candidate key or not
+definitely<00:17:47.470><c> yes</c><00:17:47.830><c> why</c><00:17:48.280><c> so</c><00:17:48.550><c> because</c><00:17:49.090><c> proper</c>
+
+00:17:49.650 --> 00:17:49.660 align:start position:0%
+definitely yes why so because proper
+ 
+
+00:17:49.660 --> 00:17:52.770 align:start position:0%
+definitely yes why so because proper
+subset<00:17:50.050><c> of</c><00:17:50.080><c> this</c><00:17:50.320><c> is</c><00:17:50.559><c> what</c><00:17:50.890><c> Phi</c><00:17:51.580><c> only</c><00:17:52.000><c> right</c>
+
+00:17:52.770 --> 00:17:52.780 align:start position:0%
+subset of this is what Phi only right
+ 
+
+00:17:52.780 --> 00:17:54.720 align:start position:0%
+subset of this is what Phi only right
+how<00:17:53.230><c> to</c><00:17:53.290><c> find</c><00:17:53.559><c> out</c><00:17:53.680><c> proper</c><00:17:53.980><c> subset</c><00:17:54.309><c> that</c><00:17:54.340><c> also</c>
+
+00:17:54.720 --> 00:17:54.730 align:start position:0%
+how to find out proper subset that also
+ 
+
+00:17:54.730 --> 00:17:56.160 align:start position:0%
+how to find out proper subset that also
+I<00:17:54.760><c> have</c><00:17:54.940><c> discussed</c><00:17:55.360><c> in</c><00:17:55.510><c> the</c><00:17:55.600><c> previous</c><00:17:55.630><c> video</c>
+
+00:17:56.160 --> 00:17:56.170 align:start position:0%
+I have discussed in the previous video
+ 
+
+00:17:56.170 --> 00:17:57.360 align:start position:0%
+I have discussed in the previous video
+you<00:17:56.200><c> can</c><00:17:56.410><c> check</c><00:17:56.559><c> out</c><00:17:56.680><c> that</c><00:17:56.800><c> video</c><00:17:56.980><c> in</c><00:17:57.160><c> the</c><00:17:57.220><c> SCI</c>
+
+00:17:57.360 --> 00:17:57.370 align:start position:0%
+you can check out that video in the SCI
+ 
+
+00:17:57.370 --> 00:18:00.660 align:start position:0%
+you can check out that video in the SCI
+button<00:17:57.670><c> right</c><00:17:58.090><c> that</c><00:17:58.930><c> is</c><00:17:59.050><c> Phi</c><00:17:59.230><c> and</c><00:17:59.500><c> Phi</c><00:17:59.770><c> a</c><00:18:00.130><c> set</c>
+
+00:18:00.660 --> 00:18:00.670 align:start position:0%
+button right that is Phi and Phi a set
+ 
+
+00:18:00.670 --> 00:18:03.170 align:start position:0%
+button right that is Phi and Phi a set
+of<00:18:00.790><c> attribute</c><00:18:01.180><c> cannot</c><00:18:01.780><c> determine</c><00:18:02.230><c> any</c>
+
+00:18:03.170 --> 00:18:03.180 align:start position:0%
+of attribute cannot determine any
+ 
+
+00:18:03.180 --> 00:18:05.610 align:start position:0%
+of attribute cannot determine any
+attribute<00:18:04.180><c> of</c><00:18:04.300><c> a</c><00:18:04.390><c> relation</c><00:18:04.780><c> so</c><00:18:04.900><c> definitely</c><00:18:05.380><c> if</c>
+
+00:18:05.610 --> 00:18:05.620 align:start position:0%
+attribute of a relation so definitely if
+ 
+
+00:18:05.620 --> 00:18:07.440 align:start position:0%
+attribute of a relation so definitely if
+one<00:18:05.890><c> attribute</c><00:18:06.370><c> is</c><00:18:06.490><c> there</c><00:18:06.730><c> in</c><00:18:06.910><c> a</c><00:18:06.970><c> super</c><00:18:07.240><c> key</c>
+
+00:18:07.440 --> 00:18:07.450 align:start position:0%
+one attribute is there in a super key
+ 
+
+00:18:07.450 --> 00:18:09.900 align:start position:0%
+one attribute is there in a super key
+then<00:18:07.630><c> definitely</c><00:18:08.200><c> that</c><00:18:08.380><c> would</c><00:18:08.650><c> be</c><00:18:08.910><c> candidate</c>
+
+00:18:09.900 --> 00:18:09.910 align:start position:0%
+then definitely that would be candidate
+ 
+
+00:18:09.910 --> 00:18:10.440 align:start position:0%
+then definitely that would be candidate
+key
+
+00:18:10.440 --> 00:18:10.450 align:start position:0%
+key
+ 
+
+00:18:10.450 --> 00:18:14.190 align:start position:0%
+key
+so<00:18:10.570><c> here</c><00:18:10.750><c> is</c><00:18:11.050><c> what</c><00:18:11.500><c> candidate</c><00:18:12.930><c> so</c><00:18:13.930><c> prime</c>
+
+00:18:14.190 --> 00:18:14.200 align:start position:0%
+so here is what candidate so prime
+ 
+
+00:18:14.200 --> 00:18:17.280 align:start position:0%
+so here is what candidate so prime
+attribute<00:18:14.680><c> we</c><00:18:14.860><c> got</c><00:18:15.040><c> a</c><00:18:15.750><c> now</c><00:18:16.750><c> check</c><00:18:16.990><c> prime</c>
+
+00:18:17.280 --> 00:18:17.290 align:start position:0%
+attribute we got a now check prime
+ 
+
+00:18:17.290 --> 00:18:18.870 align:start position:0%
+attribute we got a now check prime
+attribute<00:18:17.740><c> is</c><00:18:17.860><c> available</c><00:18:18.250><c> on</c><00:18:18.340><c> the</c><00:18:18.429><c> right</c><00:18:18.610><c> hand</c>
+
+00:18:18.870 --> 00:18:18.880 align:start position:0%
+attribute is available on the right hand
+ 
+
+00:18:18.880 --> 00:18:22.140 align:start position:0%
+attribute is available on the right hand
+side<00:18:19.110><c> of</c><00:18:20.110><c> any</c><00:18:20.350><c> functional</c><00:18:20.800><c> dependency</c><00:18:21.400><c> here</c>
+
+00:18:22.140 --> 00:18:22.150 align:start position:0%
+side of any functional dependency here
+ 
+
+00:18:22.150 --> 00:18:23.700 align:start position:0%
+side of any functional dependency here
+we<00:18:22.330><c> have</c><00:18:22.480><c> B</c><00:18:22.690><c> here</c><00:18:22.929><c> we</c><00:18:22.960><c> have</c><00:18:23.140><c> C</c><00:18:23.320><c> here</c><00:18:23.470><c> we</c><00:18:23.530><c> already</c>
+
+00:18:23.700 --> 00:18:23.710 align:start position:0%
+we have B here we have C here we already
+ 
+
+00:18:23.710 --> 00:18:27.450 align:start position:0%
+we have B here we have C here we already
+know<00:18:24.040><c> it</c><00:18:24.940><c> means</c><00:18:25.270><c> there</c><00:18:25.990><c> would</c><00:18:26.140><c> not</c><00:18:26.350><c> be</c><00:18:26.410><c> no</c><00:18:27.130><c> more</c>
+
+00:18:27.450 --> 00:18:27.460 align:start position:0%
+know it means there would not be no more
+ 
+
+00:18:27.460 --> 00:18:29.880 align:start position:0%
+know it means there would not be no more
+candidate<00:18:27.970><c> keys</c><00:18:28.300><c> here</c><00:18:29.110><c> we</c><00:18:29.260><c> have</c><00:18:29.380><c> only</c><00:18:29.530><c> one</c>
+
+00:18:29.880 --> 00:18:29.890 align:start position:0%
+candidate keys here we have only one
+ 
+
+00:18:29.890 --> 00:18:32.820 align:start position:0%
+candidate keys here we have only one
+candidate<00:18:30.370><c> key</c><00:18:30.580><c> that</c><00:18:30.790><c> is</c><00:18:30.970><c> a</c><00:18:31.179><c> now</c><00:18:32.050><c> see</c><00:18:32.620><c> here</c>
+
+00:18:32.820 --> 00:18:32.830 align:start position:0%
+candidate key that is a now see here
+ 
+
+00:18:32.830 --> 00:18:34.230 align:start position:0%
+candidate key that is a now see here
+candidate<00:18:33.280><c> key</c><00:18:33.490><c> is</c><00:18:33.580><c> having</c><00:18:33.850><c> only</c><00:18:33.940><c> one</c>
+
+00:18:34.230 --> 00:18:34.240 align:start position:0%
+candidate key is having only one
+ 
+
+00:18:34.240 --> 00:18:37.500 align:start position:0%
+candidate key is having only one
+attribute<00:18:34.750><c> so</c><00:18:35.740><c> proper</c><00:18:36.309><c> subset</c><00:18:36.820><c> of</c><00:18:36.850><c> candidate</c>
+
+00:18:37.500 --> 00:18:37.510 align:start position:0%
+attribute so proper subset of candidate
+ 
+
+00:18:37.510 --> 00:18:39.600 align:start position:0%
+attribute so proper subset of candidate
+key<00:18:37.750><c> can</c><00:18:38.230><c> you</c><00:18:38.380><c> get</c><00:18:38.590><c> any</c><00:18:38.830><c> proper</c><00:18:39.220><c> subset</c><00:18:39.580><c> of</c>
+
+00:18:39.600 --> 00:18:39.610 align:start position:0%
+key can you get any proper subset of
+ 
+
+00:18:39.610 --> 00:18:41.940 align:start position:0%
+key can you get any proper subset of
+this<00:18:39.910><c> proper</c><00:18:40.870><c> subset</c><00:18:41.230><c> would</c><00:18:41.350><c> be</c><00:18:41.470><c> what</c><00:18:41.650><c> Phi</c>
+
+00:18:41.940 --> 00:18:41.950 align:start position:0%
+this proper subset would be what Phi
+ 
+
+00:18:41.950 --> 00:18:45.260 align:start position:0%
+this proper subset would be what Phi
+only<00:18:42.340><c> no</c><00:18:42.580><c> attribute</c><00:18:43.240><c> would</c><00:18:43.360><c> be</c><00:18:43.540><c> there</c><00:18:43.750><c> right</c>
+
+00:18:45.260 --> 00:18:45.270 align:start position:0%
+only no attribute would be there right
+ 
+
+00:18:45.270 --> 00:18:48.240 align:start position:0%
+only no attribute would be there right
+now<00:18:46.270><c> there</c><00:18:47.200><c> is</c><00:18:47.290><c> no</c><00:18:47.470><c> proper</c><00:18:47.860><c> subset</c><00:18:48.010><c> of</c>
+
+00:18:48.240 --> 00:18:48.250 align:start position:0%
+now there is no proper subset of
+ 
+
+00:18:48.250 --> 00:18:50.190 align:start position:0%
+now there is no proper subset of
+candidate<00:18:48.820><c> key</c><00:18:49.059><c> so</c><00:18:49.420><c> definitely</c><00:18:49.870><c> we</c><00:18:50.110><c> will</c>
+
+00:18:50.190 --> 00:18:50.200 align:start position:0%
+candidate key so definitely we will
+ 
+
+00:18:50.200 --> 00:18:53.690 align:start position:0%
+candidate key so definitely we will
+never<00:18:50.470><c> get</c><00:18:50.770><c> this</c><00:18:51.040><c> kind</c><00:18:51.100><c> of</c><00:18:51.720><c> dependency</c><00:18:52.720><c> here</c>
+
+00:18:53.690 --> 00:18:53.700 align:start position:0%
+never get this kind of dependency here
+ 
+
+00:18:53.700 --> 00:18:56.580 align:start position:0%
+never get this kind of dependency here
+so<00:18:54.700><c> there</c><00:18:54.940><c> is</c><00:18:55.059><c> no</c><00:18:55.300><c> func</c><00:18:55.570><c> partial</c><00:18:56.020><c> dependency</c>
+
+00:18:56.580 --> 00:18:56.590 align:start position:0%
+so there is no func partial dependency
+ 
+
+00:18:56.590 --> 00:18:58.560 align:start position:0%
+so there is no func partial dependency
+so<00:18:56.830><c> this</c><00:18:57.040><c> would</c><00:18:57.280><c> be</c><00:18:57.520><c> in</c><00:18:57.670><c> second</c><00:18:58.120><c> normal</c><00:18:58.510><c> form</c>
+
+00:18:58.560 --> 00:18:58.570 align:start position:0%
+so this would be in second normal form
+ 
+
+00:18:58.570 --> 00:19:00.270 align:start position:0%
+so this would be in second normal form
+this<00:18:58.990><c> relation</c><00:18:59.440><c> would</c><00:18:59.590><c> be</c><00:18:59.740><c> in</c><00:18:59.860><c> second</c><00:19:00.190><c> normal</c>
+
+00:19:00.270 --> 00:19:00.280 align:start position:0%
+this relation would be in second normal
+ 
+
+00:19:00.280 --> 00:19:03.090 align:start position:0%
+this relation would be in second normal
+form<00:19:00.900><c> so</c><00:19:01.900><c> you</c><00:19:01.990><c> can</c><00:19:02.290><c> say</c><00:19:02.470><c> something</c><00:19:02.800><c> like</c><00:19:02.920><c> this</c>
+
+00:19:03.090 --> 00:19:03.100 align:start position:0%
+form so you can say something like this
+ 
+
+00:19:03.100 --> 00:19:05.850 align:start position:0%
+form so you can say something like this
+if<00:19:03.460><c> candidate</c><00:19:04.150><c> is</c><00:19:04.420><c> having</c><00:19:04.990><c> only</c><00:19:05.170><c> single</c>
+
+00:19:05.850 --> 00:19:05.860 align:start position:0%
+if candidate is having only single
+ 
+
+00:19:05.860 --> 00:19:08.790 align:start position:0%
+if candidate is having only single
+attribute<00:19:06.240><c> single</c><00:19:07.240><c> attribute</c><00:19:07.420><c> right</c><00:19:08.170><c> then</c>
+
+00:19:08.790 --> 00:19:08.800 align:start position:0%
+attribute single attribute right then
+ 
+
+00:19:08.800 --> 00:19:12.510 align:start position:0%
+attribute single attribute right then
+definitely<00:19:09.070><c> that</c><00:19:10.620><c> relation</c><00:19:11.620><c> would</c><00:19:12.100><c> be</c><00:19:12.340><c> in</c>
+
+00:19:12.510 --> 00:19:12.520 align:start position:0%
+definitely that relation would be in
+ 
+
+00:19:12.520 --> 00:19:16.710 align:start position:0%
+definitely that relation would be in
+second<00:19:13.450><c> normal</c><00:19:13.690><c> form</c><00:19:14.040><c> right</c><00:19:15.360><c> it's</c><00:19:16.360><c> not</c><00:19:16.540><c> like</c>
+
+00:19:16.710 --> 00:19:16.720 align:start position:0%
+second normal form right it's not like
+ 
+
+00:19:16.720 --> 00:19:19.380 align:start position:0%
+second normal form right it's not like
+that<00:19:16.929><c> may</c><00:19:17.410><c> be</c><00:19:17.470><c> may</c><00:19:18.190><c> be</c><00:19:18.220><c> in</c><00:19:18.400><c> some</c><00:19:18.700><c> case</c><00:19:19.000><c> in</c><00:19:19.210><c> some</c>
+
+00:19:19.380 --> 00:19:19.390 align:start position:0%
+that may be may be in some case in some
+ 
+
+00:19:19.390 --> 00:19:21.060 align:start position:0%
+that may be may be in some case in some
+relation<00:19:19.840><c> one</c><00:19:20.020><c> candidate</c><00:19:20.440><c> he</c><00:19:20.679><c> is</c><00:19:20.740><c> on</c><00:19:20.920><c> having</c>
+
+00:19:21.060 --> 00:19:21.070 align:start position:0%
+relation one candidate he is on having
+ 
+
+00:19:21.070 --> 00:19:23.130 align:start position:0%
+relation one candidate he is on having
+single<00:19:21.400><c> attribute</c><00:19:21.640><c> another</c><00:19:22.300><c> candidate</c><00:19:22.750><c> he</c><00:19:23.020><c> is</c>
+
+00:19:23.130 --> 00:19:23.140 align:start position:0%
+single attribute another candidate he is
+ 
+
+00:19:23.140 --> 00:19:26.250 align:start position:0%
+single attribute another candidate he is
+having<00:19:23.320><c> two</c><00:19:24.040><c> attribute</c><00:19:24.580><c> in</c><00:19:25.390><c> that</c><00:19:25.720><c> case</c><00:19:26.080><c> you</c>
+
+00:19:26.250 --> 00:19:26.260 align:start position:0%
+having two attribute in that case you
+ 
+
+00:19:26.260 --> 00:19:28.380 align:start position:0%
+having two attribute in that case you
+cannot<00:19:26.590><c> say</c><00:19:26.830><c> that</c><00:19:27.100><c> there</c><00:19:27.429><c> would</c><00:19:27.670><c> not</c><00:19:27.850><c> be</c><00:19:27.910><c> any</c>
+
+00:19:28.380 --> 00:19:28.390 align:start position:0%
+cannot say that there would not be any
+ 
+
+00:19:28.390 --> 00:19:30.510 align:start position:0%
+cannot say that there would not be any
+partial<00:19:28.750><c> dependency</c><00:19:29.410><c> because</c><00:19:29.650><c> one</c><00:19:30.070><c> candidate</c>
+
+00:19:30.510 --> 00:19:30.520 align:start position:0%
+partial dependency because one candidate
+ 
+
+00:19:30.520 --> 00:19:33.870 align:start position:0%
+partial dependency because one candidate
+key<00:19:30.790><c> is</c><00:19:31.450><c> having</c><00:19:31.900><c> two</c><00:19:32.410><c> attributes</c><00:19:32.980><c> so</c><00:19:33.610><c> you</c><00:19:33.670><c> can</c>
+
+00:19:33.870 --> 00:19:33.880 align:start position:0%
+key is having two attributes so you can
+ 
+
+00:19:33.880 --> 00:19:36.390 align:start position:0%
+key is having two attributes so you can
+find<00:19:34.120><c> out</c><00:19:34.270><c> proper</c><00:19:34.660><c> subset</c><00:19:35.080><c> of</c><00:19:35.110><c> this</c><00:19:35.470><c> you</c><00:19:36.220><c> can</c>
+
+00:19:36.390 --> 00:19:36.400 align:start position:0%
+find out proper subset of this you can
+ 
+
+00:19:36.400 --> 00:19:38.010 align:start position:0%
+find out proper subset of this you can
+you<00:19:36.760><c> cannot</c><00:19:37.030><c> find</c><00:19:37.240><c> out</c><00:19:37.390><c> proper</c><00:19:37.660><c> subset</c><00:19:37.990><c> of</c>
+
+00:19:38.010 --> 00:19:38.020 align:start position:0%
+you cannot find out proper subset of
+ 
+
+00:19:38.020 --> 00:19:39.630 align:start position:0%
+you cannot find out proper subset of
+this<00:19:38.260><c> but</c><00:19:38.410><c> you</c><00:19:38.530><c> can</c><00:19:38.679><c> find</c><00:19:38.920><c> out</c><00:19:39.040><c> proper</c><00:19:39.340><c> subset</c>
+
+00:19:39.630 --> 00:19:39.640 align:start position:0%
+this but you can find out proper subset
+ 
+
+00:19:39.640 --> 00:19:43.710 align:start position:0%
+this but you can find out proper subset
+of<00:19:39.670><c> this</c><00:19:39.880><c> right</c><00:19:40.920><c> so</c><00:19:41.920><c> it</c><00:19:42.010><c> means</c><00:19:42.190><c> if</c><00:19:42.490><c> all</c><00:19:43.270><c> the</c>
+
+00:19:43.710 --> 00:19:43.720 align:start position:0%
+of this right so it means if all the
+ 
+
+00:19:43.720 --> 00:19:46.680 align:start position:0%
+of this right so it means if all the
+candidate<00:19:44.110><c> keys</c><00:19:44.380><c> here</c><00:19:45.120><c> luckily</c><00:19:46.120><c> I</c><00:19:46.360><c> have</c><00:19:46.570><c> only</c>
+
+00:19:46.680 --> 00:19:46.690 align:start position:0%
+candidate keys here luckily I have only
+ 
+
+00:19:46.690 --> 00:19:49.049 align:start position:0%
+candidate keys here luckily I have only
+one<00:19:46.960><c> candidate</c><00:19:47.350><c> key</c><00:19:47.559><c> but</c><00:19:48.070><c> if</c><00:19:48.250><c> suppose</c><00:19:48.640><c> all</c><00:19:48.850><c> the</c>
+
+00:19:49.049 --> 00:19:49.059 align:start position:0%
+one candidate key but if suppose all the
+ 
+
+00:19:49.059 --> 00:19:51.330 align:start position:0%
+one candidate key but if suppose all the
+candidate<00:19:49.450><c> keys</c><00:19:49.690><c> two</c><00:19:50.559><c> candidate</c><00:19:50.920><c> keys</c><00:19:51.130><c> are</c>
+
+00:19:51.330 --> 00:19:51.340 align:start position:0%
+candidate keys two candidate keys are
+ 
+
+00:19:51.340 --> 00:19:52.830 align:start position:0%
+candidate keys two candidate keys are
+there<00:19:51.490><c> oh</c><00:19:51.550><c> three</c><00:19:51.850><c> candidate</c><00:19:52.210><c> keys</c><00:19:52.450><c> are</c><00:19:52.660><c> there</c>
+
+00:19:52.830 --> 00:19:52.840 align:start position:0%
+there oh three candidate keys are there
+ 
+
+00:19:52.840 --> 00:19:54.360 align:start position:0%
+there oh three candidate keys are there
+and<00:19:53.050><c> all</c><00:19:53.200><c> the</c><00:19:53.350><c> three</c><00:19:53.560><c> candidate</c><00:19:53.950><c> keys</c><00:19:54.190><c> are</c>
+
+00:19:54.360 --> 00:19:54.370 align:start position:0%
+and all the three candidate keys are
+ 
+
+00:19:54.370 --> 00:19:55.700 align:start position:0%
+and all the three candidate keys are
+having<00:19:54.670><c> single</c><00:19:55.030><c> single</c><00:19:55.330><c> ID</c>
+
+00:19:55.700 --> 00:19:55.710 align:start position:0%
+having single single ID
+ 
+
+00:19:55.710 --> 00:19:58.490 align:start position:0%
+having single single ID
+then<00:19:56.670><c> definitely</c><00:19:57.080><c> there</c><00:19:58.080><c> would</c><00:19:58.230><c> be</c><00:19:58.260><c> no</c>
+
+00:19:58.490 --> 00:19:58.500 align:start position:0%
+then definitely there would be no
+ 
+
+00:19:58.500 --> 00:20:00.260 align:start position:0%
+then definitely there would be no
+partial<00:19:58.800><c> dependency</c><00:19:59.400><c> and</c><00:19:59.580><c> definitely</c><00:20:00.060><c> that</c>
+
+00:20:00.260 --> 00:20:00.270 align:start position:0%
+partial dependency and definitely that
+ 
+
+00:20:00.270 --> 00:20:02.060 align:start position:0%
+partial dependency and definitely that
+relation<00:20:00.780><c> would</c><00:20:00.930><c> be</c><00:20:01.110><c> in</c><00:20:01.200><c> second</c><00:20:01.680><c> normal</c><00:20:01.830><c> form</c>
+
+00:20:02.060 --> 00:20:02.070 align:start position:0%
+relation would be in second normal form
+ 
+
+00:20:02.070 --> 00:20:05.150 align:start position:0%
+relation would be in second normal form
+now<00:20:03.030><c> I</c><00:20:03.060><c> hope</c><00:20:03.360><c> you</c><00:20:03.510><c> got</c><00:20:03.690><c> how</c><00:20:04.530><c> to</c><00:20:04.590><c> find</c><00:20:04.890><c> out</c><00:20:05.010><c> that</c>
+
+00:20:05.150 --> 00:20:05.160 align:start position:0%
+now I hope you got how to find out that
+ 
+
+00:20:05.160 --> 00:20:06.530 align:start position:0%
+now I hope you got how to find out that
+particular<00:20:05.340><c> relation</c><00:20:05.940><c> is</c><00:20:06.060><c> in</c><00:20:06.150><c> second</c><00:20:06.480><c> normal</c>
+
+00:20:06.530 --> 00:20:06.540 align:start position:0%
+particular relation is in second normal
+ 
+
+00:20:06.540 --> 00:20:08.420 align:start position:0%
+particular relation is in second normal
+form<00:20:06.750><c> or</c><00:20:07.020><c> not</c><00:20:07.050><c> right</c><00:20:07.560><c> and</c><00:20:07.620><c> what</c><00:20:07.950><c> is</c><00:20:08.130><c> partial</c>
+
+00:20:08.420 --> 00:20:08.430 align:start position:0%
+form or not right and what is partial
+ 
+
+00:20:08.430 --> 00:20:11.720 align:start position:0%
+form or not right and what is partial
+dependency<00:20:09.060><c> now</c><00:20:09.540><c> see</c><00:20:10.380><c> one</c><00:20:11.010><c> question</c><00:20:11.160><c> for</c><00:20:11.580><c> you</c>
+
+00:20:11.720 --> 00:20:11.730 align:start position:0%
+dependency now see one question for you
+ 
+
+00:20:11.730 --> 00:20:14.360 align:start position:0%
+dependency now see one question for you
+is<00:20:12.020><c> here</c><00:20:13.020><c> this</c><00:20:13.200><c> this</c><00:20:13.560><c> is</c><00:20:13.680><c> the</c><00:20:13.770><c> relation</c><00:20:14.160><c> given</c>
+
+00:20:14.360 --> 00:20:14.370 align:start position:0%
+is here this this is the relation given
+ 
+
+00:20:14.370 --> 00:20:16.460 align:start position:0%
+is here this this is the relation given
+and<00:20:14.640><c> functional</c><00:20:15.300><c> dependencies</c><00:20:15.750><c> are</c><00:20:15.930><c> two</c>
+
+00:20:16.460 --> 00:20:16.470 align:start position:0%
+and functional dependencies are two
+ 
+
+00:20:16.470 --> 00:20:18.470 align:start position:0%
+and functional dependencies are two
+functional<00:20:16.950><c> dependency</c><00:20:17.400><c> is</c><00:20:17.460><c> only</c><00:20:17.610><c> A</c><00:20:17.730><c> to</c><00:20:17.910><c> B</c><00:20:18.060><c> B</c>
+
+00:20:18.470 --> 00:20:18.480 align:start position:0%
+functional dependency is only A to B B
+ 
+
+00:20:18.480 --> 00:20:20.000 align:start position:0%
+functional dependency is only A to B B
+to<00:20:18.660><c> D</c><00:20:18.810><c> I</c><00:20:19.020><c> think</c><00:20:19.260><c> this</c><00:20:19.380><c> is</c><00:20:19.470><c> very</c><00:20:19.590><c> simple</c>
+
+00:20:20.000 --> 00:20:20.010 align:start position:0%
+to D I think this is very simple
+ 
+
+00:20:20.010 --> 00:20:21.680 align:start position:0%
+to D I think this is very simple
+question<00:20:20.310><c> so</c><00:20:20.970><c> you</c><00:20:21.030><c> can</c><00:20:21.240><c> tell</c><00:20:21.390><c> me</c><00:20:21.540><c> in</c><00:20:21.600><c> the</c>
+
+00:20:21.680 --> 00:20:21.690 align:start position:0%
+question so you can tell me in the
+ 
+
+00:20:21.690 --> 00:20:24.290 align:start position:0%
+question so you can tell me in the
+comment<00:20:22.020><c> box</c><00:20:22.440><c> that</c><00:20:22.770><c> this</c><00:20:23.370><c> relation</c><00:20:23.910><c> is</c><00:20:24.090><c> in</c>
+
+00:20:24.290 --> 00:20:24.300 align:start position:0%
+comment box that this relation is in
+ 
+
+00:20:24.300 --> 00:20:27.260 align:start position:0%
+comment box that this relation is in
+second<00:20:24.750><c> normal</c><00:20:24.930><c> form</c><00:20:25.170><c> or</c><00:20:25.500><c> not</c><00:20:25.530><c> right</c><00:20:26.070><c> now</c><00:20:26.850><c> the</c>
+
+00:20:27.260 --> 00:20:27.270 align:start position:0%
+second normal form or not right now the
+ 
+
+00:20:27.270 --> 00:20:29.090 align:start position:0%
+second normal form or not right now the
+question<00:20:27.420><c> is</c><00:20:27.750><c> if</c><00:20:27.960><c> not</c><00:20:28.260><c> in</c><00:20:28.440><c> second</c><00:20:28.770><c> normal</c><00:20:29.040><c> form</c>
+
+00:20:29.090 --> 00:20:29.100 align:start position:0%
+question is if not in second normal form
+ 
+
+00:20:29.100 --> 00:20:31.580 align:start position:0%
+question is if not in second normal form
+then<00:20:29.400><c> how</c><00:20:29.550><c> to</c><00:20:29.610><c> convert</c><00:20:30.090><c> it</c><00:20:30.330><c> into</c><00:20:30.590><c> second</c>
+
+00:20:31.580 --> 00:20:31.590 align:start position:0%
+then how to convert it into second
+ 
+
+00:20:31.590 --> 00:20:33.670 align:start position:0%
+then how to convert it into second
+normal<00:20:31.620><c> form</c><00:20:31.920><c> right</c><00:20:32.310><c> so</c><00:20:32.970><c> we</c><00:20:33.120><c> will</c><00:20:33.240><c> decompose</c>
+
+00:20:33.670 --> 00:20:33.680 align:start position:0%
+normal form right so we will decompose
+ 
+
+00:20:33.680 --> 00:20:36.560 align:start position:0%
+normal form right so we will decompose
+that<00:20:34.680><c> relation</c><00:20:35.220><c> see</c><00:20:35.640><c> this</c><00:20:35.820><c> is</c><00:20:35.940><c> not</c><00:20:36.120><c> in</c><00:20:36.270><c> second</c>
+
+00:20:36.560 --> 00:20:36.570 align:start position:0%
+that relation see this is not in second
+ 
+
+00:20:36.570 --> 00:20:38.240 align:start position:0%
+that relation see this is not in second
+normal<00:20:36.810><c> form</c><00:20:36.870><c> so</c><00:20:37.200><c> you</c><00:20:37.290><c> will</c><00:20:37.440><c> decompose</c><00:20:37.950><c> this</c>
+
+00:20:38.240 --> 00:20:38.250 align:start position:0%
+normal form so you will decompose this
+ 
+
+00:20:38.250 --> 00:20:41.120 align:start position:0%
+normal form so you will decompose this
+you<00:20:38.580><c> will</c><00:20:38.700><c> divide</c><00:20:39.090><c> it</c><00:20:39.330><c> now</c><00:20:40.230><c> how</c><00:20:40.410><c> to</c><00:20:40.440><c> decompose</c>
+
+00:20:41.120 --> 00:20:41.130 align:start position:0%
+you will divide it now how to decompose
+ 
+
+00:20:41.130 --> 00:20:43.460 align:start position:0%
+you will divide it now how to decompose
+it<00:20:41.400><c> that</c><00:20:42.150><c> I</c><00:20:42.180><c> guess</c><00:20:42.510><c> it's</c><00:20:42.750><c> not</c><00:20:42.930><c> the</c><00:20:42.990><c> right</c><00:20:43.290><c> time</c>
+
+00:20:43.460 --> 00:20:43.470 align:start position:0%
+it that I guess it's not the right time
+ 
+
+00:20:43.470 --> 00:20:45.860 align:start position:0%
+it that I guess it's not the right time
+to<00:20:43.680><c> tell</c><00:20:43.920><c> because</c><00:20:44.580><c> first</c><00:20:45.210><c> of</c><00:20:45.360><c> all</c><00:20:45.450><c> I</c><00:20:45.540><c> will</c><00:20:45.660><c> tell</c>
+
+00:20:45.860 --> 00:20:45.870 align:start position:0%
+to tell because first of all I will tell
+ 
+
+00:20:45.870 --> 00:20:48.110 align:start position:0%
+to tell because first of all I will tell
+you<00:20:46.050><c> what</c><00:20:46.650><c> is</c><00:20:46.800><c> decomposition</c><00:20:47.520><c> what</c><00:20:47.760><c> are</c><00:20:47.880><c> types</c>
+
+00:20:48.110 --> 00:20:48.120 align:start position:0%
+you what is decomposition what are types
+ 
+
+00:20:48.120 --> 00:20:49.640 align:start position:0%
+you what is decomposition what are types
+of<00:20:48.270><c> decomposition</c><00:20:48.750><c> we</c><00:20:49.170><c> have</c><00:20:49.290><c> Llosa</c>
+
+00:20:49.640 --> 00:20:49.650 align:start position:0%
+of decomposition we have Llosa
+ 
+
+00:20:49.650 --> 00:20:51.350 align:start position:0%
+of decomposition we have Llosa
+decomposition<00:20:50.280><c> we</c><00:20:50.430><c> have</c><00:20:50.580><c> lost</c><00:20:50.880><c> less</c>
+
+00:20:51.350 --> 00:20:51.360 align:start position:0%
+decomposition we have lost less
+ 
+
+00:20:51.360 --> 00:20:54.500 align:start position:0%
+decomposition we have lost less
+decomposition<00:20:52.230><c> right</c><00:20:52.590><c> so</c><00:20:53.370><c> definitely</c><00:20:53.880><c> there</c>
+
+00:20:54.500 --> 00:20:54.510 align:start position:0%
+decomposition right so definitely there
+ 
+
+00:20:54.510 --> 00:20:57.140 align:start position:0%
+decomposition right so definitely there
+should<00:20:54.690><c> be</c><00:20:54.840><c> loss</c><00:20:55.140><c> less</c><00:20:55.880><c> decomposition</c><00:20:56.880><c> not</c>
+
+00:20:57.140 --> 00:20:57.150 align:start position:0%
+should be loss less decomposition not
+ 
+
+00:20:57.150 --> 00:20:59.540 align:start position:0%
+should be loss less decomposition not
+this<00:20:57.570><c> low</c><00:20:57.990><c> silly</c><00:20:58.260><c> composition</c><00:20:58.890><c> now</c><00:20:59.370><c> I</c><00:20:59.400><c> am</c>
+
+00:20:59.540 --> 00:20:59.550 align:start position:0%
+this low silly composition now I am
+ 
+
+00:20:59.550 --> 00:21:01.160 align:start position:0%
+this low silly composition now I am
+going<00:20:59.700><c> to</c><00:20:59.850><c> tell</c><00:21:00.060><c> you</c><00:21:00.240><c> in</c><00:21:00.420><c> the</c><00:21:00.510><c> next</c><00:21:00.750><c> video</c><00:21:00.990><c> that</c>
+
+00:21:01.160 --> 00:21:01.170 align:start position:0%
+going to tell you in the next video that
+ 
+
+00:21:01.170 --> 00:21:02.840 align:start position:0%
+going to tell you in the next video that
+what<00:21:01.380><c> is</c><00:21:01.500><c> the</c><00:21:01.590><c> low</c><00:21:01.710><c> C</c><00:21:01.950><c> decomposition</c><00:21:02.580><c> and</c><00:21:02.670><c> what</c>
+
+00:21:02.840 --> 00:21:02.850 align:start position:0%
+what is the low C decomposition and what
+ 
+
+00:21:02.850 --> 00:21:04.970 align:start position:0%
+what is the low C decomposition and what
+is<00:21:03.000><c> loss</c><00:21:03.270><c> less</c><00:21:03.510><c> decomposition</c><00:21:04.440><c> right</c><00:21:04.590><c> right</c>
+
+00:21:04.970 --> 00:21:04.980 align:start position:0%
+is loss less decomposition right right
+ 
+
+00:21:04.980 --> 00:21:07.130 align:start position:0%
+is loss less decomposition right right
+and<00:21:05.190><c> how</c><00:21:05.610><c> to</c><00:21:05.670><c> decompose</c><00:21:06.540><c> a</c><00:21:06.600><c> particular</c>
+
+00:21:07.130 --> 00:21:07.140 align:start position:0%
+and how to decompose a particular
+ 
+
+00:21:07.140 --> 00:21:09.560 align:start position:0%
+and how to decompose a particular
+relation<00:21:07.650><c> into</c><00:21:07.830><c> loss</c><00:21:08.160><c> less</c><00:21:08.580><c> the</c><00:21:08.940><c> composition</c>
+
+00:21:09.560 --> 00:21:09.570 align:start position:0%
+relation into loss less the composition
+ 
+
+00:21:09.570 --> 00:21:12.590 align:start position:0%
+relation into loss less the composition
+right<00:21:09.810><c> after</c><00:21:10.560><c> that</c><00:21:10.860><c> only</c><00:21:11.100><c> I</c><00:21:11.280><c> can</c><00:21:11.610><c> I</c><00:21:11.850><c> guess</c><00:21:12.360><c> you</c>
+
+00:21:12.590 --> 00:21:12.600 align:start position:0%
+right after that only I can I guess you
+ 
+
+00:21:12.600 --> 00:21:14.840 align:start position:0%
+right after that only I can I guess you
+can<00:21:12.750><c> easily</c><00:21:12.960><c> get</c><00:21:13.440><c> that</c><00:21:13.890><c> how</c><00:21:14.100><c> to</c><00:21:14.160><c> convert</c><00:21:14.640><c> it</c>
+
+00:21:14.840 --> 00:21:14.850 align:start position:0%
+can easily get that how to convert it
+ 
+
+00:21:14.850 --> 00:21:16.400 align:start position:0%
+can easily get that how to convert it
+into<00:21:15.060><c> its</c><00:21:15.330><c> second</c><00:21:15.720><c> normal</c><00:21:15.960><c> form</c><00:21:16.050><c> how</c><00:21:16.350><c> to</c>
+
+00:21:16.400 --> 00:21:16.410 align:start position:0%
+into its second normal form how to
+ 
+
+00:21:16.410 --> 00:21:18.590 align:start position:0%
+into its second normal form how to
+decompose<00:21:16.860><c> the</c><00:21:17.340><c> relation</c><00:21:17.820><c> right</c><00:21:18.090><c> it's</c><00:21:18.390><c> not</c>
+
+00:21:18.590 --> 00:21:18.600 align:start position:0%
+decompose the relation right it's not
+ 
+
+00:21:18.600 --> 00:21:21.050 align:start position:0%
+decompose the relation right it's not
+the<00:21:18.660><c> right</c><00:21:18.990><c> time</c><00:21:19.230><c> to</c><00:21:19.500><c> tell</c><00:21:19.620><c> you</c><00:21:19.800><c> right</c><00:21:20.220><c> now</c><00:21:20.910><c> in</c>
+
+00:21:21.050 --> 00:21:21.060 align:start position:0%
+the right time to tell you right now in
+ 
+
+00:21:21.060 --> 00:21:23.000 align:start position:0%
+the right time to tell you right now in
+the<00:21:21.180><c> next</c><00:21:21.480><c> video</c><00:21:21.660><c> I</c><00:21:22.080><c> am</c><00:21:22.260><c> going</c><00:21:22.530><c> to</c><00:21:22.650><c> tell</c><00:21:22.830><c> you</c>
+
+00:21:23.000 --> 00:21:23.010 align:start position:0%
+the next video I am going to tell you
+ 
+
+00:21:23.010 --> 00:21:25.310 align:start position:0%
+the next video I am going to tell you
+that<00:21:23.250><c> what</c><00:21:23.610><c> is</c><00:21:23.640><c> third</c><00:21:24.030><c> normal</c><00:21:24.240><c> form</c><00:21:24.450><c> and</c><00:21:24.780><c> how</c>
+
+00:21:25.310 --> 00:21:25.320 align:start position:0%
+that what is third normal form and how
+ 
+
+00:21:25.320 --> 00:21:27.230 align:start position:0%
+that what is third normal form and how
+to<00:21:25.350><c> find</c><00:21:25.710><c> out</c><00:21:25.860><c> that</c><00:21:26.070><c> a</c><00:21:26.130><c> particular</c><00:21:26.730><c> relation</c>
+
+00:21:27.230 --> 00:21:27.240 align:start position:0%
+to find out that a particular relation
+ 
+
+00:21:27.240 --> 00:21:29.450 align:start position:0%
+to find out that a particular relation
+particular<00:21:27.750><c> given</c><00:21:28.140><c> relation</c><00:21:28.560><c> is</c><00:21:28.740><c> in</c><00:21:28.770><c> third</c>
+
+00:21:29.450 --> 00:21:29.460 align:start position:0%
+particular given relation is in third
+ 
+
+00:21:29.460 --> 00:21:32.260 align:start position:0%
+particular given relation is in third
+normal<00:21:29.760><c> form</c><00:21:30.030><c> or</c><00:21:30.360><c> not</c><00:21:30.510><c> the</c><00:21:30.690><c> basic</c><00:21:30.990><c> idea</c><00:21:31.290><c> right</c>
+
+00:21:32.260 --> 00:21:32.270 align:start position:0%
+normal form or not the basic idea right
+ 
+
+00:21:32.270 --> 00:21:34.940 align:start position:0%
+normal form or not the basic idea right
+so<00:21:33.270><c> I</c><00:21:33.300><c> guess</c><00:21:33.630><c> now</c><00:21:33.960><c> it's</c><00:21:34.140><c> done</c><00:21:34.380><c> with</c><00:21:34.560><c> the</c><00:21:34.650><c> second</c>
+
+00:21:34.940 --> 00:21:34.950 align:start position:0%
+so I guess now it's done with the second
+ 
+
+00:21:34.950 --> 00:21:36.440 align:start position:0%
+so I guess now it's done with the second
+normal<00:21:35.070><c> form</c><00:21:35.220><c> so</c><00:21:35.610><c> now</c><00:21:35.850><c> I'll</c><00:21:36.030><c> see</c><00:21:36.210><c> in</c><00:21:36.270><c> the</c><00:21:36.360><c> next</c>
+
+00:21:36.440 --> 00:21:36.450 align:start position:0%
+normal form so now I'll see in the next
+ 
+
+00:21:36.450 --> 00:21:39.530 align:start position:0%
+normal form so now I'll see in the next
+video<00:21:36.660><c> till</c><00:21:36.900><c> then</c><00:21:37.080><c> bye</c><00:21:37.170><c> bye</c><00:21:37.200><c> take</c><00:21:37.500><c> care</c>
+
