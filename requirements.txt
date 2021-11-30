@@ -2,3 +2,4 @@ youtube_dl
 requests
 webvtt-py
 streamlit
+nltk
