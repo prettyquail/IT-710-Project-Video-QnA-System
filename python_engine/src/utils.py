@@ -1,10 +1,12 @@
 import webvtt
 import requests
 import youtube_dl
+from functools import lru_cache
 from typing import List, Dict
 from urllib.parse import urlparse, parse_qs
 
 
+@lru_cache(maxsize=100)
 def get_transcript_yt(url: str) -> Dict:
     """A simple function to get transcript of a YouTube Video
 
@@ -57,6 +59,7 @@ def get_transcript_yt(url: str) -> Dict:
     return subtitle_data
 
 
+@lru_cache(maxsize=100)
 def vtt_to_corpus(vtt_path: str) -> str:
     """
     This function coverts the vtt fetched from youtube into a
