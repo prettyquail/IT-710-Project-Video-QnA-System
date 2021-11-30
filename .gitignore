@@ -4,3 +4,4 @@ python-engine/src/__pycache__
 .idea/
 new/
 *.pyc
+*.vtt
