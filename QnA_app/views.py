@@ -11,7 +11,7 @@ def home(request):
     answer = None
     question = request.POST.get("ques")
     if URL:
-        timestamp, answer = get_answer_with_timestamp(URL, question)
+        timestamp, answer = get_answer_with_timestamp(str(URL), str(question))
         print("*" * 32, answer, "*" * 32)
         print("Answer:", answer, "Question:", question)
     video_id = get_video_id(URL)
