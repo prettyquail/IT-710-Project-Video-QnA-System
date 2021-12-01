@@ -1,5 +1,7 @@
 import streamlit as st
-from python_engine.src import get_answer_with_timestamp
+
+# from python_engine.src import get_answer_with_timestamp
+from python_engine.src.core import get_answer_with_timestamp_unbatched
 
 
 subs_filename = "subs.vtt"
@@ -21,7 +23,7 @@ with col2:
 
 question = st.sidebar.text_input("Whats your question?")
 if st.sidebar.button("Submit"):
-    answer, timestamp = get_answer_with_timestamp(url, question)
+    answer, timestamp = get_answer_with_timestamp_unbatched(url, question)
     placeholder.video(url, start_time=timestamp)
     st.sidebar.write(answer)
 if st.sidebar.button("Reset"):

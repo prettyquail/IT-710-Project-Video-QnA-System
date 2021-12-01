@@ -14,6 +14,14 @@ from urllib.parse import urlparse, parse_qs
 default_stemmer = PorterStemmer()
 default_stopwords = stopwords.words("english")  # or any other list of your choice
 
+import difflib
+
+
+def get_overlap(s1, s2):
+    s = difflib.SequenceMatcher(None, s1, s2)
+    _, _, size = s.find_longest_match(0, len(s1), 0, len(s2))
+    return size
+
 
 def clean_text(
     text,
@@ -36,10 +44,10 @@ def clean_text(
 
     text = text.strip(" ")  # strip whitespaces
     text = text.lower()  # lowercase
-    text = stem_text(text)  # stemming
-    text = remove_special_characters(text)  # remove punctuation and symbols
-    text = remove_stopwords(text)  # remove stopwords
-    text.strip(" ")  # strip whitespaces again
+    # text = stem_text(text)  # stemming
+    # text = remove_special_characters(text)  # remove punctuation and symbols
+    # text = remove_stopwords(text)  # remove stopwords
+    # text.strip(" ")  # strip whitespaces again
 
     return text
 
@@ -111,7 +119,9 @@ def vtt_to_corpus(vtt_path: str) -> str:
     str
         The extracted corpus
     """
-    corpus = " ".join([caption.text for caption in webvtt.read(vtt_path)])
+    corpus = " ".join(
+        [caption.text.strip(" ").lower() for caption in webvtt.read(vtt_path)]
+    )
     return corpus
 
 
@@ -137,10 +147,14 @@ def search_transcript(target: str, vtt_path: str) -> List[int]:
     List[int]
         List of all matching points in seconds.
     """
+    timestamps = list()
+    for caption in webvtt.read(vtt_path):
+        overlap_score = get_overlap(target, caption.text)
+        if overlap_score > 0:
+            timestamps.append({"start": caption.start, "overlap_score": overlap_score})
     timestamps = [
-        convert_to_secs(caption.start)
-        for caption in webvtt.read(vtt_path)
-        if target in caption.text
+        convert_to_secs(ts["start"])
+        for ts in sorted(timestamps, key=lambda t: t["overlap_score"], reverse=True)
     ]
     return timestamps
 
