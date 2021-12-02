@@ -3,3 +3,5 @@ requests
 webvtt-py
 streamlit
 nltk
+allennlp        
+allennlp-models 
