@@ -1,0 +1,23 @@
+1. Half-Life & Portal - The Complete Story (What You Need to Know!)
+    URL: https://youtu.be/gSMB_ECfRKo
+    Questions:
+        - When was the Black Mesa research corporation established?   
+        - When did the Black Mesa tested the Anti-Mass-Spectrometer?
+        - Who told Eli to "prepare for unforeseen consequences"?
+        - What would help accelerate research into the portal technology?
+
+2. Omicron Virus Variant | Is it Dangerous? | COVID Mutation | Dhruv Rathee
+    URL: https://youtu.be/l11_-f6D-XA
+    Questions:
+        - Where was Lambda variant discovered?
+        - What are the variants of Interest?
+        - How many people die of Flu every year?
+        - How many mutations have been seen in omicron variant?
+
+3. How does a Mouse know when you move it? || How Does a Computer Mouse Work?
+    URL: https://youtu.be/SAaESb4wTCM
+    Questions:
+        - What is the image acquisition system composed of?
+        - Where the cross-correlation algorithm executed?
+        - What is the main difference between gaming and non-gaming mice?
+        - How higher DPIs are achieved?
