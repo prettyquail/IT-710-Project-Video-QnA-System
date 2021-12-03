@@ -2,4 +2,4 @@ youtube_dl
 requests
 webvtt-py
 django
-pyqna
+
