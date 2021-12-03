@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+{% load static %}
+<html xmlns="http://www.w3.org/1999/html">
+
+<head>
+
+
+
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@356&display=swap" rel="stylesheet">
+
+
+  <title></title>
+
+  <style type="text/css">
+    .rec {
+      border-radius: 1vw;
+      background: #B8CF76;
+      padding: 20px;
+      margin-top: 38px;
+      width: 82%;
+      height: 440px;
+    }
+
+    .button4 {
+      background-color: #7D2AE8;
+      border-radius: 12px;
+      border: none;
+      color: white;
+      padding: 10px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      display: inline-block;
+    }
+
+    .button4:hover {
+      background-color: #8e46ec;
+    }
+
+    #button5 {
+      background-color: #7D2AE8;
+      border-radius: 12px;
+      border: none;
+      color: white;
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+      margin: 4px 2px;
+      cursor: pointer;
+      display: inline-block;
+    }
+
+    #button5:hover {
+      background-color: #8e46ec;
+    }
+
+
+    .form-rounded {
+      border-radius: 0.5rem;
+      width: 50%;
+      height: 40px;
+      margin-right: 20px;
+    }
+
+
+
+
+
+
+
+
+
+    .back {
+      background: linear-gradient(120grad, #643986, #98aed5);
+      position: absolute;
+    }
+
+    .registration-form {
+      width: 700px;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, 0%);
+      top: 70%;
+      background: transparent;
+    }
+
+    .registration-form header {
+      position: relative;
+      z-index: 4;
+      background: white;
+      padding: 20px 40px;
+      border-radius: 15px 15px 0 0;
+    }
+
+    .registration-form header h1 {
+      font-weight: 900;
+      letter-spacing: 1.5px;
+      color: #333;
+      font-size: 23px;
+      text-transform: uppercase;
+      margin: 0;
+    }
+
+    .registration-form header p {
+      word-spacing: 0px;
+      color: #9facb6;
+      font-size: 17px;
+      margin: 0;
+      margin-top: 5px;
+    }
+
+    .registration-form form {
+      position: relative;
+    }
+
+    .registration-form .input-section {
+      width: 100%;
+      position: absolute;
+      display: flex;
+      left: 50%;
+      transform: translate(-50%, 0);
+      height: 75px;
+      border-radius: 0 0 15px 15px;
+      overflow: hidden;
+      z-index: 2;
+      box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
+      transition: all 0.2s ease-in;
+    }
+
+    .registration-form .input-section.folded {
+      width: 95%;
+      margin-top: 10px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      z-index: 1;
+    }
+
+    .registration-form .input-section.folded input {
+      background-color: #e9e2c0;
+    }
+
+    .registration-form .input-section.folded span {
+      background-color: #e9e2c0;
+    }
+
+    .registration-form .input-section.folded+.folded {
+      width: 90%;
+      margin-top: 20px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      z-index: 0;
+    }
+
+    .registration-form .input-section.folded+.folded input {
+      background-color: #e1bcef;
+    }
+
+    .registration-form .input-section.folded+.folded span {
+      background-color: #e1bcef;
+    }
+
+    .registration-form .input-section.fold-up {
+      margin-top: -75px;
+    }
+
+    .registration-form form input {
+      background: white;
+      color: #8f8fd6;
+      width: 80%;
+      border: 0;
+      padding: 20px 40px;
+      margin: 0;
+    }
+
+    .registration-form form input:focus {
+      outline: none;
+    }
+
+    .registration-form form input::-moz-placeholder {
+      color: #8f8fd6;
+      font-weight: 100;
+    }
+
+    .registration-form form input:-ms-input-placeholder {
+      color: #8f8fd6;
+      font-weight: 100;
+    }
+
+    .registration-form form input::placeholder {
+      color: #8f8fd6;
+      font-weight: 100;
+    }
+
+    .animated-button {
+      width: 20%;
+      background-color: #d4d4ff;
+    }
+
+    .animated-button span {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      line-height: 75px;
+      text-align: center;
+      height: 75px;
+      transition: all 0.2s ease-in;
+    }
+
+    .animated-button span i {
+      font-size: 25px;
+      color: #9999f8;
+    }
+
+    .animated-button .next-button {
+      background: transparent;
+      color: #9999f8;
+      font-weight: 100;
+      width: 100%;
+      border: 0;
+    }
+
+    .next {
+      margin-top: -75px;
+    }
+
+    .success {
+      width: 100%;
+      position: relative;
+      display: flex;
+      align-items: center;
+      left: 50%;
+      transform: translate(-50%, 0);
+      height: 75px;
+      border-radius: 0 0 15px 15px;
+      overflow: hidden;
+      z-index: 2;
+      box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
+      transition: all 0.2s ease-in;
+      background: limegreen;
+      margin-top: -75px;
+    }
+
+    .success p {
+      color: white;
+      font-weight: 900;
+      letter-spacing: 2px;
+      font-size: 18px;
+      width: 100%;
+      text-align: center;
+    }
+
+
+  .answerbox
+{
+height: 100%; /*Specify Height*/
+width:  50%; /*Specify Width*/
+border: 1px solid black; /*Add 1px solid border, use any color you want*/
+background-color: green; /*Add a background color to the box*/
+text-align:center; /*Align the text to the center*/
+align:left;
+}
+
+
+
+
+    .container {
+      position: relative;
+      width: 100%;
+      height: 50%;
+      overflow: hidden;
+      padding-top: 50%;
+    }
+
+    .responsive-iframe {
+      position: absolute;
+      top: 0;
+      /*left: 0;*/
+      bottom: 0;
+      /*right: 0;*/
+      width: 50%;
+      height: 50%;
+      border: none;
+    }
+
+
+    .showcase
+{
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2;
+}
+.showcase.active
+{
+  right: 300px;
+}
+
+.showcase video
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+
+
+#myVideo{
+width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+<!--body{-->
+<!--background-image:url("{% static 'bgvideo.mp4' %}");-->
+<!--}-->
+  </style>
+</head>
+
+<body style="font-family: 'Open Sans', sans-serif;">
+<video autoplay muted loop id="myVideo">
+  <source src="{% static 'bgvideo.mp4' %}" type="video/mp4">
+</video>
+
+<section>
+
+  <center>
+
+    <div class="rec">
+
+      <form id="post-form" action="" method="GET">
+        {% csrf_token %}
+        <input class="form-rounded" type="text" id="URL" name="URL">
+        <input class="button4" type="submit" name="Load Video" value="Load Video">
+      </form>
+
+        <div style="float:left;height:10px;width:50%">
+        <h1 style="color: white;font-size:65px;font-weight: bold;width:80%">Video QnA System</h1>
+        <h2 style="font-weight: bold;font-size:30px;width:100%;">A simple tool to make searching through videos easy
+        </h2>
+      </div>
+
+      <div class="container">
+        <div style="float:right;width:100%">
+        {% if turl %}
+          <iframe class="responsive-iframe" src={{turl}}></iframe>
+        {% else %}
+          <iframe class="responsive-iframe" src={{url}}></iframe>
+        {% endif %}
+        </div>
+      </div>
+    </div>
+
+  </center>
+
+
+
+
+
+
+
+
+
+  <div class="back"></div>
+  <div class="registration-form">
+    <header>
+      <h1>What's your Question?</h1>
+      <div>
+        {% if answer %}
+      <p style="color:black;"><b>Answer:</b> {{answer}}</p>
+    {% endif %}
+    </div>
+    </header>
+    <form action="" id="task-form" method="POST">
+      {% csrf_token %}
+      <div class="input-section email-section">
+        <input class="email" type="text" name="ques" id="ques" placeholder="ENTER YOUR QUESTION HERE"
+          autocomplete="off" />
+        <div class="animated-button">
+          <span class="icon-paper-plane">
+            <input type="submit" name="submit" id="button5" class="fa fa-envelope-o">
+          </span>
+        </div>
+      </div>
+<!--      <div class="input-section password-section folded">-->
+<!--        <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button password"><i class="fa fa-arrow-up"></i></span></div>-->
+<!--      </div>-->
+<!--      <div class="input-section repeat-password-section folded">-->
+<!--        <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />-->
+<!--        <div class="animated-button"><span class="icon-repeat-lock"><i class="fa fa-lock"></i></span><span-->
+<!--            class="next-button repeat-password"><i class="fa fa-paper-plane"></i></span></div>-->
+<!--      </div>-->
+
+    </form>
+
+
+  </div>
+
+
+
+</section>
+
+
+<script type="text/javascript">
+  $(document).on('submit','#post-form',function(e){
+    e.preventDefault();
+
+    $.ajax({
+      type:'GET',
+      url:'home',
+      data:{
+        URL:$('#URL').val(),
+      },
+      success.function(){
+        alert("Your answer");
+      }
+
+    });
+
+  });
+
+</script>
+
+
+
+
+<script type="text/javascript">
+  $(document).on('submit','#task-form',function(e){
+    e.preventDefault();
+
+    $.ajax({
+      type:'POST',
+      url:'home',
+      data:{
+        ques:$('#ques').val(),
+        console.log("----------------"+ques),
+      },
+      success.function(){
+        alert("Your answer");
+      }
+
+    });
+
+  });
+
+</script>
+
+
+
+
+<!--  <script type="text/javascript">-->
+
+<!--    $('#form').submit(function (e) {-->
+<!--      $.post('/url/', $(this).serialize(), function (data) { ...-->
+<!--        $('.message').html(data.message);-->
+<!--      // of course you can do something more fancy with your respone-->
+<!--    });-->
+<!--    e.preventDefault();-->
+<!--});-->
+<!--  </script>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>

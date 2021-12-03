@@ -1,0 +1,7 @@
+.venv
+.vscode
+python-engine/src/__pycache__
+.idea/
+new/
+env/
+*.pyc
