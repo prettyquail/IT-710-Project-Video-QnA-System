@@ -1,0 +1,147 @@
+[MUSIC PLAYING] Six lines of code
+is all it takes to write your first
+Machine Learning program. My name's Josh
+Gordon, and today I'll walk you through writing Hello
+World for Machine learning. In the first few
+episodes of the series, we'll teach you how to
+get started with Machine Learning from scratch. To do that, we'll work with
+two open source libraries, scikit-learn and TensorFlow. We'll see scikit in
+action in a minute. But first, let's talk quickly
+about what Machine Learning is and why it's important. You can think of Machine
+Learning as a subfield of artificial intelligence. Early AI programs typically
+excelled at just one thing. For example, Deep
+Blue could play chess at a championship level,
+but that's all it could do. Today we want to
+write one program that can solve many problems without
+needing to be rewritten. AlphaGo is a great
+example of that. As we speak, it's competing
+in the World Go Championship. But similar software can also
+learn to play Atari games. Machine Learning is what
+makes that possible. It's the study of
+algorithms that learn from examples
+and experience instead of relying
+on hard-coded rules. So that's the state-of-the-art. But here's a much
+simpler example we'll start coding up today. I'll give you a problem
+that sounds easy but is impossible to solve
+without Machine Learning. Can you write code to
+tell the difference between an apple and an orange? Imagine I asked you to write
+a program that takes an image file as input,
+does some analysis, and outputs the types of fruit. How can you solve this? You'd have to start by
+writing lots of manual rules. For example, you
+could write code to count how many orange pixels
+there are and compare that to the number of green ones. The ratio should give you a
+hint about the type of fruit. That works fine for
+simple images like these. But as you dive deeper
+into the problem, you'll find the real world
+is messy, and the rules you write start to break. How would you write code to
+handle black-and-white photos or images with no apples
+or oranges in them at all? In fact, for just about
+any rule you write, I can find an image
+where it won't work. You'd need to write
+tons of rules, and that's just to tell the
+difference between apples and oranges. If I gave you a new problem, you
+need to start all over again. Clearly, we need
+something better. To solve this, we
+need an algorithm that can figure out
+the rules for us, so we don't have to
+write them by hand. And for that, we're going
+to train a classifier. For now you can think of a
+classifier as a function. It takes some data as input
+and assigns a label to it as output. For example, I
+could have a picture and want to classify it
+as an apple or an orange. Or I have an email, and
+I want to classify it as spam or not spam. The technique to
+write the classifier automatically is called
+supervised learning. It begins with examples of
+the problem you want to solve. To code this up, we'll
+work with scikit-learn. Here, I'll download and
+install the library. There are a couple
+different ways to do that. But for me, the easiest
+has been to use Anaconda. This makes it easy to get
+all the dependencies set up and works well cross-platform. With the magic of
+video, I'll fast forward through downloading
+and installing it. Once it's installed,
+you can test that everything is
+working properly by starting a Python script
+and importing SK learn. Assuming that worked, that's
+line one of our program down, five to go. To use supervised
+learning, we'll follow a recipe with
+a few standard steps. Step one is to
+collect training data. These are examples of the
+problem we want to solve. For our problem, we're
+going to write a function to classify a piece of fruit. For starters, it will take
+a description of the fruit as input and
+predict whether it's an apple or an orange as
+output, based on features like its weight and texture. To collect our
+training data, imagine we head out to an orchard. We'll look at different
+apples and oranges and write down measurements
+that describe them in a table. In Machine Learning
+these measurements are called features. To keep things simple,
+here we've used just two-- how much each fruit weighs in
+grams and its texture, which can be bumpy or smooth. A good feature makes
+it easy to discriminate between different
+types of fruit. Each row in our training
+data is an example. It describes one piece of fruit. The last column is
+called the label. It identifies what type
+of fruit is in each row, and there are just
+two possibilities-- apples and oranges. The whole table is
+our training data. Think of these as
+all the examples we want the classifier
+to learn from. The more training data you
+have, the better a classifier you can create. Now let's write down our
+training data in code. We'll use two variables--
+features and labels. Features contains the
+first two columns, and labels contains the last. You can think of
+features as the input to the classifier and labels
+as the output we want. I'm going to change the
+variable types of all features to ints instead of strings,
+so I'll use 0 for bumpy and 1 for smooth. I'll do the same for our
+labels, so I'll use 0 for apple and 1 for orange. These are lines two and
+three in our program. Step two in our recipes to
+use these examples to train a classifier. The type of classifier
+we'll start with is called a decision tree. We'll dive into
+the details of how these work in a future episode. But for now, it's OK to think of
+a classifier as a box of rules. That's because there are many
+different types of classifier, but the input and output
+type is always the same. I'm going to import the tree. Then on line four of our script,
+we'll create the classifier. At this point, it's just
+an empty box of rules. It doesn't know anything
+about apples and oranges yet. To train it, we'll need
+a learning algorithm. If a classifier
+is a box of rules, then you can think of
+the learning algorithm as the procedure
+that creates them. It does that by finding
+patterns in your training data. For example, it might notice
+oranges tend to weigh more, so it'll create a rule saying
+that the heavier fruit is, the more likely it
+is to be an orange. In scikit, the
+training algorithm is included in the classifier
+object, and it's called Fit. You can think of Fit as being
+a synonym for "find patterns in data." We'll get into
+the details of how this happens under the
+hood in a future episode. At this point, we have
+a trained classifier. So let's take it for a spin and
+use it to classify a new fruit. The input to the classifier is
+the features for a new example. Let's say the fruit
+we want to classify is 150 grams and bumpy. The output will be 0 if it's an
+apple or 1 if it's an orange. Before we hit Enter and see
+what the classifier predicts, let's think for a sec. If you had to guess, what would
+you say the output should be? To figure that out, compare
+this fruit to our training data. It looks like it's
+similar to an orange because it's heavy and bumpy. That's what I'd guess
+anyway, and if we hit Enter, it's what our classifier
+predicts as well. If everything
+worked for you, then that's it for your first
+Machine Learning program. You can create a new
+classifier for a new problem just by changing
+the training data. That makes this approach
+far more reusable than writing new rules
+for each problem. Now, you might be wondering
+why we described our fruit using a table of features
+instead of using pictures of the fruit as training data. Well, you can use
+pictures, and we'll get to that in a future episode. But, as you'll see later
+on, the way we did it here is more general. The neat thing is that
+programming with Machine Learning isn't hard. But to get it right,
+you need to understand a few important concepts. I'll start walking you through
+those in the next few episodes. Thanks very much for watching,
+and I'll see you then. [MUSIC PLAYING]

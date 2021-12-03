@@ -10,11 +10,19 @@ def home(request):
     print("URL=", URL)
     answer = None
     question = request.POST.get("ques")
-    if URL:
-        timestamp, answer = get_answer_with_timestamp(URL, question)
+    video_id = get_video_id(URL)
+    timestamp, context = 0, {"turl": "https://www.youtube.com/embed/" + "HcqpanDadyQ"}
+    if URL and question:
+        # timestamp, answer = get_answer_with_timestamp(URL, question)
+        timestamp, answer = 32, "returned answer"
         print("*" * 32, answer, "*" * 32)
         print("Answer:", answer, "Question:", question)
-    video_id = get_video_id(URL)
-    url = "https://www.youtube.com/embed/" + (video_id if video_id else "HcqpanDadyQ")
-    print(url)
-    return render(request, "home.html", {"url": url})
+
+        Turl = (
+            "https://www.youtube.com/embed/"
+            + video_id
+            + f"{URL}?start={timestamp}&autoplay=1"
+        )
+        context = {"answer": answer, "turl": Turl}
+
+    return render(request, "home.html", context)
