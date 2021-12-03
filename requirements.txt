@@ -1,5 +1,9 @@
 youtube_dl
 requests
 webvtt-py
+streamlit
+nltk
+allennlp        
+allennlp-models 
+pyqna
 django
-
