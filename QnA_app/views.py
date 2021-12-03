@@ -1,9 +1,6 @@
-from django.shortcuts import *
 import json
-
-from python_engine.src import (
-    get_video_id,
-)
+from django.shortcuts import *
+from python_engine.src import get_video_id, get_answer_with_timestamp
 
 
 def home(request):
@@ -14,8 +11,7 @@ def home(request):
     video_id = "HcqpanDadyQ" if not URL else get_video_id(URL)
     timestamp, context = 0, {"turl": "https://www.youtube.com/embed/" + "HcqpanDadyQ"}
     if URL and question:
-        # timestamp, answer = get_answer_with_timestamp(URL, question)
-        timestamp, answer = 32, "returned answer"
+        answer, timestamp = get_answer_with_timestamp(URL, question)
         print("*" * 32, answer, "*" * 32)
         print("Answer:", answer, "Question:", question)
 
@@ -30,7 +26,9 @@ def home(request):
         Turl = "https://www.youtube.com/embed/" + get_video_id(URL)
         context = {"answer": answer, "turl": Turl}
     elif question:
-        timestamp, answer = 32, "returned answer"
+        answer, timestamp = get_answer_with_timestamp(
+            "https://www.youtube.com/watch?v=" + "HcqpanDadyQ", question
+        )
         Turl = (
             "https://www.youtube.com/embed/"
             + "HcqpanDadyQ"
