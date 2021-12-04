@@ -36,6 +36,6 @@ def home(request):
         )
         context = {"answer": answer, "turl": Turl}
     else:
-        print("You're fucked!!")
+        print("Something went wrong!!")
 
     return render(request, "home.html", context)
