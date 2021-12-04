@@ -2,10 +2,12 @@
 # IT-710-Project-Video-QnA-System
 
 ## About:
-The aim of our project is that we want to perform a semantic search on videos in a computationally efficient manner with the help of the URL provided by the user and to solve all the problems identified by making a simple tool. This project focuses on new techniques and approaches to develop a video question answering system.
+* The aim of our project is that we want to perform a semantic search on videos in a computationally efficient manner with the help of the URL provided by the user and to solve all the problems identified by making a simple tool. This project focuses on new techniques and approaches to develop a video question answering system.
 
-You can find an introductory video up [here](https://youtu.be/LwHQm7HycLo).
-You can find the project report up [here]().
+* You can find an introductory video up [here](https://youtu.be/LwHQm7HycLo).
+
+* You can find the project report up [here](https://docs.google.com/document/d/1enCMVpbb-w6UhvvcZaBCS29bSEqQ0XkKK6aGNR9PjGI/edit?usp=sharing).
+
 ## How to setup:
 >Currently we only support Linux and MacOS.
 
